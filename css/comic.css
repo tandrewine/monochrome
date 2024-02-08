@@ -1,0 +1,277 @@
+body {
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg1.png) !important;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+/*
+BACKGROUND IMAGES
+*/
+
+.p15-46 body {
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg2.png) !important;
+}
+
+.p52-91 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg3-4.png) !important;
+}
+
+.p92-120 body{
+  background-image: url(../img/backgrounds/bg2.png) !important;
+}
+
+.p121-144 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg1.png) !important;
+}
+
+.p145-149 body{
+  background-image: url(../img/backgrounds/bg2.png) !important;
+}
+
+.p150-185 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg1.png) !important;
+}
+
+.p186-212 body{
+  background-image: url(../img/backgrounds/bg2.png) !important;
+}
+
+.p193 body{
+  background-image: url(../img/backgrounds/bg2-2.gif) !important;
+}
+
+.p213-228 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg4.png) !important;
+}
+
+.p229-230 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg1.png) !important;
+}
+
+.p231-272 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg4.png) !important;
+}
+
+.p273-317 body{
+  background-image: url(../img/backgrounds/bg2.png) !important;
+}
+
+.p318-349 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg5.png) !important;
+}
+
+.p350-384 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg7.png) !important;
+}
+
+.p385-403 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg8.png) !important;
+}
+
+.p404-460 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg7-3.png) !important;
+}
+
+.p461-473 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg9-2.png) !important;
+}
+
+.p494-547 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg7-3.png) !important;
+}
+
+.p548-625 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg6.png) !important;
+}
+
+.p627-660 body{
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg5.png) !important;
+}
+
+/*
+PAGE 2
+*/
+
+.p2-4 #main::after {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p2-4 #comic, .p2-4 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 81-84
+*/
+
+.p81-84 #main::after {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p81-84 #comic, .p81-84 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 256-261
+*/
+
+.p253-258 #main::after {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1
+}
+.p253-258 #comic, .p253-258 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 279-310
+*/
+
+.p277-308 #main::after {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1
+}
+.p277-308 #comic, .p277-308 .comicPage {
+  color: black;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 311-321
+*/
+
+.p309-317 #main::after {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p309-317 #comic, .p309-317 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 321-351
+*/
+
+.p318-349 .comicPage {
+  background-color: rgb(45, 46, 46);
+  color: white !important;
+}
+
+/*
+PAGES 406-448
+*/
+
+.p404-444 #main::after {
+  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/ezgif-3-7965072ccc.gif) !important;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  background-attachment: fixed;
+  background-size: cover;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p404-444 #comic, .p404-444 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 475-495
+*/
+
+.p473-493 #main::after {
+  background-color: black !important;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p473-493 #comic, .p473-493 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGE 618
+*/
+
+.p616-617 #main::after {
+  background-color: black !important;
+  width: 100%;
+  height: 100%;
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.p616-617 #comic, .p616-617 .comicPage {
+  color: white;
+  background-color: #0000;
+  position: relative;
+  z-index: 2;
+}
+
+/*
+PAGES 627-660
+*/
+
+.p627-660 .comicPage {
+  background-color: rgb(45, 46, 46);
+  color: white !important;
+}

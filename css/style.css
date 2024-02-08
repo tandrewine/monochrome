@@ -1,0 +1,433 @@
+/* CUSTOM FONT */
+
+@font-face {
+  font-family: 'Mango-Regular';
+  src: url('../img/fonts/Mango-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.shake, .wave, .textfx {
+	display: inline-block;
+}
+
+shake > span.shake {
+  animation: none !important;
+}
+
+wave, shake.wave {
+  --amt: 1;
+}
+
+.wave .shake, .wave {
+	animation: wave 2s linear infinite;
+}
+.wave .shake:nth-child(5n+3), .wave:nth-child(5n+3) {
+	animation-delay: -0.4s;
+}
+.wave .shake:nth-child(5n+2), .wave:nth-child(5n+2) {
+	animation-delay: -0.8s;
+}
+.wave .shake:nth-child(5n+1), .wave:nth-child(5n+1) {
+	animation-delay: -1.2s;
+}
+.wave .shake:nth-child(5n), .wave:nth-child(5n) {
+	animation-delay: -1.6s;
+}
+
+@keyframes wave {
+	from { transform: rotate(0deg) translateX(calc(var(--amt) * 0.05ch)) rotate(0deg); }
+	to { transform: rotate(360deg) translateX(calc(var(--amt) * 0.05ch)) rotate(-360deg); }
+}
+
+/* TEXT FORMATTING */
+
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.hero {
+  color: #a8a8a8;
+}
+.camille {
+  color: #bebebe;
+  text-shadow:
+    1px 1px 1px #5b5b5b;
+}
+.godsmack {
+  color: #858585;
+}
+.title {
+  font-family: 'Courier New';
+  font-weight: bold;
+  font-size: 35px;
+}
+.tiny {
+  font-size: 20px;
+}
+.small {
+  font-size: 25px;
+}
+.big {
+  font-size: 50px;
+}
+.huge {
+  font-size: 70px;
+}
+.giant {
+  font-size: 100px;
+}
+.ix-huge {
+  font-size: 500px;
+}
+
+/* CUSTOM CURSOR */
+
+html {
+  overflow-x: hidden;
+  cursor: url('../img/cursor.png'), default;
+}
+
+a, button, input[type="checkbox"], .bookmarkedRow:hover, .archiveRow:hover {
+  cursor: url('../img/cursor-hover.png'), auto;
+}
+
+.spoilers {
+  border: 2px dashed gray;
+  border-radius: 10px;
+  padding: 30px;
+  margin: 20px;
+  text-align: left;
+}
+
+body, div, main, section, article {
+  box-sizing: border-box; 
+}
+
+/* universal background */
+body {
+  background-image: url('../img/backgrounds/bg1.png');
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.writeCommentary:empty {
+  display: none;
+}
+.writeCommentary {
+  display: table;
+  text-align: center;
+  width: 750px;
+  max-width: 1200px;
+  margin: 7px auto 23px auto;
+  padding: 10px;
+  word-wrap: break-word;
+  word-break: break-word;
+  background-color: #eeeeee;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+/* header image */
+header img {
+  width: 800px;
+}
+
+/* clearfix hack to prevent image overflow. check out the W3Schools page on it. */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* BOOKMARKS */
+
+[class="bookmark"] {
+  content: url('../img/comicnav/bookmark_off.png');
+  display: block;
+  width: 35px;
+  transition: ease 0.2s;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+[class="bookmark"]:hover {
+  transform: scale(1.1);
+}
+[class="bookmark"]:active {
+  transform: scale(0.9);
+}
+[class="bookmark"]:checked {
+  content: url('../img/comicnav/bookmark_on.png');
+}
+
+/*FONTS*/
+
+/* header font */
+#comic, header, h1, h2, h3, h4, h5 {
+  font-family: 'Mango-Regular', 'Courier New';
+  font-size: 50px;
+}
+h1, h2, h3, h4, h5 {
+  margin: auto;
+}
+h1 { 
+  font-size: 70px;
+}
+
+/* body font */
+.subPage p, footer, #authorNotes, .archiveTable {
+  font-family: 'Mango-Regular', 'Courier New';
+  font-size: 25px;
+}
+
+/* STYLING FOR SUBPAGES (about, characters, etc) */
+
+/*general*/
+
+.mapPage {
+  margin-top: 40px;
+}
+
+.archivePage {
+  text-align: center;
+  width: 1000px;
+  max-width: 98%;
+  background-color: #eeeeee;
+  padding: 25px;
+  margin: auto;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+/* for pictures displayed to the left */
+.leftPic {
+  clear: left;
+  float:right;
+  margin-left:20px;
+}
+
+/* for pictures displayed to the left */
+.rightPic {
+  clear: right;
+  float:left;
+  margin-left:20px;
+}
+
+/* specific to Characters */
+.charTable, .charTable td { 
+  width: 100%;
+}
+
+/* link colors */
+a {
+  color: #c7c7c7;
+  transition: ease 0.2s;
+}
+a:hover {
+  color: #646464;
+}
+
+.comicPage a {
+  color: #797979;
+}
+.comicPage a:hover {
+  color: #4a4a4a;
+}
+
+/* HEADER */
+header img {
+  transition: ease 0.2s;
+}
+header img:hover {
+  transform: scale(1.025);
+}
+
+header #nav {
+  text-align: center;
+  background-color: #000000;
+  outline: 3px solid #000000;
+  font-size: 30px;
+  padding-top: 5px;
+  margin: auto;
+}
+header #nav a {
+  color: #ffffff;
+  padding-right: 30px;
+  text-decoration: none;
+}
+header #nav a:hover {
+  color: #b3b3b3;
+  font-size: 110%;
+}
+header #nav a:active {
+  color: #b3b3b3;
+  font-size: 90%;
+}
+
+/* HOMEPAGE */
+
+/* style nav button images */
+.comicNav {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0px;
+}
+.comicNav img:hover {
+  transform: scale(1.08);
+}
+.comicNav img:active {
+  transform: scale(0.92);
+}
+.comicNav img {
+  width: 80px;
+  padding-right: 30px;
+  transition: ease 0.2s;
+}
+
+#comic {
+  width: 940px;
+  margin: 0 auto;
+  padding: 0 5px 5px 5px;
+  padding-top: 10px;
+}
+
+.writePageTitle {
+  color: white;
+  text-shadow:
+      3px 3px 0 #000,
+    -2px -2px 0 #000,  
+     2px -2px 0 #000,
+     -2px 2px 0 #000,
+      2px 2px 0 #000;
+}
+
+/* style comic page image */
+.comicPage {
+  display: table;
+  text-align: center;
+  width: 750px;
+  max-width: 1200px;
+  margin: 7px auto 23px auto;
+  padding: 40px;
+  word-wrap: break-word;
+  word-break: break-word;
+  background-color: #eeeeee;
+  border-radius: 10px;
+  font-size: 30px;
+}
+.comicPage img {
+  max-width: 650px;
+  max-width: 98%;
+  border-radius: 7px;
+}
+
+
+/* ARCHIVE PAGE */
+
+/* style table in which archive is displayed */
+.archiveTable {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+}
+
+/* style archive table cells */
+.archiveTable td {
+  padding: 3px;
+  vertical-align: center;
+}
+
+/* style table cell in which page title is displayed */
+.archiveCellBookmark {
+  width: 50px;
+}
+
+.archiveCellTitle:not(.leftAlignTableText) {
+  max-width: 800px;
+  width: 800px !important;
+  text-align: center;
+
+}
+
+.archiveCellDate {
+  text-align: right;
+  width: 120px;
+}
+
+.archiveCellNum {
+  text-align: center;
+  min-width: 30px;
+}
+
+/* style the thumbnails on the archive page */
+.archiveCellThumb {
+    width: 500px;
+    max-width: 60px;
+}
+.archiveCellThumb img{
+    max-width: 100%;
+  }
+
+/* for left aligning the text in a table cell */
+.leftAlignTableText td {
+  text-align: left;
+}
+
+/* highlight a table row and make pointer into hand when moused over */
+.archiveRow, .bookmarkedRow {
+  font-size: 20px;
+  transition: ease 0.2s;
+}
+.archiveRow:hover, .bookmarkedRow:hover {
+  font-size: 23px;
+}
+.archiveRow:hover {
+  background-color: #c7c7c7;
+}
+.bookmarkedRow {
+  background-color: #c7c7c7;
+}
+.bookmarkedRow:hover {
+  background-color: #a7a7a7;
+}
+.archivePage h1, .archivePage h2 {
+  margin-left: -50px;
+}
+
+
+
+/* FOOTER */
+footer {
+  padding: 5px;
+  background-color: black;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  color: #ffffff;
+  margin-top: 50px;
+  float: left;
+  width: 100%;
+}
+footer img {
+  transition: ease 0.2s;
+}
+footer img:hover {
+  transform: scale(1.03);
+}
+footer p {
+  margin: auto;
+}
+
+/* take away margins from the edges of the screen */
+html, body {
+  margin: auto;
+}
+
