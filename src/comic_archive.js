@@ -81,7 +81,7 @@ function writeArchive(divClass, min, max, reverseOrder=-1, useThumbs=false,useNu
         });
 
         if (isBookmarked(i)) {
-            cellBookmark.innerHTML = `<img src="/public/comicnav/bookmark_on.png" width=20px>`;
+            cellBookmark.innerHTML = `<img src="/comicnav/bookmark_on.png" width=20px>`;
             cellBookmark.setAttribute("class", "archiveCellBookmark");
         }
 
