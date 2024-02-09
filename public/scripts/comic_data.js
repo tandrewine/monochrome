@@ -3,7 +3,7 @@ const pgData = [
         title: "",
         date: writeDate(2020, 3, 7),
         content: `
-            <img src='/src/assets/title.gif' height="329px" width="660px">
+            <img src='/assets/title.gif' height="329px" width="660px">
 
             <div class=spoilers>
             <div class=center>
@@ -17,13 +17,13 @@ const pgData = [
         title: "PRELUDE I",
         date: writeDate(2022, 2, 15),
         content: `
-            <img src='/src/assets/pages/pg0-1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg0-1.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
             Do you remember the first thing that you said to me?
             </div>
             <br>
 
-            <img src='/src/assets/pages/pg0-2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg0-2.png' height="650px" width="650px"><br><br>
             
             <div class=spoilers>
             It wasn't to me, specifically, but it was our first exchange.
@@ -32,7 +32,7 @@ const pgData = [
             </div>
             <br>
 
-            <img src='/src/assets/pages/pg0-3.png' height="650px" width="650px">
+            <img src='/assets/pages/pg0-3.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -40,7 +40,7 @@ const pgData = [
             <br><br>
             'Love thy neighbor. That is all.'
             </div>
-            <img src='/src/assets/pages/pg0-4.png' height="650px" width="650px">
+            <img src='/assets/pages/pg0-4.png' height="650px" width="650px">
 
             <div class=spoilers>
             I remember feeling so... <shake>angry</shake>.
@@ -49,21 +49,21 @@ const pgData = [
             </div>
             <br>
 
-            <img src='/src/assets/pages/pg0-5.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg0-5.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Now that I do, I wish I had never loved you.
             </div>
             <br>
 
-            <img src='/src/assets/pages/pg0-6.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg0-6.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Why?
             </div>
             <br><br>
 
-            <img src='/src/assets/pages/pg0-5.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg0-5.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Why did you have to prove me wrong?
@@ -75,7 +75,7 @@ const pgData = [
         title: "",
         date: writeDate(2022, 2, 15),
         content: `
-            <img src='/src/assets/stages/stage1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/stages/stage1.png' height="650px" width="650px"><br><br>
         `,
         authorNotes: "",
     },
@@ -83,10 +83,10 @@ const pgData = [
         title: "Wake up.",
         date: writeDate(2020, 3, 8),
         content: `
-            <img src='/src/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg1-2.png' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg1-3.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg1-2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg1-3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -94,8 +94,8 @@ const pgData = [
         title: "",
         date: writeDate(2020, 3, 8),
         content: `
-            <img src='/src/assets/pages/pg2.png' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg1-1.png' height="650px" width="650px"><br><br>
             ...You can't seem to remember your name.
             `,
         authorNotes: "",
@@ -104,7 +104,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='/src/assets/pages/pg3.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -112,10 +112,10 @@ const pgData = [
         title: `Stand.`,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='/src/assets/pages/pg4-1.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg4-1.png' height="650px" width="650px"><br><br>
             You stand, dusting yourself off, and while attempting to get your bearings, you notice the brilliant, shining planet that sits across from you.
             <br><br>
-            <img src='/src/assets/pages/pg4-2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg4-2.png' height="650px" width="650px"><br><br>
             To its right is an enormous tree, one which extends exceptionally high, so much so that you can neither see where it starts nor where it ends.
             `,
         authorNotes: "",
@@ -124,7 +124,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='/src/assets/pages/pg5.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg5.png' height="650px" width="650px"><br><br>
             You find that the chunk of earth on which you stand is precariously attached to a crumbling monolith of dirt and rock.
             <br><br>
             You have no idea how you could've possibly found your way up here.
@@ -135,7 +135,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='/src/assets/pages/pg7.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg7.png' height="650px" width="650px"><br><br>
             Perhaps, this commanding presence can attempt to... aid you?
             `,
         authorNotes: "",
@@ -144,7 +144,7 @@ const pgData = [
         title: `Eat dirt.`,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='/src/assets/pages/pg8.png' height="650px" width="630px"><br><br>
+            <img src='/assets/pages/pg8.png' height="650px" width="630px"><br><br>
             ...Perhaps not.
             `,
         authorNotes: "",
@@ -153,10 +153,10 @@ const pgData = [
         title: `Examine the dark planet.`,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='/src/assets/pages/pg9.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg9.png' height="650px" width="650px"><br><br>
             Dark... planet...?<br><br>
-            <img src='/src/assets/pages/pg9-2.png' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg9-3.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg9-2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg9-3.png' height="650px" width="650px"><br><br>
             ...Better get a move on before nightfall.
             `,
         authorNotes: "",
@@ -165,7 +165,7 @@ const pgData = [
         title: `Dance.`,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='/src/assets/pages/pg10.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg10.png' height="650px" width="650px"><br><br>
             ...
             `,
         authorNotes: "",
@@ -174,7 +174,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='/src/assets/pages/pg11.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg11.png' height="650px" width="650px"><br><br>
             Sure. Fuck it. Let's dance.
             `,
         authorNotes: "",
@@ -193,7 +193,7 @@ const pgData = [
         title: `Confirm you are still alive.`,
         date: writeDate(2020, 3, 14),
         content: `
-            <img src='/src/assets/pages/pg13.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg13.gif' height="650px" width="650px"><br><br>
             You cannot confirm you are alive, because you are now someone else.
             `,
         authorNotes: "",
@@ -202,7 +202,7 @@ const pgData = [
         title: `Good day.`,
         date: writeDate(2020, 3, 14),
         content: `
-            <img src='/src/assets/pages/pg14.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg14.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -218,7 +218,7 @@ const pgData = [
         title: `Just one moment.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg15.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg15.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -232,7 +232,7 @@ const pgData = [
         title: `Now, where was I?`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg16.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg16.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -258,7 +258,7 @@ const pgData = [
         title: `Camille: Tell us of the Aether.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg17-1.png' width="650px" height="620px">
+            <img src='/assets/pages/pg17-1.png' width="650px" height="620px">
 
             <div class=spoilers>
 
@@ -277,7 +277,7 @@ const pgData = [
             <br><br>
             While we are on the topic, let us discuss its counterpart, hm?
             </div></div>
-            <img src='/src/assets/pages/pg17-2.png' width="650px" height="1335px">
+            <img src='/assets/pages/pg17-2.png' width="650px" height="1335px">
 
             <div class=spoilers>
 
@@ -299,7 +299,7 @@ const pgData = [
         title: `Camille: Be the butler.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg18.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg18.gif' height="650px" width="650px"><br><br>
             You stop being Camille in time to be the butler.
             <br><br>
             Just "Butler" is fine, thank you.
@@ -324,7 +324,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg19.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg19.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -345,7 +345,7 @@ const pgData = [
         title: `Camille: Acknowledge him.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg20.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg20.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -363,7 +363,7 @@ const pgData = [
         title: `Butler: Get out, quick.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg21.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg21.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -377,7 +377,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg22.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg22.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -391,7 +391,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg23.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg23.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -426,7 +426,7 @@ const pgData = [
         title: `Butler: Try to fit into one of those vases.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg23.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg23.png' height="650px" width="650px"><br><br>
             ...
             <br><br>
             ...Okay, you <i>swear</i> you were almost able to do it last time.
@@ -441,9 +441,9 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg24.gif' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg25.gif' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg26.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg24.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg25.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg26.gif' height="650px" width="650px"><br><br>
             <div class=huge><shake>OOF.</shake></div>
             `,
         authorNotes: "",
@@ -452,7 +452,7 @@ const pgData = [
         title: `Butler: Lament.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg27.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg27.gif' height="650px" width="650px"><br><br>
             ...Yeah, ok, that went just about as well as it did last time.
             `,
         authorNotes: "",
@@ -461,7 +461,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg28.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg28.gif' height="650px" width="650px"><br><br>
             That's enough fooling around in the pots.
             `,
         authorNotes: "",
@@ -470,7 +470,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg29.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg29.gif' height="650px" width="650px"><br><br>
             ...For now, anyways.
             `,
         authorNotes: "",
@@ -479,7 +479,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg30.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg30.gif' height="650px" width="650px"><br><br>
             'Ey, you're actually lookin' pretty good! 
             <br><br>
             All the tough guys got scars. This should make your admittedly stunted figure look a little bit more menacing.
@@ -490,7 +490,7 @@ const pgData = [
         title: `Butler: Snoop.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg31.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg31.gif' height="650px" width="650px"><br><br>
             You've decided to use this free time for what you came here to do in the first place. You sweep up the broken vase (you can't just leave broken glass on the floor, someone might get hurt!) into a pile off to the side and make your way up the stairs to the master bedroom.
             `,
         authorNotes: "",
@@ -499,8 +499,8 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg32.gif' height="650px" width="650px"><br><br>
-            <img src='/src/assets/pages/pg33.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg32.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg33.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -508,7 +508,7 @@ const pgData = [
         title: `Butler: Sniff out some clues.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg34.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg34.gif' height="650px" width="650px"><br><br>
             You would, but it seems as though the doors to the MASTER BEDROOM are locked... like usual.
             `,
         authorNotes: "",
@@ -517,7 +517,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg35.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg35.png' height="650px" width="650px"><br><br>
             Luckily for you...
             `,
         authorNotes: "",
@@ -526,7 +526,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg36.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg36.png' height="650px" width="650px"><br><br>
             You are well equipped for such challenges.
             `,
         authorNotes: "",
@@ -535,7 +535,7 @@ const pgData = [
         title: `Butler: Twirl your lockpick like a cool guy.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg37.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg37.gif' height="650px" width="650px"><br><br>
             Should be no problem for a very real, very talented spy (such as yourself). You'll have these doors open in a jiffy!
             `,
         authorNotes: "",
@@ -544,11 +544,11 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
             ...<br><br>
-            <img src='/src/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
             .........<br>
-            <img src='/src/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg38.gif' height="650px" width="650px"><br><br>
             ...Okay, maybe lockpicking in reality is a little more difficult than you'd expect.
     <br><br>You were taught the general concepts, but never before have you tried it on a real lock...
             `,
@@ -558,7 +558,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg39.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg39.gif' height="650px" width="650px"><br><br>
             ...Bingo.
             `,
         authorNotes: "",
@@ -567,7 +567,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg40.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg40.png' height="650px" width="650px"><br><br>
             A real crime!
             <br><br>
             It's the first time you've done one of those.
@@ -580,10 +580,10 @@ const pgData = [
         title: `Butler: Snoop for real.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg41.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg41.png' height="650px" width="650px"><br><br>
             Let's see what we got in here, hmmm... pictures... assorted memorabilia...
             <br><br>
-            <img src='/src/assets/pages/pg41-2.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg41-2.png' height="650px" width="650px"><br><br>
             ... and... a key...?
             <br><br>
             Maybe to the--
@@ -594,7 +594,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg42.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg42.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -608,7 +608,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg43.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg43.gif' height="650px" width="650px"><br><br>
             The... lights...?
             `,
         authorNotes: "",
@@ -617,7 +617,7 @@ const pgData = [
         title: `Butler: Turn around.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg44.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg44.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -625,7 +625,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg46.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg46.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -633,7 +633,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg46-2.png' height="650px" width="650px">
+            <img src='/assets/pages/pg46-2.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -647,7 +647,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg47.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg47.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -661,7 +661,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg47-3.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg47-3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -669,7 +669,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg48.png' height="650px" width="650px">
+            <img src='/assets/pages/pg48.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -683,7 +683,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg49.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg49.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -702,7 +702,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg50.gif' height="650px" width="650px">
+            <img src='/assets/pages/pg50.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -718,7 +718,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/black.png' height="650px" width="650px"><br><br>
+            <img src='/assets/black.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -726,7 +726,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg51.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg51.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -734,7 +734,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg52.png' height="650px" width="650px">
+            <img src='/assets/pages/pg52.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -748,7 +748,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg53.png' height="650px" width="650px">
+            <img src='/assets/pages/pg53.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -843,7 +843,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg54.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg54.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>???</div>
@@ -890,7 +890,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg56.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg56.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -903,7 +903,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg55.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg55.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -918,7 +918,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg57.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg57.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -931,7 +931,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg58.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg58.gif' height="650px" width="650px"><br><br>
             What? No you can't. Why would you even say that? You're terrible with names. You couldn't even come up with a name for yourself, and now you're naming other people? Just play it off like a joke...
             `,
         authorNotes: "",
@@ -940,7 +940,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg59.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg59.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -956,7 +956,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg60.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg60.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -980,7 +980,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg61.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg61.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -999,7 +999,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg62.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg62.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1012,7 +1012,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg63.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg63.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1050,7 +1050,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg64.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg64.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1078,7 +1078,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg65.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg65.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1104,7 +1104,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg66.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg66.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1119,7 +1119,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg67.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg67.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1132,7 +1132,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg68.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg68.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1152,7 +1152,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg69.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg69.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1160,7 +1160,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg70.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg70.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1172,7 +1172,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg71.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg71.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1180,7 +1180,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg72.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg72.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1188,7 +1188,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg73.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg73.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1196,7 +1196,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg74.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg74.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1204,7 +1204,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg75.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg75.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1212,7 +1212,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg76.png' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg76.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1220,7 +1220,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='/src/assets/pages/pg77.gif' height="650px" width="650px"><br><br>
+            <img src='/assets/pages/pg77.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1232,21 +1232,21 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg78.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg78.gif"><br><br>
         Oh god oh god oh god oh god oh god--`,
         authorNotes: "",
     },
     {
         title: `Don't look at it.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg79.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg79.gif"><br><br>
     G-Godsmack... f-fuck..! Oh go--`,
         authorNotes: "",
     },
     {
         title: `Find the door. Dispel my sister of darkness.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg80.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg80.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1258,7 +1258,7 @@ const pgData = [
     {
         title: `Don't open your eyes.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg81.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg81.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1275,7 +1275,7 @@ const pgData = [
     {
         title: `She wants you to look. Don't give in.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg82.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg82.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1291,7 +1291,7 @@ const pgData = [
     {
         title: `Her words are empty. Just as her soul.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg83.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg83.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1306,7 +1306,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg84.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg84.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1318,7 +1318,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg85.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg85.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1338,7 +1338,7 @@ const pgData = [
     {
         title: `Check on Godsmack.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg86.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg86.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1356,7 +1356,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg87.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg87.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1379,7 +1379,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg88.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg88.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1396,7 +1396,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg89.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg89.png"><br><br>
 
     <div class=spoilers>
 
@@ -1409,14 +1409,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg90.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg90.png"><br><br>
     You cannot wait to get off shift today.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg91.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg91.png"><br><br>
 
     <div class=spoilers>
 
@@ -1441,7 +1441,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg92.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg92.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1462,7 +1462,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg93.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg93.png"><br><br>
     He hasn't responded to any of your messages since he reportedly "found something" yesterday.
     <br><br>
     He's talked about the whole secret agent thing with you before (well, not really, but it's not like it's hard to parse what he says), but he never mentioned it'd be this suspenseful.
@@ -1473,7 +1473,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg95.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg95.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1509,7 +1509,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg96.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg96.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1522,7 +1522,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg97.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg97.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1537,7 +1537,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg98.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg98.png"><br><br>
 
     <div class=spoilers>
 
@@ -1550,7 +1550,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg99.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg99.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1563,7 +1563,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg100.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg100.png"><br><br>
 
     <div class=spoilers>
 
@@ -1582,7 +1582,7 @@ const pgData = [
     {
         title: `Cashier: Introduce yourself.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg101.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg101.gif"><br><br>
     Your name is OLIVIA, but you're kind of in the middle of something here, much too busy for any proper introductions!<br><br>
     You begin texting him once more in hopes of a response.
     <br><br>
@@ -1605,20 +1605,20 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg102.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg102.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg103.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg103.gif"><br><br>
     Oh shit.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg104.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg104.png"><br><br>
 
     <div class=spoilers>
 
@@ -1661,7 +1661,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg105.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg105.png"><br><br>
 
     <div class=spoilers>
 
@@ -1707,7 +1707,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg106.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg106.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1734,7 +1734,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg107.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg107.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1775,7 +1775,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg108.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg108.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1840,7 +1840,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg109.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg109.png"><br><br>
 
     <div class=spoilers>
 
@@ -1852,13 +1852,13 @@ const pgData = [
     {
         title: `[M] Olivia: Ponder.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg110.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg110.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg111.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg111.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1895,7 +1895,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg111.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg111.png"><br><br>
 
     <div class=spoilers>
 
@@ -1910,7 +1910,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg115.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg115.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1923,7 +1923,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg114.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg114.png"><br><br>
 
     <div class=spoilers>
 
@@ -1936,7 +1936,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg115.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg115.png"><br><br>
 
     <div class=spoilers>
 
@@ -1958,7 +1958,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg112.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg112.png"><br><br>
 
     <div class=spoilers>
 
@@ -1986,7 +1986,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg113.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg113.png"><br><br>
 
     <div class=spoilers>
 
@@ -2000,7 +2000,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg116.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg116.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2011,7 +2011,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg116.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg116.png"><br><br>
 
     <div class=spoilers>
 
@@ -2060,7 +2060,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg117.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg117.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2090,7 +2090,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg118.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg118.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2103,7 +2103,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg119.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg119.png"><br><br>
 
     <div class=spoilers>
 
@@ -2146,7 +2146,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg120.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg120.png"><br><br>
 
     <div class=spoilers>
 
@@ -2157,7 +2157,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg122.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg122.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2198,7 +2198,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg124.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg124.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2229,7 +2229,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg125.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg125.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2262,7 +2262,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg126.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg126.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2276,7 +2276,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg127.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg127.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2311,7 +2311,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg128.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg128.png"><br><br>
 
     <div class=spoilers>
 
@@ -2324,13 +2324,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg128.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg128.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg129.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg129.png"><br><br>
 
     <div class=spoilers>
 
@@ -2343,7 +2343,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg130.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg130.png"><br><br>
 
     <div class=spoilers>
 
@@ -2382,7 +2382,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg131.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg131.png"><br><br>
 
     <div class=spoilers>
 
@@ -2403,7 +2403,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg82.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg82.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2451,7 +2451,7 @@ const pgData = [
     {
         title: `Godsmack: Consider possibility that this guy is bad news.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg132.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg132.png"><br><br>
     He crashes in the forest nearby your home, says to have forgotten everything, but do I even know that's true? <br><br>
 
     <div class=spoilers>
@@ -2485,7 +2485,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg133.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg133.png"><br><br>
 
     <div class=spoilers>
 
@@ -2516,7 +2516,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg134.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg134.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2534,7 +2534,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg135.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg135.png"><br><br>
 
     <div class=spoilers>
 
@@ -2560,7 +2560,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg136.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg136.png"><br><br>
 
     <div class=spoilers>
 
@@ -2582,7 +2582,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg137.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg137.png"><br><br>
 
     <div class=spoilers>
 
@@ -2608,7 +2608,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg138.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg138.png"><br><br>
 
     <div class=spoilers>
 
@@ -2632,7 +2632,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg140.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg140.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2650,7 +2650,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg141.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg141.png"><br><br>
 
     <div class=spoilers>
 
@@ -2667,7 +2667,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg142.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg142.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2680,7 +2680,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg143.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg143.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2709,7 +2709,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg144.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg144.png"><br><br>
 
     <div class=spoilers>
 
@@ -2748,7 +2748,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg145.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg145.png"><br><br>
 
     <div class=spoilers>
 
@@ -2796,7 +2796,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg146.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg146.png"><br><br>
 
     <div class=spoilers>
 
@@ -2827,7 +2827,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg147.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg147.png"><br><br>
 
     <div class=spoilers>
 
@@ -2877,7 +2877,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg148.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg148.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2897,7 +2897,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg148.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg148.png"><br><br>
 
     <div class=spoilers>
 
@@ -2928,7 +2928,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg149.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg149.png"><br><br>
 
     <div class=spoilers>
 
@@ -2957,7 +2957,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg150.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg150.png"><br><br>
 
     <div class=spoilers>
 
@@ -2986,7 +2986,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg151.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg151.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3009,7 +3009,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg152.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg152.png"><br><br>
 
     <div class=spoilers>
 
@@ -3038,7 +3038,7 @@ const pgData = [
     {
         title: `MC: Check if it has a hood.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg153.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg153.gif"><br><br>
         That it does! You quickly swoop said hood over your head to test it's functionality.
     <br><br>All systems fully operational.
     `,
@@ -3047,7 +3047,7 @@ const pgData = [
     {
         title: `Now, pose dramatically.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg154.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg154.png"><br><br>
     Perfectly deserved for a hardened survivor of cliff fallings such as yourself. You ensure to Godsmack you will carry his dusty, ragged cloak with honor. <br><br>
     He says "alright, I guess".`,
         authorNotes: "",
@@ -3055,7 +3055,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg155.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg155.png"><br><br>
 
     <div class=spoilers>
 
@@ -3068,7 +3068,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg156.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg156.png"><br><br>
 
     <div class=spoilers>
 
@@ -3081,7 +3081,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg157.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg157.png"><br><br>
 
     <div class=spoilers>
 
@@ -3129,13 +3129,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg158.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg158.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg159.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg159.png"><br><br>
 
     <div class=spoilers>
 
@@ -3174,7 +3174,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg160.png">
+        content: `<img width="650" height="650" src="/assets/pages/pg160.png">
         <div class=spoilers>
         <div class=godsmack><div class=title>GODSMACK</div>
         "It's that sort of kindness that gives me hope for this dying planet."
@@ -3184,7 +3184,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg161.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg161.png"><br><br>
         
         With the Aether's soft glow shining through the leaves, you begin your journey through the woods, towards the enormous tree over the horizon.
         <br><br>
@@ -3205,7 +3205,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg162.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg162.png"><br><br>
         ...
         <br><br>
         I don't need a name to be someone.
@@ -3220,7 +3220,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg163.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg163.png"><br><br>
         
         You snap out of your reflections, and look around, finding yourself in a deeper section of the woods, the admittedly comforting light pouring in from above now absent as the trees grow thicker overhead.`,
         authorNotes: "",
@@ -3228,59 +3228,59 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg164.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg164.png"><br><br>
     Suddenly, you stand silent, at the sound of a familiar voice. And a familiar cold, as well.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg165.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg165.png"><br><br>
     Shit, shit, shit...! Moving quickly, you slip behind a tree, before peering out from it's side to catch a glimpse of Lilith's silhouette, hovering over what looks like... a deer?`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg166.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg166.png"><br><br>
     It's injured, a bear trap cutting through it's leg's tendons and muscle straight into the bone. As Lilith hums a peculiar melody, it seems to calm and accepts her presence.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=530 src="/src/assets/pages/pg167.png">`,
+        content: `<img width=650 height=530 src="/assets/pages/pg167.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg168.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg168.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=530 src="/src/assets/pages/pg169.png">`,
+        content: `<img width=650 height=530 src="/assets/pages/pg169.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg170.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg170.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg171.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg171.gif"><br><br>
     The deer absconds with the bear trap still clamped around it's leg.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg172.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg172.png"><br><br>
     You can't even begin to comprehend what just happened there.
     `,
         authorNotes: "",
@@ -3288,21 +3288,21 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg173.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg173.png"><br><br>
     The deer got one thing right though, it's time to get out of here.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg174.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg174.png"><br><br>
     `,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg176.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg176.png"><br><br>
 
     <div class=spoilers>
 
@@ -3315,7 +3315,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg177.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg177.png"><br><br>
 
     <div class=spoilers>
 
@@ -3328,7 +3328,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg178.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg178.png"><br><br>
 
     <div class=spoilers>
 
@@ -3341,7 +3341,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg179.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg179.png"><br><br>
 
     <div class=spoilers>
 
@@ -3354,13 +3354,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg180.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg180.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg181.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg181.png"><br><br>
 
     <div class=spoilers>
 
@@ -3373,7 +3373,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg182.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg182.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3386,19 +3386,19 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg195.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg195.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg196.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg196.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg197.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg197.png"><br><br>
 
     <div class=spoilers>
 
@@ -3420,7 +3420,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg198.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg198.png"><br><br>
 
     <div class=spoilers>
 
@@ -3439,7 +3439,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg199.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg199.png"><br><br>
 
     <div class=spoilers>
 
@@ -3460,19 +3460,19 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg200.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg200.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg201.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg201.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg202.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg202.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3489,13 +3489,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg203.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg203.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg204.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg204.png"><br><br>
 
     <div class=spoilers>
 
@@ -3712,7 +3712,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg205.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg205.png"><br><br>
 
     <div class=spoilers>
 
@@ -3729,7 +3729,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg206.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg206.png"><br><br>
 
     <div class=spoilers>
 
@@ -3751,7 +3751,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg207.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg207.png"><br><br>
 
     <div class=spoilers>
 
@@ -3766,7 +3766,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg208.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg208.png"><br><br>
 
     <div class=spoilers>
 
@@ -3780,7 +3780,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg209.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg209.png"><br><br>
 
     <div class=spoilers>
 
@@ -3800,7 +3800,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg210.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg210.png"><br><br>
 
     <div class=spoilers>
 
@@ -3815,14 +3815,14 @@ const pgData = [
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     I MIGHT! i just like bein' included! don't that count for somethin'??
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif"><br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
     Of course, of course. If that is what you desire, Butler.
@@ -3839,18 +3839,18 @@ const pgData = [
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif">
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif">
     </div></div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg211.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg211.png"><br><br>
 
     <div class=spoilers>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif"><br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
     <div class=tiny>(Oh, hush you, he'll love it regardless.)</div>
@@ -3863,18 +3863,18 @@ const pgData = [
     <br><br>
 
     <div class=right><div class=title>BUTLER</div>
-    YOU MEAN TO TELL ME THE BOX ISNT THE PRESENT? YOU <img width=58 height=13 src="/src/assets/static.gif"> WENT ALL OUT!
+    YOU MEAN TO TELL ME THE BOX ISNT THE PRESENT? YOU <img width=58 height=13 src="/assets/static.gif"> WENT ALL OUT!
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     <div class=huge><shake intensity=3>OHHHHHH SHIIIIT!!!!</shake></div>
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/src/assets/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="/assets/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     MY VERY OWN GAMEDUDE! IVE BEEN BUGGING YOU ABOUT THIS BAD BOY FOR WEEKS!!
@@ -3882,7 +3882,7 @@ const pgData = [
     <br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
-    Oh yes, I'm quite aware. No price too great for <img width=58 height=13 src="/src/assets/static.gif"> Butler.
+    Oh yes, I'm quite aware. No price too great for <img width=58 height=13 src="/assets/static.gif"> Butler.
     </div>
 
     </div></div>`,
@@ -3891,7 +3891,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg212.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg212.png"><br><br>
 
     <div class=spoilers>
 
@@ -3921,7 +3921,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg213.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg213.png"><br><br>
 
     <div class=spoilers>
 
@@ -3937,7 +3937,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg214.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg214.png"><br><br>
 
     <div class=spoilers>
 
@@ -3950,7 +3950,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg215.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg215.png"><br><br>
 
     <div class=spoilers>
 
@@ -3979,7 +3979,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg216.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg216.png"><br><br>
 
     <div class=spoilers>
 
@@ -3996,7 +3996,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg217.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg217.png"><br><br>
 
     <div class=spoilers>
 
@@ -4011,7 +4011,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg218.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg218.png"><br><br>
     You make your way down the spiraling stairs and tread across the cold, marble floor towards the doorway.
     <br><br>
     You are scared.
@@ -4025,7 +4025,7 @@ const pgData = [
     You are scared.
     <br><br>
     You twist the handle, and a ray of light cuts through the darkn--<br><br>
-    <img width="650" height="650" src="/src/assets/pages/pg219.png"><br>
+    <img width="650" height="650" src="/assets/pages/pg219.png"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>CAMILLE</div>
@@ -4038,7 +4038,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg222.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg222.png"><br><br>
 
     <div class=spoilers>
 
@@ -4052,7 +4052,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg220.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg220.png"><br><br>
     ..She's mumbling incoherently. Black out drunk.
     <br><br>
 
@@ -4070,7 +4070,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg221.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg221.png"><br><br>
 
     <div class=spoilers>
 
@@ -4084,14 +4084,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg222.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg222.png"><br><br>
         ...`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg223.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg223.png"><br><br>
 
     <div class=spoilers>
 
@@ -4099,7 +4099,7 @@ const pgData = [
     ...i know you do.
     </div><br>
     <img width="650" height="650" src="/white.png"><br><br>
-    <img width="650" height="650" src="/src/assets/pages/pg224.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg224.png"><br><br>
 
     <div class=spoilers>
 
@@ -4113,7 +4113,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg225.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg225.png"><br><br>
 
     <div class=spoilers>
 
@@ -4121,7 +4121,7 @@ const pgData = [
     ...!</div></div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg226.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg226.png"><br><br>
 
     <div class=spoilers>
 
@@ -4139,7 +4139,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg227.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg227.png"><br><br>
 
     <div class=spoilers>
 
@@ -4152,7 +4152,7 @@ const pgData = [
     {
         title: `Earlier...`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg181.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg181.png"><br><br>
 
     <div class=spoilers>
 
@@ -4165,7 +4165,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg182.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg182.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4178,13 +4178,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg183.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg183.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg184.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg184.png"><br><br>
 
     <div class=spoilers>
 
@@ -4201,7 +4201,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg185.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg185.gif"><br><br>
 
     Someone has to be here.
     <br><br>
@@ -4228,14 +4228,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg186.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg186.png"><br><br>
 
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
     PLEASE, ANYBODY--</div>
     </div><br>
-    <img width="650" height="650" src="/src/assets/pages/pg187.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg187.png"><br><br>
 
     <div class=spoilers>
 
@@ -4248,7 +4248,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg188.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg188.png"><br><br>
 
     <div class=spoilers>
 
@@ -4261,7 +4261,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg189.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg189.png"><br><br>
 
     <div class=spoilers>
 
@@ -4282,7 +4282,7 @@ const pgData = [
     </div>
     <br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg190.gif"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg190.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4295,14 +4295,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg191.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg191.png"><br><br>
         In the tavern...?`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg192.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg192.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4314,7 +4314,7 @@ const pgData = [
     </div>
     <br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg193.gif"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg193.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4331,7 +4331,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg194.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg194.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4344,7 +4344,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg229.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg229.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4357,7 +4357,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg230.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg230.png"><br><br>
 
     <div class=spoilers>
 
@@ -4370,7 +4370,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231.png"><br><br>
 
     <div class=spoilers>
 
@@ -4483,7 +4483,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-2.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-2.png"><br><br>
     Everyone stops and turns to look, as if the presence of this voice is more important than anything they were doing at the current moment.
     <br><br>
     Pinned against the ground by a hundred pounds of steel, you manage to turn your head.`,
@@ -4492,7 +4492,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-3.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-3.png"><br><br>
 
     <div class=spoilers>
 
@@ -4505,7 +4505,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-4.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-4.png"><br><br>
 
     <div class=spoilers>
 
@@ -4545,7 +4545,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-5.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-5.png"><br><br>
 
     <div class=spoilers>
 
@@ -4558,14 +4558,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-6.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-6.png"><br><br>
     `,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg231-7.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg231-7.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4578,7 +4578,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg232.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg232.png"><br><br>
     Well, that's... mildly concerning, but at the very least they look like they're a bit less immediately murderous.
     <br><br>
 
@@ -4591,13 +4591,13 @@ const pgData = [
     <div class=hero><div class=title>MC</div>
     Hey, thanks. I don't think I caught your--
     </div></div><br>
-    <img width="650" height="650" src="/src/assets/pages/pg233.gif"><br>
+    <img width="650" height="650" src="/assets/pages/pg233.gif"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
     HUP!</div>
     </div><br>
-    <img width="650" height="650" src="/src/assets/pages/pg234.gif"><br>
+    <img width="650" height="650" src="/assets/pages/pg234.gif"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
@@ -4609,7 +4609,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg235.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg235.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4632,7 +4632,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg236.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg236.png"><br><br>
 
     <div class=spoilers>
 
@@ -4653,7 +4653,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg237.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg237.png"><br><br>
 
     <div class=spoilers>
 
@@ -4698,7 +4698,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg238.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg238.png"><br><br>
 
     <div class=spoilers>
 
@@ -4781,7 +4781,7 @@ const pgData = [
     {
         title: `Introduce yourself.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg238-2.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg238-2.png"><br><br>
 
     <div class=spoilers>
 
@@ -4926,7 +4926,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg240.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg240.png"><br><br>
 
     <div class=spoilers>
 
@@ -4978,7 +4978,7 @@ const pgData = [
     {
         title: `Kai: How're you holding up?`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg241.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg241.png"><br><br>
     ...Any second now.
     <br><br>
     Shh!<br><br>
@@ -4990,14 +4990,14 @@ const pgData = [
     {
         title: `[M] Kai: Be cool.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg242.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg242.png"><br><br>
 
     <div class=spoilers>
 
     <div class=kai><div class=title>KAI</div>
     hey! w-what took ya' so long?<br><br>
     not that it matters or nothin'..</div>
-    <img src="/src/assets/pages/pgpuck.png"><br><br>
+    <img src="/assets/pages/pgpuck.png"><br><br>
 
     <div class="lui right"><div class=title>MOUSE</div>
     Weeell, for your information, I didn't get any sleep last night.</div>
@@ -5005,7 +5005,7 @@ const pgData = [
 
     <div class=kai><div class=title>KAI</div>
     iss'at so? mighty sorry to hear. not your daddy again, is it?</div>
-    <img src="/src/assets/pages/pgpuck2.png"><br><br>
+    <img src="/assets/pages/pgpuck2.png"><br><br>
 
     <div class="lui right"><div class=title>MOUSE</div>
     No, not nearly. Unfortunately, it was hubris a' my own.</div>
@@ -5029,7 +5029,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg243.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg243.png"><br><br>
 
     <div class=spoilers>
 
@@ -5044,7 +5044,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg244.gif"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg244.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5068,7 +5068,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg245.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg245.png"><br><br>
 
     <div class=spoilers>
 
@@ -5095,7 +5095,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg246.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg246.png"><br><br>
 
     <div class=spoilers>
 
@@ -5116,7 +5116,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg247.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg247.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5147,7 +5147,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg248.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg248.png"><br><br>
 
     <div class=spoilers>
 
@@ -5168,7 +5168,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg249.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg249.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5181,7 +5181,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg250.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg250.png"><br><br>
 
     <div class=spoilers>
 
@@ -5194,7 +5194,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg251.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg251.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5239,7 +5239,7 @@ const pgData = [
     {
         title: `Kai: Try giving Hero the benefit of the doubt.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg252.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg252.png"><br><br>
     You suppose he's nice enough.
     <br><br>
 
@@ -5295,51 +5295,51 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg253.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg253.png"><br><br>
     Wait a sec.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg254.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg254.png"><br><br>
     ...What is that?`,
         authorNotes: "",
     },
     {
         title: `...`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg255.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg255.gif">`,
         authorNotes: "",
     },
     {
         title: `....`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg256.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg256.png">`,
         authorNotes: "",
     },
     {
         title: `.....`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg257.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg257.png">`,
         authorNotes: "",
     },
     {
         title: `......`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg258.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg258.png">`,
         authorNotes: "",
     },
     {
         title: `.......`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg259.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg259.png">`,
         authorNotes: "",
     },
     {
         title: `........`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg260.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg260.png"><br><br>
     ...
     <br><br>
     <br>
@@ -5352,7 +5352,7 @@ const pgData = [
     ...
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg261.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg261.png"><br><br>
     ...
     <br><br>
 
@@ -5365,14 +5365,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg262.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg262.png"><br><br>
         <div class=huge><shake intensity=5>THUD!</shake></div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg263.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg263.png"><br><br>
 
     <div class=spoilers>
 
@@ -5389,7 +5389,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg264.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg264.png"><br><br>
 
     <div class=spoilers>
 
@@ -5408,13 +5408,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg265.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg265.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg266.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg266.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5446,7 +5446,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg267.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg267.png"><br><br>
     Still frozen in horror, you feel as though you are pulled along by some invisible force. <br><br>
     Your feet move almost by themselves, following the commotion and leading to a nearby room, the door ajar.
     <br><br>
@@ -5466,7 +5466,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg268.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg268.png"><br><br>
 
     <div class=spoilers>
 
@@ -5479,7 +5479,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg269.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg269.png"><br><br>
 
     <div class=spoilers>
 
@@ -5495,7 +5495,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg270.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg270.png"><br><br>
     And, like clockwork, she arrives, just as described.
     <br><br>
 
@@ -5524,7 +5524,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg271.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg271.png"><br><br>
 
     <div class=spoilers>
 
@@ -5549,7 +5549,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg272.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg272.png"><br><br>
 
     <div class=spoilers>
 
@@ -5568,7 +5568,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg273.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg273.png"><br><br>
     It has to be a misunderstanding.
     <br><br>
     If you can just... explain... or....
@@ -5579,7 +5579,7 @@ const pgData = [
     {
         title: `Hero: Snoop.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg274.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg274.png"><br><br>
     You press your head to the door.
     <br><br>
 
@@ -5608,7 +5608,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg275.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg275.png"><br><br>
 
     <div class=spoilers>
 
@@ -5625,13 +5625,13 @@ const pgData = [
     </div>
     <br>
 
-    <img src="/src/assets/black.png">`,
+    <img src="/assets/black.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg276.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg276.png"><br><br>
 
     <div class=spoilers>
 
@@ -5721,7 +5721,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg277.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg277.png"><br><br>
 
     <div class=spoilers>
 
@@ -5782,7 +5782,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg278.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg278.png"><br><br>
 
     <div class=spoilers>
 
@@ -5795,7 +5795,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg279.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg279.png"><br><br>
     Behind us.`,
         authorNotes: "",
     },
@@ -5807,14 +5807,14 @@ const pgData = [
     Typically, you die, you do right by me, and your soul is given a vessel on the Aether.
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg280.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg280.png"><br><br>
     It was my very own personal, synthetic heaven for the antiheretical.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg281.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg281.png"><br><br>
     A safe place, away from the poisonous, away from those who had beaten and abandoned me.
     <br><br>
     Only once had I made an exception.
@@ -5822,35 +5822,35 @@ const pgData = [
     It was during the aftermath of my sister's... estrangement.
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg282.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg282.png"><br><br>
     I was alone for the first time in my life.</div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg283.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg283.png"><br><br>
     And I was not willing... or... perhaps even capable, of bearing the brunt of the world myself.</div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg284.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg284.png"><br><br>
     In that moment, as I called out for someone...</div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg285.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg285.png"><br><br>
     Anyone in the world...</div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg286.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg286.png"><br><br>
     It turns out that in my state of grief I had... unknowingly summoned my first Aetherborn.
     <br><br>
     I had summoned you, Sol.</div>`,
@@ -5859,14 +5859,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg287.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg287.png"><br><br>
     `,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg288.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg288.png"><br><br>
 
     <div class=spoilers>
 
@@ -5878,7 +5878,7 @@ const pgData = [
     {
         title: `Days pass without a word exchanged.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg289.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg289.png"><br><br>
 
     <div class=spoilers>
 
@@ -5894,7 +5894,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg290.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg290.png"><br><br>
 
     <div class=spoilers>
 
@@ -5927,7 +5927,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg291.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg291.png"><br><br>
 
     <div class=spoilers>
 
@@ -5958,7 +5958,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg292.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg292.png"><br><br>
 
     <div class=spoilers>
 
@@ -5981,7 +5981,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg293.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg293.png"><br><br>
 
     <div class=spoilers>
 
@@ -5992,7 +5992,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg294.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg294.png"><br><br>
     The floor is cold on your feet. You look down and you see yourself looking back at you, like a mirror. You've never even seen a material like this, though in all fairness you haven't seen half of the things in this room.
     <br><br>
     On your right, a grandiose painting sits, yet unhung.`,
@@ -6001,7 +6001,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg295.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg295.png"><br><br>
     You're not exactly sure what it means?<br><br>
     It looks like the girl out there, but in the painting she's all grown up.
     <br><br>
@@ -6016,7 +6016,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg296.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg296.png"><br><br>
     ...What the hell is this?<br><br>
     It looks like it has one of those wind-up twisty things, but you probably shouldn't go touching random machinery.`,
         authorNotes: "",
@@ -6024,25 +6024,25 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg297.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg297.png">`,
         authorNotes: "",
     },
     {
         title: `Sol: Touch wind-up twisty thing.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg298.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg298.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg299.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg299.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg300.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg300.png"><br><br>
     Oh.
     <br><br>
     It plays music. You're not *exactly* sure how, but you can probably just chalk it up to magic.
@@ -6056,37 +6056,37 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg301.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg301.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg302.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg302.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg303.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg303.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg304.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg304.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg305.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg305.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg306.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg306.png"><br><br>
 
     <div class=spoilers>
 
@@ -6103,7 +6103,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg308.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg308.png"><br><br>
 
     <div class=spoilers>
 
@@ -6118,7 +6118,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg307.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg307.png"><br><br>
 
     <div class=spoilers>
 
@@ -6165,7 +6165,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="/src/assets/pages/pg309.png"><br><br>
+        content: `<img src="/assets/pages/pg309.png"><br><br>
 
     <div class=spoilers>
 
@@ -6182,7 +6182,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg310.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg310.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6195,7 +6195,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg311.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg311.png"><br><br>
 
     <div class=spoilers>
 
@@ -6244,44 +6244,44 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="/src/assets/pages/pg311-2.png?v=1659120750044"><br><br>
+        content: `<img src="/assets/pages/pg311-2.png?v=1659120750044"><br><br>
     `,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg312.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg312.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg313.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg313.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg314.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg314.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg315.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg315.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg316.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg316.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/black.png">`,
+        content: `<img width="650" height="650" src="/assets/black.png">`,
         authorNotes: "",
     },
     {
@@ -6293,7 +6293,7 @@ const pgData = [
     {
         title: `END OF INTERLUDE I`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/black.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/black.png"><br><br>
 
     <div class=spoilers>
 
@@ -6305,7 +6305,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg318.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg318.png"><br><br>
     .....Just a dream.....
     <br><br>
     Your head is spinning. A migraine like no other beats at your temples.
@@ -6328,7 +6328,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg319.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg319.png"><br><br>
 
     <div class=spoilers>
 
@@ -6347,7 +6347,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg320.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg320.png"><br><br>
     The manor is completely silent. You, awkwardly stumbling over yourself, walk towards the main hall.
     <br><br>
 
@@ -6374,7 +6374,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg321.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg321.png"><br><br>
     The manor is completely silent. You enter the main hall, and find no sign of Butler. Your pace quickens.
     <br><br>
 
@@ -6398,7 +6398,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=900 src="/src/assets/pages/pg322.gif"><br><br>
+        content: `<img width=650 height=900 src="/assets/pages/pg322.gif"><br><br>
     The tall ceilings echo your calls, but to no response. Desperately, you begin to run, racing up the stairs, tripping over no more than 4 steps at a time.
     <br><br>
 
@@ -6424,7 +6424,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg323.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg323.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6443,49 +6443,49 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg324.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg324.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg325.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg325.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg326.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg326.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg327.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg327.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg328.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg328.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg329.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg329.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg330.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg330.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg331.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg331.png"><br><br>
 
     <div class=spoilers>
 
@@ -6574,7 +6574,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg332.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg332.png"><br><br>
 
     <div class=spoilers>
 
@@ -6613,7 +6613,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg337.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg337.png"><br><br>
 
     <div class=spoilers>
 
@@ -6669,7 +6669,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg338.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg338.png"><br><br>
 
     <div class=spoilers>
 
@@ -6690,7 +6690,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg339.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg339.png"><br><br>
 
     <div class=spoilers>
 
@@ -6707,7 +6707,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg340.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg340.png"><br><br>
 
     <div class=spoilers>
 
@@ -6720,7 +6720,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg341.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg341.png"><br><br>
 
     <div class=spoilers>
 
@@ -6746,13 +6746,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg342.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg342.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg343.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg343.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6808,7 +6808,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg344.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg344.png"><br><br>
 
     <div class=spoilers>
 
@@ -6823,49 +6823,49 @@ const pgData = [
     {
         title: `Butler: Recall the story of the<br>princess and the witch.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg345.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg345.gif"><br><br>
     once upon a time there was a pale queen, and she ruled over a pale kingdom.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg346.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg346.gif"><br><br>
     she loved her subjects, and they loved her.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg347.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg347.gif"><br><br>
     however, they weren't always a part of this great kingdom.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg348.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg348.png"><br><br>
     they must first do Her deeds in their past life.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg349.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg349.png"><br><br>
     it was hard work, but they believed in Her cause.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=605 src="/src/assets/pages/pg350.gif"><br><br>
+        content: `<img width=650 height=605 src="/assets/pages/pg350.gif"><br><br>
     after all they do for Her, they deserve their place in the glorious kingdom.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=631 src="/src/assets/pages/pg351.gif"><br><br>
+        content: `<img width=650 height=631 src="/assets/pages/pg351.gif"><br><br>
     but not if the wicked witch of Leviathan (her own sister!), had anything to say about it!<br><br>
     the witch would steal Her souls away, denying them their chance of ever seeing their beloved kingdom again.`,
         authorNotes: "",
@@ -6873,7 +6873,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="/src/assets/black.png"><br><br>
+        content: `<img src="/assets/black.png"><br><br>
     the world came to know the events that followed as "the rapture".`,
         authorNotes: "",
     },
@@ -6887,7 +6887,7 @@ const pgData = [
     <a href="https://mspfa.com/?s=34129&p=357">Click here to skip this section.</a></div></div>
     <br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg352.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg352.png"><br><br>
 
     <div class=spoilers>
 
@@ -6919,7 +6919,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg353.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg353.png"><br><br>
 
     <div class=spoilers>
 
@@ -6951,7 +6951,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg354.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg354.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6964,7 +6964,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg355.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg355.png"><br><br>
 
     <div class=spoilers>
 
@@ -6989,7 +6989,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg356.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg356.png"><br><br>
 
     <div class=spoilers>
 
@@ -7028,13 +7028,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg357.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg357.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg358.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg358.gif"><br><br>
 
     <div class=spoilers>
 
@@ -7060,7 +7060,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg359.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg359.png"><br><br>
     Your name LVII.
     <br><br>
     LVII don't know what means, but it sound like "fifty sevan".
@@ -7081,7 +7081,7 @@ const pgData = [
     {
         title: `LVII: Fondly regard dirt.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg360.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg360.gif"><br><br>
     Oh, where LVII begin?<br><br>
     It's variety of textures, variety of tastes...
     <br><br>
@@ -7127,13 +7127,13 @@ const pgData = [
     {
         title: `LVII: Stop holding up the line.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg361.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg361.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg362.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg362.png"><br><br>
 
     <div class=spoilers>
 
@@ -7179,7 +7179,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg363.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg363.png"><br><br>
 
     <div class=spoilers>
 
@@ -7212,7 +7212,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg364.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg364.png"><br><br>
 
     <div class=spoilers>
 
@@ -7299,7 +7299,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg365.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg365.png"><br><br>
 
     <div class=spoilers>
 
@@ -7312,7 +7312,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg366.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg366.png"><br><br>
 
     <div class=spoilers>
 
@@ -7325,19 +7325,19 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg366-2.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg366-2.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg367.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg367.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg368.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg368.png"><br><br>
 
     <div class=spoilers>
 
@@ -7394,7 +7394,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg369.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg369.png"><br><br>
 
     <div class=spoilers>
 
@@ -7417,7 +7417,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg370.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg370.png"><br><br>
 
     <div class=spoilers>
 
@@ -7432,7 +7432,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg371.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg371.png"><br><br>
 
     <div class=spoilers>
 
@@ -7487,7 +7487,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg372.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg372.png"><br><br>
 
     <div class=spoilers>
 
@@ -7538,7 +7538,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg373.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg373.png"><br><br>
 
     <div class=spoilers>
 
@@ -7579,7 +7579,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg374.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg374.png"><br><br>
 
     <div class=spoilers>
 
@@ -7606,13 +7606,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg375.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg375.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg376.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg376.png"><br><br>
 
     <div class=spoilers>
 
@@ -7634,7 +7634,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg377.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg377.png"><br><br>
 
     <div class=spoilers>
 
@@ -7683,7 +7683,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg378.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg378.png"><br><br>
 
     <div class=spoilers>
 
@@ -7865,7 +7865,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg379.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg379.png"><br><br>
 
     <div class=spoilers>
 
@@ -7935,7 +7935,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg380.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg380.png"><br><br>
 
     <div class=spoilers>
 
@@ -7952,7 +7952,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg381.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg381.png"><br><br>
 
     <div class=spoilers>
 
@@ -8053,7 +8053,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg382.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg382.png"><br><br>
 
     <div class=spoilers>
 
@@ -8079,7 +8079,7 @@ const pgData = [
     {
         title: `LVII: Give him a good ol'<br>fashioned fistpump.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg383.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg383.png"><br><br>
 
     <div class=spoilers>
 
@@ -8122,7 +8122,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg384.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg384.png"><br><br>
 
     <div class=spoilers>
 
@@ -8153,7 +8153,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg385.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg385.png"><br><br>
 
     <div class=spoilers>
 
@@ -8176,13 +8176,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg386.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg386.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg387.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg387.png"><br><br>
 
     <div class=spoilers>
 
@@ -8195,26 +8195,26 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg388.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg388.png"><br><br>
     `,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg389.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg389.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg390.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg390.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg391.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg391.png"><br><br>
 
     <div class=spoilers>
 
@@ -8227,7 +8227,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg392.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg392.png"><br><br>
 
     <div class=spoilers>
 
@@ -8280,7 +8280,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg393.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg393.png"><br><br>
 
     <div class=spoilers>
 
@@ -8293,7 +8293,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg394.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg394.png"><br><br>
 
     <div class=spoilers>
 
@@ -8332,7 +8332,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg395.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg395.png"><br><br>
 
     <div class=spoilers>
 
@@ -8363,7 +8363,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg396.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg396.png"><br><br>
 
     <div class=spoilers>
 
@@ -8382,7 +8382,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg397.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg397.png"><br><br>
 
     <div class=spoilers>
 
@@ -8418,7 +8418,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg398.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg398.png"><br><br>
 
     <div class=spoilers>
 
@@ -8436,7 +8436,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg399.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg399.png"><br><br>
 
     <div class=spoilers>
 
@@ -8447,7 +8447,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg400.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg400.png"><br><br>
 
     <div class=spoilers>
 
@@ -8458,13 +8458,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg401.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg401.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="216" src="/src/assets/pages/pg402.png"><br><br>
+        content: `<img width="650" height="216" src="/assets/pages/pg402.png"><br><br>
 
     <div class=spoilers>
 
@@ -8479,13 +8479,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="216" src="/src/assets/pages/pg403.png">`,
+        content: `<img width="650" height="216" src="/assets/pages/pg403.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg404.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg404.png"><br><br>
 
     <div class=spoilers>
 
@@ -8496,7 +8496,7 @@ const pgData = [
     {
         title: `[M] `,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg406.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg406.png"><br><br>
 
     <div class=spoilers>
 
@@ -8512,7 +8512,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="466" src="/src/assets/pages/pg405.png"><br><br>
+        content: `<img width="650" height="466" src="/assets/pages/pg405.png"><br><br>
 
     <div class=spoilers>
 
@@ -8525,7 +8525,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg407.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg407.png"><br><br>
 
     <div class=spoilers>
 
@@ -8540,7 +8540,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg408.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg408.png"><br><br>
 
     <div class=spoilers>
 
@@ -8556,7 +8556,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg409.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg409.png"><br><br>
 
     <div class=spoilers>
 
@@ -8567,7 +8567,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg410.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg410.png"><br><br>
 
     <div class=spoilers>
 
@@ -8605,7 +8605,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg411.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg411.gif"><br><br>
 
     <div class=spoilers>
 
@@ -8622,7 +8622,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg412.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg412.png"><br><br>
 
     <div class=spoilers>
 
@@ -8662,7 +8662,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg413.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg413.png"><br><br>
 
     <div class=spoilers>
 
@@ -8711,7 +8711,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg414.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg414.png"><br><br>
 
     <div class=spoilers>
 
@@ -8745,13 +8745,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg415.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg415.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg416.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg416.png"><br><br>
 
     <div class=spoilers>
 
@@ -8762,7 +8762,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg417.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg417.png"><br><br>
 
     <div class=spoilers>
 
@@ -8778,7 +8778,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg418.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg418.png"><br><br>
 
     <div class=spoilers>
 
@@ -8832,7 +8832,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg419.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg419.png"><br><br>
 
     <div class=spoilers>
 
@@ -8849,7 +8849,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg420.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg420.png"><br><br>
 
     <div class=spoilers>
 
@@ -8861,38 +8861,38 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg421.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg421.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg422.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg422.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg423.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg423.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg424.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg424.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg425.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg425.gif"><br><br>
     <div class=giant><shake intensity=12>SNAP!</div></div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg426.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg426.png"><br><br>
 
     <div class=spoilers>
 
@@ -8904,7 +8904,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg427.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg427.gif"><br><br>
 
     <div class=spoilers>
 
@@ -8918,7 +8918,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg428.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg428.png"><br><br>
 
     <div class=spoilers>
 
@@ -8930,13 +8930,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg429.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg429.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg430.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg430.png"><br><br>
 
     <div class=spoilers>
 
@@ -8960,7 +8960,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg431.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg431.png"><br><br>
 
     <div class=spoilers>
 
@@ -8972,7 +8972,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg432.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg432.png"><br><br>
 
     <div class=spoilers>
 
@@ -8984,7 +8984,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg433.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg433.png"><br><br>
 
     <div class=spoilers>
 
@@ -8998,7 +8998,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg434.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg434.png"><br><br>
 
     <div class=spoilers>
 
@@ -9020,7 +9020,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg435.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg435.png"><br><br>
 
     <div class=spoilers>
 
@@ -9062,7 +9062,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg437.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg437.png"><br><br>
 
     <div class=spoilers>
 
@@ -9087,7 +9087,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg436.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg436.png"><br><br>
 
     <div class=spoilers>
 
@@ -9126,7 +9126,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg439.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg439.png"><br><br>
 
     <div class=spoilers>
 
@@ -9150,7 +9150,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg438.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg438.png"><br><br>
 
     <div class=spoilers>
 
@@ -9162,13 +9162,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg440-2.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg440-2.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg440.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg440.png"><br><br>
 
     <div class=spoilers>
 
@@ -9180,13 +9180,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg440-2.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg440-2.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg441.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg441.png"><br><br>
 
     <div class=spoilers>
 
@@ -9198,49 +9198,49 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg442.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg442.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg439.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg439.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg444.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg444.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg445.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg445.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg449.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg449.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg450.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg450.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg451.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg451.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg452.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg452.png"><br><br>
 
     <div class=spoilers>
 
@@ -9261,7 +9261,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg453.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg453.png"><br><br>
 
     <div class=spoilers>
 
@@ -9276,7 +9276,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg454.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg454.png"><br><br>
 
     <div class=spoilers>
 
@@ -9291,7 +9291,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg455.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg455.png"><br><br>
 
     <div class=spoilers>
 
@@ -9309,7 +9309,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg456.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg456.png"><br><br>
 
     <div class=spoilers>
 
@@ -9326,7 +9326,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg457.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg457.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9338,7 +9338,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg458.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg458.png"><br><br>
 
     <div class=spoilers>
 
@@ -9377,7 +9377,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg459.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg459.png"><br><br>
 
     <div class=spoilers>
 
@@ -9388,21 +9388,21 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg460.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg460.png"><br><br>
     As if it were an instinct, you drop to your knees...`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg461.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg461.png"><br><br>
     ...and clasp your hands tightly in prayer.`,
         authorNotes: "",
     },
     {
         title: `LVII: Pray.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg462.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg462.png"><br><br>
     The same prayer that you've prayed all your life.
     <br><br>
     Never has She answered.
@@ -9413,7 +9413,7 @@ const pgData = [
     {
         title: `Camille: Hear her.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg463.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg463.png"><br><br>
 
     <div class=spoilers>
 
@@ -9438,7 +9438,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg464.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg464.png"><br><br>
 
     <div class=spoilers>
 
@@ -9463,7 +9463,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg465.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg465.png"><br><br>
 
     <div class=spoilers>
 
@@ -9489,7 +9489,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg466.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg466.png"><br><br>
 
     <div class=spoilers>
 
@@ -9506,13 +9506,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg467.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg467.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg468.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg468.png"><br><br>
 
     <div class=spoilers>
 
@@ -9594,7 +9594,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg469.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg469.png"><br><br>
 
     <div class=spoilers>
 
@@ -9640,7 +9640,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg470.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg470.png"><br><br>
 
     <div class=spoilers>
 
@@ -9654,7 +9654,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg471.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg471.png"><br><br>
 
     <div class=spoilers>
 
@@ -9665,13 +9665,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg472.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg472.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg473.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg473.png"><br><br>
 
     <div class=spoilers>
 
@@ -9690,7 +9690,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="/src/assets/pages/pg474.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg474.png"><br><br>
 
     <div class=spoilers>
 
@@ -9704,7 +9704,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg475.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg475.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9715,13 +9715,13 @@ const pgData = [
     {
         title: `[M] `,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg475.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg475.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg476.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg476.png"><br><br>
 
     <div class=spoilers>
 
@@ -9765,7 +9765,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg477.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg477.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9800,7 +9800,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg478.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg478.png"><br><br>
 
     <div class=spoilers>
 
@@ -9834,7 +9834,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg479.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg479.png"><br><br>
 
     <div class=spoilers>
 
@@ -9864,7 +9864,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg480.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg480.png"><br><br>
 
     <div class=spoilers>
 
@@ -9894,7 +9894,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg481.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg481.png"><br><br>
 
     <div class=spoilers>
 
@@ -9922,20 +9922,20 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg482.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg482.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg483.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg483.gif"><br><br>
     <div class=huge><shake intensity=5>SQUELCH!</div></div>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg484.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg484.png"><br><br>
 
     <div class=spoilers>
 
@@ -9951,31 +9951,31 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg485.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg485.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg486.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg486.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg487.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg487.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg488.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg488.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg489.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg489.png"><br><br>
 
     <div class=spoilers>
 
@@ -9986,19 +9986,19 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="/src/assets/pages/pg490.gif">`,
+        content: `<img src="/assets/pages/pg490.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg491.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg491.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg492.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg492.png"><br><br>
 
     <div class=spoilers>
 
@@ -10013,7 +10013,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg493.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg493.png"><br><br>
 
     <div class=spoilers>
 
@@ -10021,7 +10021,7 @@ const pgData = [
     Too....
     </div>
     <br>
-    <img width="650" height="650" src="/src/assets/pages/pg493-2.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg493-2.png"><br><br>
 
     <div class=spoilers>
     <div class=title>LILITH</div>
@@ -10035,7 +10035,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg494.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg494.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10047,25 +10047,25 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg495.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg495.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg496.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg496.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg497.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg497.gif">`,
         authorNotes: "",
     },
     {
         title: `IX: Wake up.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg498.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg498.png"><br><br>
 
     <div class=spoilers>
 
@@ -10082,7 +10082,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg499.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg499.png"><br><br>
 
     <div class=spoilers>
 
@@ -10096,7 +10096,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg500.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg500.png"><br><br>
 
     <div class=spoilers>
 
@@ -10126,7 +10126,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg501.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg501.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10165,7 +10165,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg503.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg503.png"><br><br>
 
     <div class=spoilers>
 
@@ -10210,7 +10210,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg506.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg506.png"><br><br>
 
     <div class=spoilers>
 
@@ -10255,7 +10255,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg505.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg505.png"><br><br>
 
     <div class=spoilers>
 
@@ -10295,7 +10295,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg504.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg504.png"><br><br>
 
     <div class=spoilers>
 
@@ -10346,7 +10346,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg507.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg507.png"><br><br>
 
     <div class=spoilers>
 
@@ -10376,7 +10376,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg508.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg508.png"><br><br>
 
     <div class=spoilers>
 
@@ -10391,7 +10391,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg509.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg509.png"><br><br>
 
     <div class=spoilers>
 
@@ -10414,7 +10414,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg510.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg510.png"><br><br>
 
     <div class=spoilers>
 
@@ -10450,7 +10450,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg511.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg511.png"><br><br>
 
     <div class=spoilers>
 
@@ -10470,7 +10470,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg512.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg512.png"><br><br>
 
     <div class=spoilers>
 
@@ -10485,7 +10485,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg513.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg513.png"><br><br>
 
     <div class=spoilers>
 
@@ -10496,7 +10496,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg514.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg514.png"><br><br>
 
     <div class=spoilers>
 
@@ -10524,7 +10524,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg515.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg515.png"><br><br>
 
     <div class=spoilers>
 
@@ -10569,7 +10569,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg516.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg516.png"><br><br>
 
     <div class=spoilers>
 
@@ -10585,7 +10585,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg517.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg517.png"><br><br>
     Silently, IX grabs a hold of her wing and helps himself up, slinging his arm around her shoulder.
     <br><br>
 
@@ -10609,7 +10609,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg518.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg518.png"><br><br>
 
     <div class=spoilers>
 
@@ -10632,7 +10632,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg519.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg519.png"><br><br>
 
     <div class=spoilers>
 
@@ -10672,7 +10672,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg520.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg520.png"><br><br>
 
     <div class=spoilers>
 
@@ -10694,7 +10694,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg521.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg521.png"><br><br>
 
     <div class=spoilers>
 
@@ -10715,7 +10715,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg522.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg522.png"><br><br>
 
     <div class=spoilers>
 
@@ -10745,7 +10745,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg523.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg523.png"><br><br>
 
     <div class=spoilers>
 
@@ -10767,7 +10767,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg524.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg524.png"><br><br>
 
     <div class=spoilers>
 
@@ -10786,7 +10786,7 @@ const pgData = [
     This section contains visually and vocally implied child birth/oviposition.
     <br><br>
     <a href="/?pg=529">Click here to skip this section.</a></div></div><br>
-    <img width="650" height="650" src="/src/assets/pages/pg525.png"><br><br>
+    <img width="650" height="650" src="/assets/pages/pg525.png"><br><br>
 
     <div class=spoilers>
 
@@ -10821,7 +10821,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg526.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg526.png"><br><br>
     She begs and grovels at Her feet, to no response.
     <br><br>
 
@@ -10843,7 +10843,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg527.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg527.png"><br><br>
     She fights back her urge to puke, as her sharp teeth cut into the thick branch that muffles her screams of pain.
     <br><br>
 
@@ -10865,13 +10865,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg528.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg528.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg529.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg529.png"><br><br>
 
     <div class=spoilers>
 
@@ -10894,13 +10894,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg530.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg530.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg531.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg531.png"><br><br>
 
     <div class=spoilers>
 
@@ -10913,7 +10913,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg532.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg532.png"><br><br>
     Her arms extend meekly, in a fight with the ground.
     <br><br>
     Her hands tremble passionately, but reach out to grab a soft, firm hold on her kin.
@@ -10930,7 +10930,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg533.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg533.png"><br><br>
 
     <div class=spoilers>
 
@@ -10943,13 +10943,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg534.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg534.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg534.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg534.png"><br><br>
 
     <div class=spoilers>
 
@@ -10960,7 +10960,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg535.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg535.png"><br><br>
 
     <div class=spoilers>
 
@@ -10977,7 +10977,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg536.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg536.png"><br><br>
 
     <div class=spoilers>
 
@@ -10990,7 +10990,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg537.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg537.png"><br><br>
 
     <div class=spoilers>
 
@@ -11005,7 +11005,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg538.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg538.png"><br><br>
 
     <div class=spoilers>
 
@@ -11038,7 +11038,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg539.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg539.png"><br><br>
 
     <div class=spoilers>
 
@@ -11067,7 +11067,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg540.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg540.gif"><br><br>
     Godsmack is speechless, almost frozen in horror at the sight of LVII and her spilled blood.
     <br><br>
 
@@ -11106,7 +11106,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg541.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg541.png"><br><br>
     Suddenly, he snaps back to reality, remembering he has to play his character.
     <br><br>
 
@@ -11149,7 +11149,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg542.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg542.png"><br><br>
     LVII's outburst startles him at first, but, determined to keep his composure in front of the audience of admittedly more brutal adversaries, pretends like he doesn't understand her words.
     <br><br>
     Bringing himself to a hushed whisper, he responds:<br><br>
@@ -11181,7 +11181,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg543.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg543.gif"><br><br>
     She's too weak to even attempt a struggle, and she assumes that Godsmack notices this instantly, as her posture changes from aggressive to protective, as he places his hands on her egg. Her voice quivers as she speaks:<br><br>
 
     <div class=spoilers>
@@ -11241,7 +11241,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg544.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg544.png"><br><br>
 
     <div class=spoilers>
 
@@ -11262,13 +11262,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg545.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg545.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg546.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg546.png"><br><br>
 
     <div class=spoilers>
 
@@ -11292,7 +11292,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg547.png"><br><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg547.png"><br><br><br>
 
     <div class=center>...floating...</div>`,
         authorNotes: "",
@@ -11300,7 +11300,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg548.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg548.png"><br><br>
 
     <div class=spoilers>
 
@@ -11319,7 +11319,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg549.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg549.png"><br><br>
 
     <div class=spoilers>
 
@@ -11348,7 +11348,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg549-2.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg549-2.png"><br><br>
 
     <div class=spoilers>
 
@@ -11370,7 +11370,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg550.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg550.png"><br><br>
 
     <div class=spoilers>
 
@@ -11409,7 +11409,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg551.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg551.png"><br><br>
 
     <div class=spoilers>
 
@@ -11420,7 +11420,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg552.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg552.gif"><br><br>
 
     <div class=spoilers>
 
@@ -11435,7 +11435,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg553.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg553.png"><br><br>
 
     <div class=spoilers>
 
@@ -11448,7 +11448,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg554.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg554.png"><br><br>
 
     <div class=spoilers>
 
@@ -11496,7 +11496,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg555.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg555.png"><br><br>
 
     <div class=spoilers>
 
@@ -11507,7 +11507,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg556.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg556.png"><br><br>
 
     <div class=spoilers>
 
@@ -11518,7 +11518,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg557.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg557.png"><br><br>
 
     <div class=spoilers>
 
@@ -11550,7 +11550,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg558.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg558.png"><br><br>
 
     <div class=spoilers>
 
@@ -11593,7 +11593,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg559.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg559.png"><br><br>
 
     <div class=spoilers>
 
@@ -11648,7 +11648,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg560.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg560.png"><br><br>
 
     <div class=spoilers>
 
@@ -11684,7 +11684,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg561.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg561.png"><br><br>
 
     <div class=spoilers>
 
@@ -11721,7 +11721,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg562.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg562.png"><br><br>
 
     <div class=spoilers>
 
@@ -11749,175 +11749,175 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg563.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg563.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg564.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg564.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg565.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg565.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg566.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg566.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg567.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg567.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg568.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg568.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg569.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg569.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg570.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg570.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg571.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg571.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg572.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg572.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg573.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg573.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg574.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg574.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg575.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg575.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg576.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg576.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg577.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg577.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg578.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg578.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg579.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg579.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg580.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg580.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg581.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg581.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg582.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg582.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg583.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg583.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg584.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg584.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg585.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg585.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg586.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg586.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg587.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg587.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg588.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg588.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg589.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg589.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="1950" src="/src/assets/pages/pg590-2.png">`,
+        content: `<img width="650" height="1950" src="/assets/pages/pg590-2.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg592.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg592.png"><br><br>
 
     <div class=spoilers>
 
@@ -11942,7 +11942,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg593.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg593.gif"><br><br>
     A violent bolt of lightning shoots from your fingertips, plunging into the chest of the man assailing you, killing him instantly as his guts explode out the back of his spine.
     <br>
 
@@ -11955,7 +11955,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg594.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg594.png"><br><br>
 
     <div class=spoilers>
 
@@ -11966,20 +11966,20 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg595.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg595.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg596.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg596.png"><br><br>
     Your name is SOPHIE.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg597.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg597.png"><br><br>
     And, as you just learned, you can do magic.
     <br><br>
     At least, that's what you would call it if you could speak.
@@ -11990,7 +11990,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg598.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg598.png"><br><br>
     A door lazily left open tempts you to no end.
     <br><br>
     They didn't believe you could do it.
@@ -12001,14 +12001,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg599.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg599.png"><br><br>
     But here you are.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg600.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg600.png"><br><br>
     Your story won't play out like the others.
     <br><br>
     You are NOT a captive.`,
@@ -12017,14 +12017,14 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg601.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg601.png"><br><br>
     You are... free.`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg602.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg602.png"><br><br>
     The blinding sun stings as the sudden change in temperature is absorbed through your skin.
     <br><br>
     You can hardly see two feet in front of you, for mere moments, until you finally adjust to the light, and see that this very doorstep is, in fact, your grave.`,
@@ -12033,7 +12033,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg603.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg603.png"><br><br>
 
     <div class=spoilers>
 
@@ -12044,13 +12044,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg604.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg604.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg605.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg605.png"><br><br>
 
     <div class=spoilers>
 
@@ -12067,7 +12067,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg606.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg606.png"><br><br>
 
     <div class=spoilers>
 
@@ -12103,7 +12103,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg607.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg607.png"><br><br>
 
     <div class=spoilers>
 
@@ -12122,7 +12122,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg608.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg608.png"><br><br>
 
     <div class=spoilers>
 
@@ -12133,7 +12133,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg609.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg609.png"><br><br>
 
     <div class=spoilers>
 
@@ -12144,7 +12144,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg610.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg610.png"><br><br>
 
     <div class=spoilers>
 
@@ -12155,7 +12155,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg611.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg611.png"><br><br>
 
     <div class=spoilers>
 
@@ -12166,37 +12166,37 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg612.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg612.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg613.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg613.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg614.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg614.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg615.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg615.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg616.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg616.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg617.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg617.png">`,
         authorNotes: "",
     },
     {
@@ -12208,7 +12208,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg619.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg619.png"><br><br>
 
     <div class=spoilers>
 
@@ -12219,19 +12219,19 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg620.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg620.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg621.png">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg621.png">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg622.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg622.png"><br><br>
 
     <div class=spoilers>
 
@@ -12252,13 +12252,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg624.gif">`,
+        content: `<img width="650" height="650" src="/assets/pages/pg624.gif">`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg623.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg623.png"><br><br>
 
     <div class=spoilers>
 
@@ -12271,7 +12271,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg625.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg625.png"><br><br>
 
     <div class=spoilers>
 
@@ -12325,7 +12325,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg626.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg626.png"><br><br>
 
     <div class=spoilers>
 
@@ -12338,7 +12338,7 @@ const pgData = [
     {
         title: `END OF PRELUDE II`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg619.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg619.png"><br><br>
 
     <div class=spoilers>
 
@@ -12369,20 +12369,20 @@ const pgData = [
         The subsequent sections will contain spoilers, both major and minor, for <a href="https://tandrewine.itch.io/monochrome-stage-3">[S] STAGE 3</a>.
         </div></div>
         
-        <img width="650" height="650" src="/src/assets/black.png"><br><br>
+        <img width="650" height="650" src="/assets/black.png"><br><br>
         Were they always so... loud?`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg629.gif"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg629.gif"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg630.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg630.png"><br><br>
         
         Somewhere, not so far from the very place you stand, a priest preaches hate to an audience of willing participants.
         <br><br>
@@ -12394,7 +12394,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg631.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg631.png"><br><br>
         
         His onlookers, those in the pews, clung onto every word for dear life.
         <br><br>
@@ -12406,7 +12406,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg632.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg632.png"><br><br>
         
         Your look twists in horror.
         <br><br>
@@ -12418,20 +12418,20 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg634.png"><br><br>
-        <img width="650" height="650" src="/src/assets/pages/pg634-2.png"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg634.png"><br><br>
+        <img width="650" height="650" src="/assets/pages/pg634-2.png"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg635.png"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg635.png"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg636.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg636.png"><br><br>
         
         Somewhere else, a kakri hunts down and tortures anyone who resembles what were once her captors.
         <br><br>
@@ -12441,7 +12441,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg637.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg637.png"><br><br>
         
         One who had once been wronged herself, now terrorizing innumerable innocent victims.`,
         authorNotes: "",
@@ -12449,7 +12449,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg638.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg638.png"><br><br>
         
         You can't understand.
         <br><br>
@@ -12461,20 +12461,20 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg639.png"><br><br>
-        <img width="650" height="650" src="/src/assets/pages/pg639-2.png"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg639.png"><br><br>
+        <img width="650" height="650" src="/assets/pages/pg639-2.png"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg640.gif"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg640.gif"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg641.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg641.png"><br><br>
         
         Somewhere else still, a policewoman, one meant to keep order, takes a large sum of credits as a bribe.
         <br><br>
@@ -12484,7 +12484,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg642.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg642.png"><br><br>
         
         And, while under the influence, she will go on to accidentally kill herself and the widow of a family of three in a traffic accident.`,
         authorNotes: "",
@@ -12492,15 +12492,15 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg643.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg643.png"><br><br>
         
-        <img width="650" height="650" src="/src/assets/pages/pg644.gif"><br><br>`,
+        <img width="650" height="650" src="/assets/pages/pg644.gif"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg645.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg645.png"><br><br>
         <div class=spoilers>
         <div class=title>CAMILLE</div>
         <div class=big><shake>SOL, WOULD YOU JUST...</shake><br>
@@ -12511,7 +12511,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg646.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg646.png"><br><br>
         <div class=spoilers>
         <div class=title>CAMILLE</div>
         <div class=big><shake intensity="6">YOU CAN'T HEAR THEM</shake><br>
@@ -12522,7 +12522,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg647.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg647.png"><br><br>
 
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12534,7 +12534,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg648.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg648.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12548,7 +12548,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg649.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg649.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12562,7 +12562,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg650.gif"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg650.gif"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12580,7 +12580,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg651.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg651.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12594,7 +12594,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg652.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg652.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12605,7 +12605,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg653.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg653.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12622,7 +12622,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg654.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg654.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12633,7 +12633,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg655.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg655.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12645,7 +12645,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg656.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg656.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12656,7 +12656,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg657.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg657.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12668,7 +12668,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg658.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg658.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12683,7 +12683,7 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg659.png"><br><br>
+        content: `<img width="650" height="650" src="/assets/pages/pg659.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -12697,13 +12697,13 @@ const pgData = [
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/black.png"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/black.png"><br><br>`,
         authorNotes: "",
     },
     {
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="/src/assets/pages/pg660.gif"><br><br>`,
+        content: `<img width="650" height="650" src="/assets/pages/pg660.gif"><br><br>`,
         authorNotes: "",
     },
 ];
