@@ -50,15 +50,15 @@ wave, shake.wave {
   text-align: center;
 }
 .hero {
-  color: #a8a8a8;
+  color: #959595;
 }
 .camille {
-  color: #bebebe;
+  color: #b6b6b6;
   text-shadow:
-    1px 1px 1px #5b5b5b;
+    1px 1px 1px #7d7d7d;
 }
 .godsmack {
-  color: #858585;
+  color: #717171;
 }
 .title {
   font-family: 'Courier New';

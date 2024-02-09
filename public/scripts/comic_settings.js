@@ -22,27 +22,25 @@ const navScrollTo = "#comic"; //id of the div you want the page to automatically
 
 if (pg == 0) {pg = 1;}
 
-if (!document.querySelector(".subPage")) {
-    document.querySelector("html").classList.add(`p${pg}`);
+document.querySelector("html").classList.add(`p${pg}`);
 
-    $.ajax({
-        url: "./src/styles/comic.css",
-        dataType: "text",
-        success: function(cssText) {
-            registerPageRanges(cssText);
-        }
-    });
+$.ajax({
+    url: "/styles/comic.css",
+    dataType: "text/css",
+    success: function(cssText) {
+        registerPageRanges(cssText);
+    }
+});
 
-    function registerPageRanges (cssString) {
-        var findPageRanges = /\.p(\d+-(?:\d+)?)/g;
-        var pageRangeMatch;
-        while (pageRangeMatch = findPageRanges.exec(cssString)) {
-            var pageRange = pageRangeMatch[1].split("-");
-            pageRange[0] = parseInt(pageRange[0]);
-            pageRange[1] = parseInt(pageRange[1]) || maxpg;
-            if (pg >= pageRange[0] && pg <= pageRange[1]) {
-                document.querySelector("html").classList.add("p" + pageRangeMatch[1]);
-            }
+function registerPageRanges (cssString) {
+    var findPageRanges = /\.p(\d+-(?:\d+)?)/g;
+    var pageRangeMatch;
+    while (pageRangeMatch = findPageRanges.exec(cssString)) {
+        var pageRange = pageRangeMatch[1].split("-");
+        pageRange[0] = parseInt(pageRange[0]);
+        pageRange[1] = parseInt(pageRange[1]) || maxpg;
+        if (pg >= pageRange[0] && pg <= pageRange[1]) {
+            document.querySelector("html").classList.add("p" + pageRangeMatch[1]);
         }
     }
 }
