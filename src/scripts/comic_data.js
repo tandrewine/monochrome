@@ -1,6 +1,5 @@
 const pgData = [
     {
-        pgNum: 1,
         title: "",
         date: writeDate(2020, 3, 7),
         content: `
@@ -15,7 +14,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 2,
         title: "PRELUDE I",
         date: writeDate(2022, 2, 15),
         content: `
@@ -74,7 +72,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 3,
         title: "",
         date: writeDate(2022, 2, 15),
         content: `
@@ -83,7 +80,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 4,
         title: "Wake up.",
         date: writeDate(2020, 3, 8),
         content: `
@@ -95,7 +91,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 5,
         title: "",
         date: writeDate(2020, 3, 8),
         content: `
@@ -106,7 +101,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 6,
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
@@ -115,7 +109,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 7,
         title: `Stand.`,
         date: writeDate(2020, 3, 10),
         content: `
@@ -128,7 +121,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 8,
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
@@ -140,7 +132,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 9,
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
@@ -150,7 +141,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 10,
         title: `Eat dirt.`,
         date: writeDate(2020, 3, 10),
         content: `
@@ -160,7 +150,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 11,
         title: `Examine the dark planet.`,
         date: writeDate(2020, 3, 12),
         content: `
@@ -173,7 +162,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 12,
         title: `Dance.`,
         date: writeDate(2020, 3, 12),
         content: `
@@ -183,7 +171,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 13,
         title: ``,
         date: writeDate(2020, 3, 12),
         content: `
@@ -193,7 +180,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 14,
         title: `[S] Dance.`,
         date: writeDate(2020, 3, 14),
         content: `
@@ -204,7 +190,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 15,
         title: `Confirm you are still alive.`,
         date: writeDate(2020, 3, 14),
         content: `
@@ -214,7 +199,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 16,
         title: `Good day.`,
         date: writeDate(2020, 3, 14),
         content: `
@@ -231,7 +215,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 17,
         title: `Just one moment.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -246,7 +229,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 18,
         title: `Now, where was I?`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -273,7 +255,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 19,
         title: `Camille: Tell us of the Aether.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -315,7 +296,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 20,
         title: `Camille: Be the butler.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -341,7 +321,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 21,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -363,7 +342,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 22,
         title: `Camille: Acknowledge him.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -382,7 +360,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 23,
         title: `Butler: Get out, quick.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -397,7 +374,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 24,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -412,7 +388,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 25,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -448,7 +423,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 26,
         title: `Butler: Try to fit into one of those vases.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -464,7 +438,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 27,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -476,7 +449,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 28,
         title: `Butler: Lament.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -486,7 +458,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 29,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -496,7 +467,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 30,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -506,7 +476,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 31,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -518,7 +487,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 32,
         title: `Butler: Snoop.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -528,7 +496,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 33,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -538,7 +505,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 34,
         title: `Butler: Sniff out some clues.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -548,7 +514,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 35,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -558,7 +523,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 36,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -568,7 +532,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 37,
         title: `Butler: Twirl your lockpick like a cool guy.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -578,7 +541,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 38,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -593,7 +555,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 39,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -603,7 +564,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 40,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -617,7 +577,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 41,
         title: `Butler: Snoop for real.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -632,7 +591,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 42,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -647,7 +605,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 43,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -657,7 +614,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 44,
         title: `Butler: Turn around.`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -666,7 +622,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 45,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -675,7 +630,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 46,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -690,7 +644,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 47,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -705,7 +658,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 48,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -714,7 +666,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 49,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -729,7 +680,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 50,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -749,7 +699,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 50,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -766,7 +715,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 51,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -775,7 +723,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 52,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -784,7 +731,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 53,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -799,7 +745,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 54,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -895,7 +840,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 55,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -943,7 +887,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 56,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -957,7 +900,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 57,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -973,7 +915,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 58,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -987,7 +928,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 59,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -997,7 +937,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 60,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1014,7 +953,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 61,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1039,7 +977,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 62,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1059,7 +996,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 63,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1073,7 +1009,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 64,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1112,7 +1047,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 65,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1141,7 +1075,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 66,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1168,7 +1101,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 67,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1184,7 +1116,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 68,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1198,7 +1129,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 69,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1219,7 +1149,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 70,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1228,7 +1157,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 71,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1241,7 +1169,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 72,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1250,7 +1177,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 73,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1259,7 +1185,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 74,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1268,7 +1193,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 75,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1277,7 +1201,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 76,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1286,7 +1209,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 77,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1295,7 +1217,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 78,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
@@ -1309,7 +1230,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 79,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg78.gif"><br><br>
@@ -1317,7 +1237,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 80,
         title: `Don't look at it.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg79.gif"><br><br>
@@ -1325,7 +1244,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 81,
         title: `Find the door. Dispel my sister of darkness.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg80.gif"><br><br>
@@ -1338,7 +1256,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 82,
         title: `Don't open your eyes.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg81.gif"><br><br>
@@ -1356,7 +1273,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 83,
         title: `She wants you to look. Don't give in.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg82.gif"><br><br>
@@ -1373,7 +1289,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 84,
         title: `Her words are empty. Just as her soul.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg83.gif"><br><br>
@@ -1389,7 +1304,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 85,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg84.gif"><br><br>
@@ -1402,7 +1316,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 86,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg85.gif"><br><br>
@@ -1423,7 +1336,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 87,
         title: `Check on Godsmack.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg86.gif"><br><br>
@@ -1442,7 +1354,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 88,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg87.gif"><br><br>
@@ -1466,7 +1377,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 89,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg88.gif"><br><br>
@@ -1484,7 +1394,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 90,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg89.png"><br><br>
@@ -1498,7 +1407,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 91,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg90.png"><br><br>
@@ -1506,7 +1414,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 92,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg91.png"><br><br>
@@ -1532,7 +1439,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 93,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg92.gif"><br><br>
@@ -1554,7 +1460,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 94,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg93.png"><br><br>
@@ -1566,7 +1471,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 95,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg95.gif"><br><br>
@@ -1603,7 +1507,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 96,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg96.gif"><br><br>
@@ -1617,7 +1520,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 97,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg97.gif"><br><br>
@@ -1633,7 +1535,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 98,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg98.png"><br><br>
@@ -1647,7 +1548,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 99,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg99.gif"><br><br>
@@ -1661,7 +1561,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 100,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg100.png"><br><br>
@@ -1681,7 +1580,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 101,
         title: `Cashier: Introduce yourself.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg101.gif"><br><br>
@@ -1705,14 +1603,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 102,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg102.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 103,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg103.gif"><br><br>
@@ -1720,7 +1616,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 104,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg104.png"><br><br>
@@ -1764,7 +1659,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 105,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg105.png"><br><br>
@@ -1811,7 +1705,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 106,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg106.gif"><br><br>
@@ -1839,7 +1732,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 107,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg107.gif"><br><br>
@@ -1881,7 +1773,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 108,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg108.gif"><br><br>
@@ -1947,7 +1838,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 109,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg109.png"><br><br>
@@ -1960,14 +1850,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 110,
         title: `[M] Olivia: Ponder.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg110.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 111,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg111.gif"><br><br>
@@ -2005,7 +1893,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 112,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg111.png"><br><br>
@@ -2021,7 +1908,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 113,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg115.gif"><br><br>
@@ -2035,7 +1921,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 114,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg114.png"><br><br>
@@ -2049,7 +1934,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 115,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg115.png"><br><br>
@@ -2072,7 +1956,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 116,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg112.png"><br><br>
@@ -2101,7 +1984,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 117,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg113.png"><br><br>
@@ -2116,7 +1998,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 118,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg116.gif"><br><br>
@@ -2128,7 +2009,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 119,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg116.png"><br><br>
@@ -2178,7 +2058,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 120,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg117.gif"><br><br>
@@ -2209,7 +2088,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 121,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg118.gif"><br><br>
@@ -2223,7 +2101,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 122,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg119.png"><br><br>
@@ -2267,7 +2144,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 123,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg120.png"><br><br>
@@ -2279,7 +2155,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 124,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg122.gif"><br><br>
@@ -2321,7 +2196,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 125,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg124.gif"><br><br>
@@ -2353,7 +2227,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 126,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg125.gif"><br><br>
@@ -2387,7 +2260,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 127,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg126.gif"><br><br>
@@ -2402,7 +2274,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 128,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg127.gif"><br><br>
@@ -2438,7 +2309,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 129,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg128.png"><br><br>
@@ -2452,14 +2322,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 130,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg128.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 131,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg129.png"><br><br>
@@ -2473,7 +2341,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 132,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg130.png"><br><br>
@@ -2505,7 +2372,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 133,
         title: `[S] Reminisce.`,
         date: writeDate(2020, 3, 16),
         content: `<div style="width: 500px; height: 550px; overflow: hidden; margin:auto">
@@ -2514,7 +2380,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 134,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg131.png"><br><br>
@@ -2536,7 +2401,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 135,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg82.gif"><br><br>
@@ -2585,7 +2449,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 136,
         title: `Godsmack: Consider possibility that this guy is bad news.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg132.png"><br><br>
@@ -2620,7 +2483,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 137,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg133.png"><br><br>
@@ -2652,7 +2514,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 138,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg134.gif"><br><br>
@@ -2671,7 +2532,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 139,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg135.png"><br><br>
@@ -2698,7 +2558,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 140,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg136.png"><br><br>
@@ -2721,7 +2580,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 141,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg137.png"><br><br>
@@ -2748,7 +2606,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 142,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg138.png"><br><br>
@@ -2773,7 +2630,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 143,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg140.gif"><br><br>
@@ -2792,7 +2648,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 144,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg141.png"><br><br>
@@ -2810,7 +2665,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 145,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg142.gif"><br><br>
@@ -2824,7 +2678,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 146,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg143.gif"><br><br>
@@ -2854,7 +2707,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 147,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg144.png"><br><br>
@@ -2894,7 +2746,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 148,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg145.png"><br><br>
@@ -2943,7 +2794,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 149,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg146.png"><br><br>
@@ -2975,7 +2825,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 150,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg147.png"><br><br>
@@ -3026,7 +2875,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 151,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg148.gif"><br><br>
@@ -3047,7 +2895,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 152,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg148.png"><br><br>
@@ -3079,7 +2926,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 153,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg149.png"><br><br>
@@ -3109,7 +2955,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 154,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg150.png"><br><br>
@@ -3139,7 +2984,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 155,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg151.gif"><br><br>
@@ -3163,7 +3007,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 156,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg152.png"><br><br>
@@ -3193,7 +3036,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 157,
         title: `MC: Check if it has a hood.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg153.gif"><br><br>
@@ -3203,7 +3045,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 158,
         title: `Now, pose dramatically.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg154.png"><br><br>
@@ -3212,7 +3053,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 159,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg155.png"><br><br>
@@ -3239,7 +3079,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 160,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg157.png"><br><br>
@@ -3288,14 +3127,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 161,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg158.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 162,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg159.png"><br><br>
@@ -3335,7 +3172,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 163,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg160.png">
@@ -3346,7 +3182,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 164,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg161.png"><br><br>
@@ -3368,7 +3203,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 165,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg162.png"><br><br>
@@ -3384,7 +3218,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 166,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg163.png"><br><br>
@@ -3393,7 +3226,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 167,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg164.png"><br><br>
@@ -3401,7 +3233,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 168,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg165.png"><br><br>
@@ -3409,7 +3240,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 169,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg166.png"><br><br>
@@ -3417,35 +3247,30 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 170,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width=650 height=530 src="/src/assets/pages/pg167.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 171,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg168.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 172,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width=650 height=530 src="/src/assets/pages/pg169.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 173,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg170.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 174,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg171.gif"><br><br>
@@ -3453,7 +3278,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 175,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg172.png"><br><br>
@@ -3462,7 +3286,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 176,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg173.png"><br><br>
@@ -3470,7 +3293,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 177,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg174.png"><br><br>
@@ -3478,7 +3300,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 178,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg176.png"><br><br>
@@ -3492,7 +3313,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 179,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg177.png"><br><br>
@@ -3506,7 +3326,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 180,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg178.png"><br><br>
@@ -3520,7 +3339,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 181,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg179.png"><br><br>
@@ -3534,14 +3352,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 182,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg180.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 183,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg181.png"><br><br>
@@ -3555,7 +3371,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 184,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg182.gif"><br><br>
@@ -3569,21 +3384,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 185,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg195.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 186,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg196.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 187,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg197.png"><br><br>
@@ -3606,7 +3418,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 188,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg198.png"><br><br>
@@ -3626,7 +3437,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 189,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg199.png"><br><br>
@@ -3648,21 +3458,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 190,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg200.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 191,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg201.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 192,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg202.gif"><br><br>
@@ -3680,14 +3487,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 193,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg203.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 194,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg204.png"><br><br>
@@ -3905,7 +3710,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 195,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg205.png"><br><br>
@@ -3923,7 +3727,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 196,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg206.png"><br><br>
@@ -3946,7 +3749,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 197,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg207.png"><br><br>
@@ -3962,7 +3764,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 198,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg208.png"><br><br>
@@ -3997,7 +3798,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 199,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg210.png"><br><br>
@@ -4044,7 +3844,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 200,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg211.png"><br><br>
@@ -4090,7 +3889,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 201,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg212.png"><br><br>
@@ -4121,7 +3919,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 202,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg213.png"><br><br>
@@ -4138,7 +3935,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 203,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg214.png"><br><br>
@@ -4198,7 +3994,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 204,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg217.png"><br><br>
@@ -4214,7 +4009,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 205,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg218.png"><br><br>
@@ -4242,7 +4036,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 206,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg222.png"><br><br>
@@ -4257,7 +4050,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 207,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg220.png"><br><br>
@@ -4276,7 +4068,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 208,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg221.png"><br><br>
@@ -4291,7 +4082,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 209,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg222.png"><br><br>
@@ -4299,7 +4089,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 210,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg223.png"><br><br>
@@ -4348,7 +4137,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 211,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg227.png"><br><br>
@@ -4362,7 +4150,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 212,
         title: `Earlier...`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg181.png"><br><br>
@@ -4376,7 +4163,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 213,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg182.gif"><br><br>
@@ -4390,14 +4176,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 214,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg183.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 215,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg184.png"><br><br>
@@ -4415,7 +4199,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 216,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg185.gif"><br><br>
@@ -4443,7 +4226,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 217,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg186.png"><br><br>
@@ -4464,7 +4246,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 218,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg188.png"><br><br>
@@ -4478,7 +4259,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 219,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg189.png"><br><br>
@@ -4513,7 +4293,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 220,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg191.png"><br><br>
@@ -4521,7 +4300,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 221,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg192.gif"><br><br>
@@ -4551,7 +4329,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 222,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg194.gif"><br><br>
@@ -4565,7 +4342,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 223,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg229.gif"><br><br>
@@ -4579,7 +4355,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 224,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg230.png"><br><br>
@@ -4593,7 +4368,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 225,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231.png"><br><br>
@@ -4707,7 +4481,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 226,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-2.png"><br><br>
@@ -4717,7 +4490,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 227,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-3.png"><br><br>
@@ -4731,7 +4503,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 231,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-4.png"><br><br>
@@ -4772,7 +4543,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 232,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-5.png"><br><br>
@@ -4786,7 +4556,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 233,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-6.png"><br><br>
@@ -4794,7 +4563,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 234,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg231-7.gif"><br><br>
@@ -4808,7 +4576,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 235,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg232.png"><br><br>
@@ -4840,7 +4607,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 236,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg235.gif"><br><br>
@@ -4864,7 +4630,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 237,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg236.png"><br><br>
@@ -4886,7 +4651,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 238,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg237.png"><br><br>
@@ -4932,7 +4696,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 239,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg238.png"><br><br>
@@ -5016,7 +4779,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 240,
         title: `Introduce yourself.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg238-2.png"><br><br>
@@ -5162,7 +4924,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 241,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg240.png"><br><br>
@@ -5215,7 +4976,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 242,
         title: `Kai: How're you holding up?`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg241.png"><br><br>
@@ -5228,7 +4988,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 243,
         title: `[M] Kai: Be cool.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg242.png"><br><br>
@@ -5268,7 +5027,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 244,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg243.png"><br><br>
@@ -5308,7 +5066,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 245,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg245.png"><br><br>
@@ -5336,7 +5093,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 246,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg246.png"><br><br>
@@ -5358,7 +5114,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 247,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg247.gif"><br><br>
@@ -5390,7 +5145,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 248,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg248.png"><br><br>
@@ -5412,7 +5166,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 249,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg249.gif"><br><br>
@@ -5426,7 +5179,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 250,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg250.png"><br><br>
@@ -5440,7 +5192,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 251,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg251.gif"><br><br>
@@ -5486,7 +5237,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 252,
         title: `Kai: Try giving Hero the benefit of the doubt.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg252.png"><br><br>
@@ -5543,7 +5293,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 253,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg253.png"><br><br>
@@ -5551,7 +5300,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 254,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg254.png"><br><br>
@@ -5559,42 +5307,36 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 255,
         title: `...`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg255.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 256,
         title: `....`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg256.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 257,
         title: `.....`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg257.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 258,
         title: `......`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg258.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 259,
         title: `.......`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg259.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 260,
         title: `........`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg260.png"><br><br>
@@ -5621,7 +5363,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 261,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg262.png"><br><br>
@@ -5629,7 +5370,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 262,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg263.png"><br><br>
@@ -5647,7 +5387,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 263,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg264.png"><br><br>
@@ -5667,14 +5406,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 264,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg265.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 265,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg266.gif"><br><br>
@@ -5707,7 +5444,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 266,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg267.png"><br><br>
@@ -5728,7 +5464,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 267,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg268.png"><br><br>
@@ -5742,7 +5477,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 268,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg269.png"><br><br>
@@ -5759,7 +5493,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 269,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg270.png"><br><br>
@@ -5789,7 +5522,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 270,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg271.png"><br><br>
@@ -5815,7 +5547,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 271,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg272.png"><br><br>
@@ -5835,7 +5566,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 272,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg273.png"><br><br>
@@ -5847,7 +5577,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 273,
         title: `Hero: Snoop.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg274.png"><br><br>
@@ -5877,7 +5606,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 274,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg275.png"><br><br>
@@ -5901,7 +5629,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 275,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg276.png"><br><br>
@@ -5992,7 +5719,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 276,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg277.png"><br><br>
@@ -6054,7 +5780,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 277,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg278.png"><br><br>
@@ -6068,7 +5793,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 278,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg279.png"><br><br>
@@ -6076,7 +5800,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 279,
         title: `INTERLUDE I`,
         date: writeDate(2020, 3, 16),
         content: `
@@ -6089,7 +5812,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 280,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg281.png"><br><br>
@@ -6105,7 +5827,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 281,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg283.png"><br><br>
@@ -6113,7 +5834,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 282,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg284.png"><br><br>
@@ -6121,7 +5841,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 283,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg285.png"><br><br>
@@ -6129,7 +5848,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 284,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg286.png"><br><br>
@@ -6139,7 +5857,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 285,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg287.png"><br><br>
@@ -6147,7 +5864,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 286,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg288.png"><br><br>
@@ -6160,7 +5876,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 287,
         title: `Days pass without a word exchanged.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg289.png"><br><br>
@@ -6177,7 +5892,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 288,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg290.png"><br><br>
@@ -6211,7 +5925,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 289,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg291.png"><br><br>
@@ -6243,7 +5956,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 290,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg292.png"><br><br>
@@ -6267,7 +5979,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 291,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg293.png"><br><br>
@@ -6279,7 +5990,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 292,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg294.png"><br><br>
@@ -6289,7 +5999,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 293,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg295.png"><br><br>
@@ -6305,7 +6014,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 294,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg296.png"><br><br>
@@ -6314,28 +6022,24 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 295,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg297.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 296,
         title: `Sol: Touch wind-up twisty thing.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg298.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 297,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg299.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 298,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg300.png"><br><br>
@@ -6350,42 +6054,36 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 299,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg301.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 300,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg302.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 301,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg303.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 302,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg304.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 303,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg305.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 304,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg306.png"><br><br>
@@ -6403,7 +6101,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 305,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg308.png"><br><br>
@@ -6419,7 +6116,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 306,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg307.png"><br><br>
@@ -6467,7 +6163,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 307,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img src="/src/assets/pages/pg309.png"><br><br>
@@ -6485,7 +6180,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 308,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg310.gif"><br><br>
@@ -6499,7 +6193,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 309,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg311.png"><br><br>
@@ -6543,14 +6236,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 310,
         title: `[S] Sol: Waltz.`,
         date: writeDate(2020, 3, 16),
         content: `<iframe width="750" height="750" src="https://www.youtube.com/embed/0-PNrKRtwUE?controls=0&rel=0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         authorNotes: "",
     },
     {
-        pgNum: 311,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img src="/src/assets/pages/pg311-2.png?v=1659120750044"><br><br>
@@ -6558,56 +6249,48 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 312,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg312.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 313,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg313.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 314,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg314.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 315,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg315.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 316,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg316.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 317,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/black.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 318,
         title: `[S] Camille: Wake up.`,
         date: writeDate(2020, 3, 16),
         content: `<iframe width="750" height="750" src="https://www.youtube.com/embed/DO9J81TBG2Y?controls=0&rel=0&autoplay=1&vq=hd1080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         authorNotes: "",
     },
     {
-        pgNum: 319,
         title: `END OF INTERLUDE I`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/black.png"><br><br>
@@ -6620,7 +6303,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 320,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg318.png"><br><br>
@@ -6644,7 +6326,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 321,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg319.png"><br><br>
@@ -6664,7 +6345,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 322,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg320.png"><br><br>
@@ -6692,7 +6372,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 323,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg321.png"><br><br>
@@ -6717,7 +6396,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 324,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width=650 height=900 src="/src/assets/pages/pg322.gif"><br><br>
@@ -6744,7 +6422,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 325,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg323.gif"><br><br>
@@ -6764,56 +6441,48 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 326,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg324.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 327,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg325.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 328,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg326.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 329,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg327.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 330,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg328.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 331,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg329.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 332,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg330.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 333,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg331.png"><br><br>
@@ -6903,7 +6572,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 334,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg332.png"><br><br>
@@ -6937,14 +6605,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 335,
         title: `[S] She never left.`,
         date: writeDate(2020, 3, 16),
         content: `<iframe width="750" height="750" src="https://www.youtube.com/embed/WNE0OoU3u48?controls=0&rel=0&autoplay=1&vq=hd1080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         authorNotes: "",
     },
     {
-        pgNum: 336,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg337.png"><br><br>
@@ -7001,7 +6667,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 337,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg338.png"><br><br>
@@ -7023,7 +6688,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 338,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg339.png"><br><br>
@@ -7041,7 +6705,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 339,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg340.png"><br><br>
@@ -7055,7 +6718,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 340,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg341.png"><br><br>
@@ -7082,14 +6744,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 341,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg342.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 342,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg343.gif"><br><br>
@@ -7146,7 +6806,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 343,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg344.png"><br><br>
@@ -7162,7 +6821,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 344,
         title: `Butler: Recall the story of the<br>princess and the witch.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg345.gif"><br><br>
@@ -7170,7 +6828,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 345,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg346.gif"><br><br>
@@ -7178,7 +6835,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 346,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg347.gif"><br><br>
@@ -7186,7 +6842,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 347,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg348.png"><br><br>
@@ -7194,7 +6849,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 348,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg349.png"><br><br>
@@ -7202,7 +6856,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 349,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width=650 height=605 src="/src/assets/pages/pg350.gif"><br><br>
@@ -7210,7 +6863,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 350,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width=650 height=631 src="/src/assets/pages/pg351.gif"><br><br>
@@ -7219,7 +6871,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 351,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img src="/src/assets/black.png"><br><br>
@@ -7227,7 +6878,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 352,
         title: `PRELUDE II`,
         date: writeDate(2020, 3, 16),
         content: `<div class=spoilers>
@@ -7267,7 +6917,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 353,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg353.png"><br><br>
@@ -7300,7 +6949,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 354,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg354.gif"><br><br>
@@ -7314,7 +6962,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 355,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg355.png"><br><br>
@@ -7340,7 +6987,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 356,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg356.png"><br><br>
@@ -7380,14 +7026,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 357,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg357.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 358,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg358.gif"><br><br>
@@ -7414,7 +7058,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 359,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg359.png"><br><br>
@@ -7436,7 +7079,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 360,
         title: `LVII: Fondly regard dirt.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg360.gif"><br><br>
@@ -7483,14 +7125,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 361,
         title: `LVII: Stop holding up the line.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg361.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 362,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg362.png"><br><br>
@@ -7537,7 +7177,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 363,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg363.png"><br><br>
@@ -7571,7 +7210,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 364,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg364.png"><br><br>
@@ -7659,7 +7297,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 365,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg365.png"><br><br>
@@ -7673,7 +7310,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 366,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg366.png"><br><br>
@@ -7687,21 +7323,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 367,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg366-2.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 368,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg367.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 369,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg368.png"><br><br>
@@ -7759,7 +7392,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 370,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg369.png"><br><br>
@@ -7783,7 +7415,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 371,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg370.png"><br><br>
@@ -7799,7 +7430,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 372,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg371.png"><br><br>
@@ -7855,7 +7485,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 373,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg372.png"><br><br>
@@ -7907,7 +7536,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 374,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg373.png"><br><br>
@@ -7949,7 +7577,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 375,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg374.png"><br><br>
@@ -7977,14 +7604,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 376,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg375.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 377,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg376.png"><br><br>
@@ -8007,7 +7632,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 378,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg377.png"><br><br>
@@ -8057,7 +7681,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 379,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg378.png"><br><br>
@@ -8240,7 +7863,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 380,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg379.png"><br><br>
@@ -8311,7 +7933,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 381,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg380.png"><br><br>
@@ -8329,7 +7950,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 382,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg381.png"><br><br>
@@ -8431,7 +8051,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 383,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg382.png"><br><br>
@@ -8458,7 +8077,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 384,
         title: `LVII: Give him a good ol'<br>fashioned fistpump.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg383.png"><br><br>
@@ -8502,7 +8120,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 385,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg384.png"><br><br>
@@ -8534,7 +8151,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 386,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg385.png"><br><br>
@@ -8558,14 +8174,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 387,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg386.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 388,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg387.png"><br><br>
@@ -8579,7 +8193,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 389,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg388.png"><br><br>
@@ -8587,21 +8200,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 390,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg389.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 391,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg390.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 392,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg391.png"><br><br>
@@ -8615,7 +8225,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 393,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg392.png"><br><br>
@@ -8669,7 +8278,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 394,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg393.png"><br><br>
@@ -8683,7 +8291,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 395,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg394.png"><br><br>
@@ -8723,7 +8330,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 396,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg395.png"><br><br>
@@ -8755,7 +8361,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 397,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg396.png"><br><br>
@@ -8775,7 +8380,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 398,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg397.png"><br><br>
@@ -8812,7 +8416,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 399,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg398.png"><br><br>
@@ -8831,7 +8434,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 400,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg399.png"><br><br>
@@ -8843,7 +8445,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 401,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg400.png"><br><br>
@@ -8855,14 +8456,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 402,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg401.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 403,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="216" src="/src/assets/pages/pg402.png"><br><br>
@@ -8878,14 +8477,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 404,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="216" src="/src/assets/pages/pg403.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 405,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg404.png"><br><br>
@@ -8897,7 +8494,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 406,
         title: `[M] `,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg406.png"><br><br>
@@ -8914,7 +8510,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 407,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="466" src="/src/assets/pages/pg405.png"><br><br>
@@ -8928,7 +8523,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 408,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg407.png"><br><br>
@@ -8944,7 +8538,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 409,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg408.png"><br><br>
@@ -8961,7 +8554,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 410,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg409.png"><br><br>
@@ -8973,7 +8565,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 411,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg410.png"><br><br>
@@ -9012,7 +8603,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 412,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg411.gif"><br><br>
@@ -9030,7 +8620,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 413,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg412.png"><br><br>
@@ -9071,7 +8660,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 414,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg413.png"><br><br>
@@ -9121,7 +8709,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 415,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg414.png"><br><br>
@@ -9156,14 +8743,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 416,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg415.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 417,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg416.png"><br><br>
@@ -9175,7 +8760,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 418,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg417.png"><br><br>
@@ -9192,7 +8776,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 419,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg418.png"><br><br>
@@ -9247,7 +8830,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 420,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg419.png"><br><br>
@@ -9265,7 +8847,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 421,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg420.png"><br><br>
@@ -9278,35 +8859,30 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 422,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg421.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 423,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg422.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 424,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg423.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 425,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg424.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 426,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg425.gif"><br><br>
@@ -9314,7 +8890,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 427,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg426.png"><br><br>
@@ -9327,7 +8902,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 428,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg427.gif"><br><br>
@@ -9342,7 +8916,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 429,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg428.png"><br><br>
@@ -9355,14 +8928,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 430,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg429.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 431,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg430.png"><br><br>
@@ -9387,7 +8958,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 432,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg431.png"><br><br>
@@ -9400,7 +8970,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 433,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg432.png"><br><br>
@@ -9413,7 +8982,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 434,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg433.png"><br><br>
@@ -9428,7 +8996,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 435,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg434.png"><br><br>
@@ -9451,7 +9018,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 436,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg435.png"><br><br>
@@ -9494,7 +9060,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 437,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg437.png"><br><br>
@@ -9520,7 +9085,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 438,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg436.png"><br><br>
@@ -9560,7 +9124,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 439,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg439.png"><br><br>
@@ -9585,7 +9148,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 440,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg438.png"><br><br>
@@ -9598,14 +9160,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 441,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg440-2.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 442,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg440.png"><br><br>
@@ -9618,14 +9178,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 443,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg440-2.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 444,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg441.png"><br><br>
@@ -9638,56 +9196,48 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 445,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg442.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 446,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg439.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 447,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg444.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 448,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg445.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 449,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg449.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 450,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg450.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 451,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg451.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 452,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg452.png"><br><br>
@@ -9709,7 +9259,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 453,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg453.png"><br><br>
@@ -9725,7 +9274,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 454,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg454.png"><br><br>
@@ -9741,7 +9289,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 455,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg455.png"><br><br>
@@ -9760,7 +9307,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 456,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg456.png"><br><br>
@@ -9778,7 +9324,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 457,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg457.gif"><br><br>
@@ -9791,7 +9336,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 458,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg458.png"><br><br>
@@ -9831,7 +9375,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 459,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg459.png"><br><br>
@@ -9843,7 +9386,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 460,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg460.png"><br><br>
@@ -9851,7 +9393,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 461,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg461.png"><br><br>
@@ -9859,7 +9400,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 462,
         title: `LVII: Pray.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg462.png"><br><br>
@@ -9871,7 +9411,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 463,
         title: `Camille: Hear her.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg463.png"><br><br>
@@ -9897,7 +9436,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 464,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg464.png"><br><br>
@@ -9923,7 +9461,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 465,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg465.png"><br><br>
@@ -9950,7 +9487,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 466,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg466.png"><br><br>
@@ -9968,14 +9504,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 467,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg467.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 468,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg468.png"><br><br>
@@ -10058,7 +9592,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 469,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg469.png"><br><br>
@@ -10105,7 +9638,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 470,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg470.png"><br><br>
@@ -10120,7 +9652,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 471,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg471.png"><br><br>
@@ -10132,14 +9663,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 472,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg472.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 473,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg473.png"><br><br>
@@ -10173,7 +9702,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 474,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg475.gif"><br><br>
@@ -10185,14 +9713,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 475,
         title: `[M] `,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg475.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 476,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg476.png"><br><br>
@@ -10237,7 +9763,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 477,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg477.gif"><br><br>
@@ -10273,7 +9798,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 478,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg478.png"><br><br>
@@ -10308,7 +9832,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 479,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg479.png"><br><br>
@@ -10339,7 +9862,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 480,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg480.png"><br><br>
@@ -10370,7 +9892,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 481,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg481.png"><br><br>
@@ -10399,14 +9920,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 482,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg482.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 483,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg483.gif"><br><br>
@@ -10414,7 +9933,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 484,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg484.png"><br><br>
@@ -10431,35 +9949,30 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 485,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg485.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 486,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg486.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 487,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg487.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 488,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg488.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 489,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg489.png"><br><br>
@@ -10471,21 +9984,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 490,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img src="/src/assets/pages/pg490.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 491,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg491.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 492,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg492.png"><br><br>
@@ -10501,7 +10011,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 493,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg493.png"><br><br>
@@ -10524,7 +10033,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 494,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg494.gif"><br><br>
@@ -10537,28 +10045,24 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 495,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg495.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 496,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg496.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 497,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg497.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 498,
         title: `IX: Wake up.`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg498.png"><br><br>
@@ -10576,7 +10080,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 499,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg499.png"><br><br>
@@ -10591,7 +10094,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 500,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg500.png"><br><br>
@@ -10622,7 +10124,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 501,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg501.gif"><br><br>
@@ -10662,7 +10163,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 502,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg503.png"><br><br>
@@ -10708,7 +10208,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 503,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg506.png"><br><br>
@@ -10754,7 +10253,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 504,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg505.png"><br><br>
@@ -10795,7 +10293,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 505,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg504.png"><br><br>
@@ -10847,7 +10344,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 506,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg507.png"><br><br>
@@ -10878,7 +10374,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 507,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg508.png"><br><br>
@@ -10894,7 +10389,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 508,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg509.png"><br><br>
@@ -10918,7 +10412,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 509,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg510.png"><br><br>
@@ -10955,7 +10448,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 510,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg511.png"><br><br>
@@ -10976,7 +10468,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 511,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg512.png"><br><br>
@@ -10992,7 +10483,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 512,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg513.png"><br><br>
@@ -11004,7 +10494,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 513,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg514.png"><br><br>
@@ -11033,7 +10522,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 514,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg515.png"><br><br>
@@ -11079,7 +10567,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 515,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg516.png"><br><br>
@@ -11096,7 +10583,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 516,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg517.png"><br><br>
@@ -11121,7 +10607,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 517,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg518.png"><br><br>
@@ -11145,7 +10630,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 518,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg519.png"><br><br>
@@ -11186,7 +10670,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 519,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg520.png"><br><br>
@@ -11209,7 +10692,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 520,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg521.png"><br><br>
@@ -11231,7 +10713,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 521,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg522.png"><br><br>
@@ -11262,7 +10743,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 522,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg523.png"><br><br>
@@ -11285,7 +10765,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 523,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg524.png"><br><br>
@@ -11300,7 +10779,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 524,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<div class=spoilers>
@@ -11341,7 +10819,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 525,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg526.png"><br><br>
@@ -11364,7 +10841,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 526,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg527.png"><br><br>
@@ -11387,14 +10863,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 527,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg528.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 528,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg529.png"><br><br>
@@ -11418,14 +10892,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 529,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg530.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 530,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg531.png"><br><br>
@@ -11439,7 +10911,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 531,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg532.png"><br><br>
@@ -11457,7 +10928,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 532,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg533.png"><br><br>
@@ -11471,14 +10941,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 533,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg534.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 534,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg534.png"><br><br>
@@ -11490,7 +10958,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 535,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg535.png"><br><br>
@@ -11508,7 +10975,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 536,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg536.png"><br><br>
@@ -11522,7 +10988,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 537,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg537.png"><br><br>
@@ -11538,7 +11003,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 538,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg538.png"><br><br>
@@ -11572,7 +11036,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 539,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg539.png"><br><br>
@@ -11602,7 +11065,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 540,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg540.gif"><br><br>
@@ -11642,7 +11104,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 541,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg541.png"><br><br>
@@ -11686,7 +11147,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 542,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg542.png"><br><br>
@@ -11719,7 +11179,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 543,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg543.gif"><br><br>
@@ -11780,7 +11239,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 544,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg544.png"><br><br>
@@ -11802,14 +11260,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 545,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg545.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 546,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg546.png"><br><br>
@@ -11834,7 +11290,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 547,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg547.png"><br><br><br>
@@ -11843,7 +11298,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 548,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg548.png"><br><br>
@@ -11863,7 +11317,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 549,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg549.png"><br><br>
@@ -11893,7 +11346,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 550,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg549-2.png"><br><br>
@@ -11916,7 +11368,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 551,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg550.png"><br><br>
@@ -11956,7 +11407,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 552,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg551.png"><br><br>
@@ -11968,7 +11418,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 553,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg552.gif"><br><br>
@@ -11984,7 +11433,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 554,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg553.png"><br><br>
@@ -11998,7 +11446,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 555,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg554.png"><br><br>
@@ -12047,7 +11494,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 556,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg555.png"><br><br>
@@ -12059,7 +11505,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 557,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg556.png"><br><br>
@@ -12071,7 +11516,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 558,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg557.png"><br><br>
@@ -12104,7 +11548,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 559,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg558.png"><br><br>
@@ -12148,7 +11591,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 560,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg559.png"><br><br>
@@ -12204,7 +11646,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 561,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg560.png"><br><br>
@@ -12241,7 +11682,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 562,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg561.png"><br><br>
@@ -12279,7 +11719,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 563,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg562.png"><br><br>
@@ -12308,203 +11747,174 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 564,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg563.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 565,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg564.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 566,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg565.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 567,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg566.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 568,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg567.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 569,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg568.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 570,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg569.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 571,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg570.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 572,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg571.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 573,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg572.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 574,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg573.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 575,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg574.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 576,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg575.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 577,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg576.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 578,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg577.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 579,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg578.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 580,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg579.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 581,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg580.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 582,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg581.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 583,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg582.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 584,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg583.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 585,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg584.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 586,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg585.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 587,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg586.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 588,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg587.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 589,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg588.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 590,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg589.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 591,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="1950" src="/src/assets/pages/pg590-2.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 592,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg592.png"><br><br>
@@ -12530,7 +11940,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 593,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg593.gif"><br><br>
@@ -12544,7 +11953,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 594,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg594.png"><br><br>
@@ -12556,14 +11964,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 595,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg595.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 596,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg596.png"><br><br>
@@ -12571,7 +11977,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 597,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg597.png"><br><br>
@@ -12583,7 +11988,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 598,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg598.png"><br><br>
@@ -12595,7 +11999,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 599,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg599.png"><br><br>
@@ -12603,7 +12006,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 600,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg600.png"><br><br>
@@ -12613,7 +12015,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 601,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg601.png"><br><br>
@@ -12621,7 +12022,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 602,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg602.png"><br><br>
@@ -12631,7 +12031,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 603,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg603.png"><br><br>
@@ -12643,14 +12042,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 604,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg604.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 605,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg605.png"><br><br>
@@ -12668,7 +12065,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 606,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg606.png"><br><br>
@@ -12705,7 +12101,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 607,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg607.png"><br><br>
@@ -12725,7 +12120,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 608,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg608.png"><br><br>
@@ -12737,7 +12131,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 609,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg609.png"><br><br>
@@ -12749,7 +12142,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 610,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg610.png"><br><br>
@@ -12761,7 +12153,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 611,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg611.png"><br><br>
@@ -12773,56 +12164,48 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 612,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg612.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 613,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg613.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 614,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg614.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 615,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg615.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 616,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg616.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 617,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg617.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 618,
         title: `[S] Welcome home.`,
         date: writeDate(2020, 3, 16),
         content: `<iframe width="750" height="750" src="https://www.youtube.com/embed/vz-Wd9sLQZE?controls=0&rel=0&autoplay=1&vq=hd1080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`,
         authorNotes: "",
     },
     {
-        pgNum: 619,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg619.png"><br><br>
@@ -12834,21 +12217,18 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 620,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg620.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 621,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg621.png">`,
         authorNotes: "",
     },
     {
-        pgNum: 622,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg622.png"><br><br>
@@ -12870,14 +12250,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 623,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg624.gif">`,
         authorNotes: "",
     },
     {
-        pgNum: 624,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg623.png"><br><br>
@@ -12891,7 +12269,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 625,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg625.png"><br><br>
@@ -12946,7 +12323,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 626,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg626.png"><br><br>
@@ -12960,7 +12336,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 627,
         title: `END OF PRELUDE II`,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg619.png"><br><br>
@@ -12972,7 +12347,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 628,
         title: `[S] STAGE 3`,
         date: writeDate(2020, 3, 16),
         content: `<div class=spoilers>
@@ -12988,7 +12362,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 629,
         title: `Camille: Lament.`,
         date: writeDate(2020, 3, 16),
         content: `<div class=spoilers>
@@ -13001,14 +12374,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 630,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg629.gif"><br><br>`,
         authorNotes: "",
     },
     {
-        pgNum: 631,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg630.png"><br><br>
@@ -13021,7 +12392,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 632,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg631.png"><br><br>
@@ -13034,7 +12404,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 633,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg632.png"><br><br>
@@ -13047,7 +12416,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 634,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg634.png"><br><br>
@@ -13055,14 +12423,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 635,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg635.png"><br><br>`,
         authorNotes: "",
     },
     {
-        pgNum: 636,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg636.png"><br><br>
@@ -13073,7 +12439,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 637,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg637.png"><br><br>
@@ -13082,7 +12447,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 638,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg638.png"><br><br>
@@ -13095,7 +12459,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 639,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg639.png"><br><br>
@@ -13103,14 +12466,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 640,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg640.gif"><br><br>`,
         authorNotes: "",
     },
     {
-        pgNum: 641,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg641.png"><br><br>
@@ -13121,7 +12482,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 642,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg642.png"><br><br>
@@ -13130,7 +12490,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 643,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg643.png"><br><br>
@@ -13139,7 +12498,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 644,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg645.png"><br><br>
@@ -13151,7 +12509,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 645,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg646.png"><br><br>
@@ -13163,7 +12520,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 646,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg647.png"><br><br>
@@ -13176,7 +12532,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 647,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg648.png"><br><br>
@@ -13191,7 +12546,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 648,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg649.png"><br><br>
@@ -13206,7 +12560,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 649,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg650.gif"><br><br>
@@ -13225,7 +12578,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 650,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg651.png"><br><br>
@@ -13240,7 +12592,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 651,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg652.png"><br><br>
@@ -13252,7 +12603,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 652,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg653.png"><br><br>
@@ -13270,7 +12620,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 653,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg654.png"><br><br>
@@ -13282,7 +12631,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 654,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg655.png"><br><br>
@@ -13295,7 +12643,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 655,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg656.png"><br><br>
@@ -13307,7 +12654,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 656,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg657.png"><br><br>
@@ -13320,7 +12666,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 657,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg658.png"><br><br>
@@ -13336,7 +12681,6 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 658,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg659.png"><br><br>
@@ -13351,14 +12695,12 @@ const pgData = [
         authorNotes: "",
     },
     {
-        pgNum: 659,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/black.png"><br><br>`,
         authorNotes: "",
     },
     {
-        pgNum: 660,
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `<img width="650" height="650" src="/src/assets/pages/pg660.gif"><br><br>`,
