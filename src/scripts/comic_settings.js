@@ -22,55 +22,57 @@ const navScrollTo = "#comic"; //id of the div you want the page to automatically
 
 if (pg == 0) {pg = 1;}
 
-document.querySelector("html").classList.add(`p${pg}`);
+if (!$(".subPage")) {
+    document.querySelector("html").classList.add(`p${pg}`);
 
-$.ajax({
-    url: "./src/styles/comic.css",
-    dataType: "text",
-    success: function(cssText) {
-        registerPageRanges(cssText);
-    }
-});
+    $.ajax({
+        url: "./src/styles/comic.css",
+        dataType: "text",
+        success: function(cssText) {
+            registerPageRanges(cssText);
+        }
+    });
 
-function registerPageRanges (cssString) {
-    var findPageRanges = /\.p(\d+-(?:\d+)?)/g;
-    var pageRangeMatch;
-    while (pageRangeMatch = findPageRanges.exec(cssString)) {
-        var pageRange = pageRangeMatch[1].split("-");
-        pageRange[0] = parseInt(pageRange[0]);
-        pageRange[1] = parseInt(pageRange[1]) || maxpg;
-        if (pg >= pageRange[0] && pg <= pageRange[1]) {
-            document.querySelector("html").classList.add("p" + pageRangeMatch[1]);
+    function registerPageRanges (cssString) {
+        var findPageRanges = /\.p(\d+-(?:\d+)?)/g;
+        var pageRangeMatch;
+        while (pageRangeMatch = findPageRanges.exec(cssString)) {
+            var pageRange = pageRangeMatch[1].split("-");
+            pageRange[0] = parseInt(pageRange[0]);
+            pageRange[1] = parseInt(pageRange[1]) || maxpg;
+            if (pg >= pageRange[0] && pg <= pageRange[1]) {
+                document.querySelector("html").classList.add("p" + pageRangeMatch[1]);
+            }
         }
     }
-}
 
-const shakeText = (a) => {
-	let shakeElements = document.querySelectorAll(a);
+    const shakeText = (a) => {
+        let shakeElements = document.querySelectorAll(a);
 
-	for (let i = 0; i < shakeElements.length; i++) {
-		let text = shakeElements[i].textContent;
-		shakeElements[i].textContent = '';
-		for (let char of text) {
-			if (char === ' ') char = ' ';
-			let newSpan = document.createElement('span');
-			newSpan.className = a;
-			newSpan.textContent = char;
-			shakeElements[i].appendChild(newSpan);
-		}
-	}
-}
+        for (let i = 0; i < shakeElements.length; i++) {
+            let text = shakeElements[i].textContent;
+            shakeElements[i].textContent = '';
+            for (let char of text) {
+                if (char === ' ') char = ' ';
+                let newSpan = document.createElement('span');
+                newSpan.className = a;
+                newSpan.textContent = char;
+                shakeElements[i].appendChild(newSpan);
+            }
+        }
+    }
 
-const generateDistance = (intensity) => {
-    if (isNaN(intensity)) intensity = 3;
-    return Math.floor(Math.random()*intensity-intensity/2)*0.5;
+    const generateDistance = (intensity) => {
+        if (isNaN(intensity)) intensity = 3;
+        return Math.floor(Math.random()*intensity-intensity/2)*0.5;
+    }
+    setInterval(() => {
+        document.querySelectorAll('.shake').forEach(elm => {
+            let intense = elm.parentNode.getAttribute('intensity');
+            elm.style = `transform: translate(${generateDistance(parseInt(intense))}px, ${generateDistance(parseInt(intense))}px);`
+        });
+    }, 35);
 }
-setInterval(() => {
-    document.querySelectorAll('.shake').forEach(elm => {
-        let intense = elm.parentNode.getAttribute('intensity');
-        elm.style = `transform: translate(${generateDistance(parseInt(intense))}px, ${generateDistance(parseInt(intense))}px);`
-    });
-}, 35);
 
 //below is a function you dont rly need to mess with but if you're more experienced with js you can
 
