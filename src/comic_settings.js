@@ -25,7 +25,7 @@ if (pg == 0) {pg = 1;}
 document.querySelector("html").classList.add(`p${pg}`);
 
 $.ajax({
-    url: "./css/comic.css",
+    url: "./src/styles/comic.css",
     dataType: "text",
     success: function(cssText) {
         registerPageRanges(cssText);
