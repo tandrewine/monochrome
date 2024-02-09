@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: 'Mango-Regular';
-  src: url('../public/fonts/Mango-Regular.woff') format('woff');
+  src: url('/public/fonts/Mango-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -88,11 +88,11 @@ wave, shake.wave {
 
 html {
   overflow-x: hidden;
-  cursor: url('../public/cursor.png'), default;
+  cursor: url('/public/cursor.png'), default;
 }
 
 a, button, input[type="checkbox"], .bookmarkedRow:hover, .archiveRow:hover {
-  cursor: url('../public/cursor-hover.png'), auto;
+  cursor: url('/public/cursor-hover.png'), auto;
 }
 
 .spoilers {
@@ -109,7 +109,7 @@ body, div, main, section, article {
 
 /* universal background */
 body {
-  background-image: url('../public/backgrounds/bg1.png');
+  background-image: url('/public/backgrounds/bg1.png');
   background-attachment: fixed;
   background-size: cover;
 }
@@ -146,7 +146,7 @@ header img {
 /* BOOKMARKS */
 
 [class="bookmark"] {
-  content: url('../public/comicnav/bookmark_off.png');
+  content: url('/public/comicnav/bookmark_off.png');
   display: block;
   width: 35px;
   transition: ease 0.2s;
@@ -162,7 +162,7 @@ header img {
   transform: scale(0.9);
 }
 [class="bookmark"]:checked {
-  content: url('../public/comicnav/bookmark_on.png');
+  content: url('/public/comicnav/bookmark_on.png');
 }
 
 /*FONTS*/
