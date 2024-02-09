@@ -4,7 +4,7 @@ const pgData = [
         title: "",
         date: writeDate(2020, 3, 7),
         content: `
-            <img src='../img/title.gif' height="329px" width="660px">
+            <img src='../public/title.gif' height="329px" width="660px">
 
             <div class=spoilers>
             <div class=center>
@@ -19,13 +19,13 @@ const pgData = [
         title: "PRELUDE I",
         date: writeDate(2022, 2, 15),
         content: `
-            <img src='../img/comics/pg0-1.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg0-1.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
             Do you remember the first thing that you said to me?
             </div>
             <br>
 
-            <img src='../img/comics/pg0-2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg0-2.png' height="650px" width="650px"><br><br>
             
             <div class=spoilers>
             It wasn't to me, specifically, but it was our first exchange.
@@ -34,7 +34,7 @@ const pgData = [
             </div>
             <br>
 
-            <img src='../img/comics/pg0-3.png' height="650px" width="650px">
+            <img src='../public/comics/pg0-3.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -42,7 +42,7 @@ const pgData = [
             <br><br>
             'Love thy neighbor. That is all.'
             </div>
-            <img src='../img/comics/pg0-4.png' height="650px" width="650px">
+            <img src='../public/comics/pg0-4.png' height="650px" width="650px">
 
             <div class=spoilers>
             I remember feeling so... <shake>angry</shake>.
@@ -51,21 +51,21 @@ const pgData = [
             </div>
             <br>
 
-            <img src='../img/comics/pg0-5.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg0-5.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Now that I do, I wish I had never loved you.
             </div>
             <br>
 
-            <img src='../img/comics/pg0-6.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg0-6.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Why?
             </div>
             <br><br>
 
-            <img src='../img/comics/pg0-5.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg0-5.png' height="650px" width="650px"><br><br>
 
             <div class=spoilers>
             Why did you have to prove me wrong?
@@ -78,7 +78,7 @@ const pgData = [
         title: "",
         date: writeDate(2022, 2, 15),
         content: `
-            <img src='../img/stages/stage1.png' height="650px" width="650px"><br><br>
+            <img src='../public/stages/stage1.png' height="650px" width="650px"><br><br>
         `,
         authorNotes: "",
     },
@@ -87,10 +87,10 @@ const pgData = [
         title: "Wake up.",
         date: writeDate(2020, 3, 8),
         content: `
-            <img src='../img/comics/pg1-1.png' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg1-2.png' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg1-1.png' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg1-3.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg1-2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg1-3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -99,8 +99,8 @@ const pgData = [
         title: "",
         date: writeDate(2020, 3, 8),
         content: `
-            <img src='../img/comics/pg2.png' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg1-1.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg1-1.png' height="650px" width="650px"><br><br>
             ...You can't seem to remember your name.
             `,
         authorNotes: "",
@@ -110,7 +110,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='../img/comics/pg3.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -119,10 +119,10 @@ const pgData = [
         title: `Stand.`,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='../img/comics/pg4-1.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg4-1.png' height="650px" width="650px"><br><br>
             You stand, dusting yourself off, and while attempting to get your bearings, you notice the brilliant, shining planet that sits across from you.
             <br><br>
-            <img src='../img/comics/pg4-2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg4-2.png' height="650px" width="650px"><br><br>
             To its right is an enormous tree, one which extends exceptionally high, so much so that you can neither see where it starts nor where it ends.
             `,
         authorNotes: "",
@@ -132,7 +132,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='../img/comics/pg5.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg5.png' height="650px" width="650px"><br><br>
             You find that the chunk of earth on which you stand is precariously attached to a crumbling monolith of dirt and rock.
             <br><br>
             You have no idea how you could've possibly found your way up here.
@@ -144,7 +144,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='../img/comics/pg7.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg7.png' height="650px" width="650px"><br><br>
             Perhaps, this commanding presence can attempt to... aid you?
             `,
         authorNotes: "",
@@ -154,7 +154,7 @@ const pgData = [
         title: `Eat dirt.`,
         date: writeDate(2020, 3, 10),
         content: `
-            <img src='../img/comics/pg8.png' height="650px" width="630px"><br><br>
+            <img src='../public/comics/pg8.png' height="650px" width="630px"><br><br>
             ...Perhaps not.
             `,
         authorNotes: "",
@@ -164,10 +164,10 @@ const pgData = [
         title: `Examine the dark planet.`,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='../img/comics/pg9.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg9.png' height="650px" width="650px"><br><br>
             Dark... planet...?<br><br>
-            <img src='../img/comics/pg9-2.png' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg9-3.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg9-2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg9-3.png' height="650px" width="650px"><br><br>
             ...Better get a move on before nightfall.
             `,
         authorNotes: "",
@@ -177,7 +177,7 @@ const pgData = [
         title: `Dance.`,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='../img/comics/pg10.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg10.png' height="650px" width="650px"><br><br>
             ...
             `,
         authorNotes: "",
@@ -187,7 +187,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 12),
         content: `
-            <img src='../img/comics/pg11.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg11.png' height="650px" width="650px"><br><br>
             Sure. Fuck it. Let's dance.
             `,
         authorNotes: "",
@@ -208,7 +208,7 @@ const pgData = [
         title: `Confirm you are still alive.`,
         date: writeDate(2020, 3, 14),
         content: `
-            <img src='../img/comics/pg13.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg13.gif' height="650px" width="650px"><br><br>
             You cannot confirm you are alive, because you are now someone else.
             `,
         authorNotes: "",
@@ -218,7 +218,7 @@ const pgData = [
         title: `Good day.`,
         date: writeDate(2020, 3, 14),
         content: `
-            <img src='../img/comics/pg14.gif' height="650px" width="650px">
+            <img src='../public/comics/pg14.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -235,7 +235,7 @@ const pgData = [
         title: `Just one moment.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg15.gif' height="650px" width="650px">
+            <img src='../public/comics/pg15.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -250,7 +250,7 @@ const pgData = [
         title: `Now, where was I?`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg16.gif' height="650px" width="650px">
+            <img src='../public/comics/pg16.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -277,7 +277,7 @@ const pgData = [
         title: `Camille: Tell us of the Aether.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg17-1.png' width="650px" height="620px">
+            <img src='../public/comics/pg17-1.png' width="650px" height="620px">
 
             <div class=spoilers>
 
@@ -296,7 +296,7 @@ const pgData = [
             <br><br>
             While we are on the topic, let us discuss its counterpart, hm?
             </div></div>
-            <img src='../img/comics/pg17-2.png' width="650px" height="1335px">
+            <img src='../public/comics/pg17-2.png' width="650px" height="1335px">
 
             <div class=spoilers>
 
@@ -319,7 +319,7 @@ const pgData = [
         title: `Camille: Be the butler.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg18.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg18.gif' height="650px" width="650px"><br><br>
             You stop being Camille in time to be the butler.
             <br><br>
             Just "Butler" is fine, thank you.
@@ -345,7 +345,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg19.gif' height="650px" width="650px">
+            <img src='../public/comics/pg19.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -367,7 +367,7 @@ const pgData = [
         title: `Camille: Acknowledge him.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg20.gif' height="650px" width="650px">
+            <img src='../public/comics/pg20.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -386,7 +386,7 @@ const pgData = [
         title: `Butler: Get out, quick.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg21.gif' height="650px" width="650px">
+            <img src='../public/comics/pg21.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -401,7 +401,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg22.gif' height="650px" width="650px">
+            <img src='../public/comics/pg22.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -416,7 +416,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg23.gif' height="650px" width="650px">
+            <img src='../public/comics/pg23.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -452,7 +452,7 @@ const pgData = [
         title: `Butler: Try to fit into one of those vases.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg23.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg23.png' height="650px" width="650px"><br><br>
             ...
             <br><br>
             ...Okay, you <i>swear</i> you were almost able to do it last time.
@@ -468,9 +468,9 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg24.gif' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg25.gif' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg26.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg24.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg25.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg26.gif' height="650px" width="650px"><br><br>
             <div class=huge><shake>OOF.</shake></div>
             `,
         authorNotes: "",
@@ -480,7 +480,7 @@ const pgData = [
         title: `Butler: Lament.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg27.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg27.gif' height="650px" width="650px"><br><br>
             ...Yeah, ok, that went just about as well as it did last time.
             `,
         authorNotes: "",
@@ -490,7 +490,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg28.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg28.gif' height="650px" width="650px"><br><br>
             That's enough fooling around in the pots.
             `,
         authorNotes: "",
@@ -500,7 +500,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg29.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg29.gif' height="650px" width="650px"><br><br>
             ...For now, anyways.
             `,
         authorNotes: "",
@@ -510,7 +510,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg30.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg30.gif' height="650px" width="650px"><br><br>
             'Ey, you're actually lookin' pretty good! 
             <br><br>
             All the tough guys got scars. This should make your admittedly stunted figure look a little bit more menacing.
@@ -522,7 +522,7 @@ const pgData = [
         title: `Butler: Snoop.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg31.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg31.gif' height="650px" width="650px"><br><br>
             You've decided to use this free time for what you came here to do in the first place. You sweep up the broken vase (you can't just leave broken glass on the floor, someone might get hurt!) into a pile off to the side and make your way up the stairs to the master bedroom.
             `,
         authorNotes: "",
@@ -532,8 +532,8 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg32.gif' height="650px" width="650px"><br><br>
-            <img src='../img/comics/pg33.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg32.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg33.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -542,7 +542,7 @@ const pgData = [
         title: `Butler: Sniff out some clues.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg34.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg34.gif' height="650px" width="650px"><br><br>
             You would, but it seems as though the doors to the MASTER BEDROOM are locked... like usual.
             `,
         authorNotes: "",
@@ -552,7 +552,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg35.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg35.png' height="650px" width="650px"><br><br>
             Luckily for you...
             `,
         authorNotes: "",
@@ -562,7 +562,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg36.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg36.png' height="650px" width="650px"><br><br>
             You are well equipped for such challenges.
             `,
         authorNotes: "",
@@ -572,7 +572,7 @@ const pgData = [
         title: `Butler: Twirl your lockpick like a cool guy.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg37.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg37.gif' height="650px" width="650px"><br><br>
             Should be no problem for a very real, very talented spy (such as yourself). You'll have these doors open in a jiffy!
             `,
         authorNotes: "",
@@ -582,11 +582,11 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg38.gif' height="650px" width="650px"><br><br>
             ...<br><br>
-            <img src='../img/comics/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg38.gif' height="650px" width="650px"><br><br>
             .........<br>
-            <img src='../img/comics/pg38.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg38.gif' height="650px" width="650px"><br><br>
             ...Okay, maybe lockpicking in reality is a little more difficult than you'd expect.
     <br><br>You were taught the general concepts, but never before have you tried it on a real lock...
             `,
@@ -597,7 +597,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg39.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg39.gif' height="650px" width="650px"><br><br>
             ...Bingo.
             `,
         authorNotes: "",
@@ -607,7 +607,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg40.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg40.png' height="650px" width="650px"><br><br>
             A real crime!
             <br><br>
             It's the first time you've done one of those.
@@ -621,10 +621,10 @@ const pgData = [
         title: `Butler: Snoop for real.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg41.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg41.png' height="650px" width="650px"><br><br>
             Let's see what we got in here, hmmm... pictures... assorted memorabilia...
             <br><br>
-            <img src='../img/comics/pg41-2.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg41-2.png' height="650px" width="650px"><br><br>
             ... and... a key...?
             <br><br>
             Maybe to the--
@@ -636,7 +636,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg42.gif' height="650px" width="650px">
+            <img src='../public/comics/pg42.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -651,7 +651,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg43.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg43.gif' height="650px" width="650px"><br><br>
             The... lights...?
             `,
         authorNotes: "",
@@ -661,7 +661,7 @@ const pgData = [
         title: `Butler: Turn around.`,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg44.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg44.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -670,7 +670,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg46.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg46.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -679,7 +679,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg46-2.png' height="650px" width="650px">
+            <img src='../public/comics/pg46-2.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -694,7 +694,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg47.gif' height="650px" width="650px">
+            <img src='../public/comics/pg47.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -709,7 +709,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg47-3.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg47-3.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -718,7 +718,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg48.png' height="650px" width="650px">
+            <img src='../public/comics/pg48.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -733,7 +733,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg49.gif' height="650px" width="650px">
+            <img src='../public/comics/pg49.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -753,7 +753,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg50.gif' height="650px" width="650px">
+            <img src='../public/comics/pg50.gif' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -770,7 +770,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/black.png' height="650px" width="650px"><br><br>
+            <img src='../public/black.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -779,7 +779,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg51.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg51.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -788,7 +788,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg52.png' height="650px" width="650px">
+            <img src='../public/comics/pg52.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -803,7 +803,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg53.png' height="650px" width="650px">
+            <img src='../public/comics/pg53.png' height="650px" width="650px">
 
             <div class=spoilers>
 
@@ -899,7 +899,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg54.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg54.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>???</div>
@@ -947,7 +947,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg56.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg56.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -961,7 +961,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg55.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg55.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -977,7 +977,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg57.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg57.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -991,7 +991,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg58.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg58.gif' height="650px" width="650px"><br><br>
             What? No you can't. Why would you even say that? You're terrible with names. You couldn't even come up with a name for yourself, and now you're naming other people? Just play it off like a joke...
             `,
         authorNotes: "",
@@ -1001,7 +1001,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg59.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg59.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=godsmack><div class=title>???</div>
@@ -1018,7 +1018,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg60.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg60.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1043,7 +1043,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg61.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg61.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1063,7 +1063,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg62.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg62.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1077,7 +1077,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg63.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg63.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1116,7 +1116,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg64.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg64.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1145,7 +1145,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg65.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg65.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1172,7 +1172,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg66.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg66.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1188,7 +1188,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg67.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg67.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class="godsmack right"><div class=title>GODSMACK</div>
@@ -1202,7 +1202,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg68.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg68.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1223,7 +1223,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg69.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg69.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1232,7 +1232,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg70.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg70.png' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1245,7 +1245,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg71.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg71.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1254,7 +1254,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg72.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg72.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1263,7 +1263,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg73.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg73.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1272,7 +1272,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg74.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg74.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1281,7 +1281,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg75.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg75.gif' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1290,7 +1290,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg76.png' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg76.png' height="650px" width="650px"><br><br>
             `,
         authorNotes: "",
     },
@@ -1299,7 +1299,7 @@ const pgData = [
         title: ``,
         date: writeDate(2020, 3, 16),
         content: `
-            <img src='../img/comics/pg77.gif' height="650px" width="650px"><br><br>
+            <img src='../public/comics/pg77.gif' height="650px" width="650px"><br><br>
             <div class=spoilers>
 
             <div class=hero><div class=title>MC</div>
@@ -1312,7 +1312,7 @@ const pgData = [
         pgNum: 79,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg78.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg78.gif"><br><br>
         Oh god oh god oh god oh god oh god--`,
         authorNotes: "",
     },
@@ -1320,7 +1320,7 @@ const pgData = [
         pgNum: 80,
         title: `Don't look at it.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg79.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg79.gif"><br><br>
     G-Godsmack... f-fuck..! Oh go--`,
         authorNotes: "",
     },
@@ -1328,7 +1328,7 @@ const pgData = [
         pgNum: 81,
         title: `Find the door. Dispel my sister of darkness.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg80.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg80.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1341,7 +1341,7 @@ const pgData = [
         pgNum: 82,
         title: `Don't open your eyes.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg81.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg81.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1359,7 +1359,7 @@ const pgData = [
         pgNum: 83,
         title: `She wants you to look. Don't give in.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg82.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg82.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1376,7 +1376,7 @@ const pgData = [
         pgNum: 84,
         title: `Her words are empty. Just as her soul.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg83.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg83.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1392,7 +1392,7 @@ const pgData = [
         pgNum: 85,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg84.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg84.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1405,7 +1405,7 @@ const pgData = [
         pgNum: 86,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg85.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg85.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1426,7 +1426,7 @@ const pgData = [
         pgNum: 87,
         title: `Check on Godsmack.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg86.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg86.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1445,7 +1445,7 @@ const pgData = [
         pgNum: 88,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg87.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg87.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1469,7 +1469,7 @@ const pgData = [
         pgNum: 89,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg88.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg88.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1487,7 +1487,7 @@ const pgData = [
         pgNum: 90,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg89.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg89.png"><br><br>
 
     <div class=spoilers>
 
@@ -1501,7 +1501,7 @@ const pgData = [
         pgNum: 91,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg90.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg90.png"><br><br>
     You cannot wait to get off shift today.`,
         authorNotes: "",
     },
@@ -1509,7 +1509,7 @@ const pgData = [
         pgNum: 92,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg91.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg91.png"><br><br>
 
     <div class=spoilers>
 
@@ -1535,7 +1535,7 @@ const pgData = [
         pgNum: 93,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg92.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg92.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1557,7 +1557,7 @@ const pgData = [
         pgNum: 94,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg93.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg93.png"><br><br>
     He hasn't responded to any of your messages since he reportedly "found something" yesterday.
     <br><br>
     He's talked about the whole secret agent thing with you before (well, not really, but it's not like it's hard to parse what he says), but he never mentioned it'd be this suspenseful.
@@ -1569,7 +1569,7 @@ const pgData = [
         pgNum: 95,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg95.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg95.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1606,7 +1606,7 @@ const pgData = [
         pgNum: 96,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg96.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg96.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1620,7 +1620,7 @@ const pgData = [
         pgNum: 97,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg97.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg97.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1636,7 +1636,7 @@ const pgData = [
         pgNum: 98,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg98.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg98.png"><br><br>
 
     <div class=spoilers>
 
@@ -1650,7 +1650,7 @@ const pgData = [
         pgNum: 99,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg99.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg99.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1664,7 +1664,7 @@ const pgData = [
         pgNum: 100,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg100.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg100.png"><br><br>
 
     <div class=spoilers>
 
@@ -1684,7 +1684,7 @@ const pgData = [
         pgNum: 101,
         title: `Cashier: Introduce yourself.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg101.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg101.gif"><br><br>
     Your name is OLIVIA, but you're kind of in the middle of something here, much too busy for any proper introductions!<br><br>
     You begin texting him once more in hopes of a response.
     <br><br>
@@ -1692,13 +1692,13 @@ const pgData = [
     <div class=spoilers>
 
     <div class=right>
-    <img height=70px src="../img/texts/m1.png"><br><br>
-    <img src="../img/texts/m2.png"><br><br>
-    <img src="../img/texts/m3.png"><br><br>
-    <img src="../img/texts/m4.png"><br><br>
-    <img src="../img/texts/m5.png"><br><br>
-    <img src="../img/texts/m6.png"><br><br>
-    <img src="../img/texts/m7.png"><br><br>
+    <img height=70px src="../public/texts/m1.png"><br><br>
+    <img src="../public/texts/m2.png"><br><br>
+    <img src="../public/texts/m3.png"><br><br>
+    <img src="../public/texts/m4.png"><br><br>
+    <img src="../public/texts/m5.png"><br><br>
+    <img src="../public/texts/m6.png"><br><br>
+    <img src="../public/texts/m7.png"><br><br>
     </div>
 
     </div></div>`,
@@ -1708,14 +1708,14 @@ const pgData = [
         pgNum: 102,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg102.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg102.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 103,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg103.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg103.gif"><br><br>
     Oh shit.`,
         authorNotes: "",
     },
@@ -1723,7 +1723,7 @@ const pgData = [
         pgNum: 104,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg104.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg104.png"><br><br>
 
     <div class=spoilers>
 
@@ -1767,7 +1767,7 @@ const pgData = [
         pgNum: 105,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg105.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg105.png"><br><br>
 
     <div class=spoilers>
 
@@ -1814,7 +1814,7 @@ const pgData = [
         pgNum: 106,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg106.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg106.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1842,7 +1842,7 @@ const pgData = [
         pgNum: 107,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg107.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg107.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1884,7 +1884,7 @@ const pgData = [
         pgNum: 108,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg108.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg108.gif"><br><br>
 
     <div class=spoilers>
 
@@ -1950,7 +1950,7 @@ const pgData = [
         pgNum: 109,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg109.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg109.png"><br><br>
 
     <div class=spoilers>
 
@@ -1963,14 +1963,14 @@ const pgData = [
         pgNum: 110,
         title: `[M] Olivia: Ponder.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg110.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg110.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 111,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg111.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg111.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2008,7 +2008,7 @@ const pgData = [
         pgNum: 112,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg111.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg111.png"><br><br>
 
     <div class=spoilers>
 
@@ -2024,7 +2024,7 @@ const pgData = [
         pgNum: 113,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg115.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg115.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2038,7 +2038,7 @@ const pgData = [
         pgNum: 114,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg114.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg114.png"><br><br>
 
     <div class=spoilers>
 
@@ -2052,7 +2052,7 @@ const pgData = [
         pgNum: 115,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg115.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg115.png"><br><br>
 
     <div class=spoilers>
 
@@ -2075,7 +2075,7 @@ const pgData = [
         pgNum: 116,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg112.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg112.png"><br><br>
 
     <div class=spoilers>
 
@@ -2104,7 +2104,7 @@ const pgData = [
         pgNum: 117,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg113.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg113.png"><br><br>
 
     <div class=spoilers>
 
@@ -2119,7 +2119,7 @@ const pgData = [
         pgNum: 118,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg116.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg116.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2131,7 +2131,7 @@ const pgData = [
         pgNum: 119,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg116.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg116.png"><br><br>
 
     <div class=spoilers>
 
@@ -2181,7 +2181,7 @@ const pgData = [
         pgNum: 120,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg117.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg117.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2212,7 +2212,7 @@ const pgData = [
         pgNum: 121,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg118.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg118.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2226,7 +2226,7 @@ const pgData = [
         pgNum: 122,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg119.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg119.png"><br><br>
 
     <div class=spoilers>
 
@@ -2270,7 +2270,7 @@ const pgData = [
         pgNum: 123,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg120.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg120.png"><br><br>
 
     <div class=spoilers>
 
@@ -2282,7 +2282,7 @@ const pgData = [
         pgNum: 124,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg122.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg122.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2324,7 +2324,7 @@ const pgData = [
         pgNum: 125,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg124.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg124.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2356,7 +2356,7 @@ const pgData = [
         pgNum: 126,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg125.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg125.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2390,7 +2390,7 @@ const pgData = [
         pgNum: 127,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg126.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg126.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2405,7 +2405,7 @@ const pgData = [
         pgNum: 128,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg127.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg127.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2441,7 +2441,7 @@ const pgData = [
         pgNum: 129,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg128.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg128.png"><br><br>
 
     <div class=spoilers>
 
@@ -2455,14 +2455,14 @@ const pgData = [
         pgNum: 130,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg128.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg128.png">`,
         authorNotes: "",
     },
     {
         pgNum: 131,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg129.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg129.png"><br><br>
 
     <div class=spoilers>
 
@@ -2476,7 +2476,7 @@ const pgData = [
         pgNum: 132,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg130.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg130.png"><br><br>
 
     <div class=spoilers>
 
@@ -2517,7 +2517,7 @@ const pgData = [
         pgNum: 134,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg131.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg131.png"><br><br>
 
     <div class=spoilers>
 
@@ -2539,7 +2539,7 @@ const pgData = [
         pgNum: 135,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg82.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg82.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2588,7 +2588,7 @@ const pgData = [
         pgNum: 136,
         title: `Godsmack: Consider possibility that this guy is bad news.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg132.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg132.png"><br><br>
     He crashes in the forest nearby your home, says to have forgotten everything, but do I even know that's true? <br><br>
 
     <div class=spoilers>
@@ -2623,7 +2623,7 @@ const pgData = [
         pgNum: 137,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg133.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg133.png"><br><br>
 
     <div class=spoilers>
 
@@ -2655,7 +2655,7 @@ const pgData = [
         pgNum: 138,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg134.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg134.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2674,7 +2674,7 @@ const pgData = [
         pgNum: 139,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg135.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg135.png"><br><br>
 
     <div class=spoilers>
 
@@ -2701,7 +2701,7 @@ const pgData = [
         pgNum: 140,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg136.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg136.png"><br><br>
 
     <div class=spoilers>
 
@@ -2724,7 +2724,7 @@ const pgData = [
         pgNum: 141,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg137.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg137.png"><br><br>
 
     <div class=spoilers>
 
@@ -2751,7 +2751,7 @@ const pgData = [
         pgNum: 142,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg138.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg138.png"><br><br>
 
     <div class=spoilers>
 
@@ -2776,7 +2776,7 @@ const pgData = [
         pgNum: 143,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg140.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg140.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2795,7 +2795,7 @@ const pgData = [
         pgNum: 144,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg141.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg141.png"><br><br>
 
     <div class=spoilers>
 
@@ -2813,7 +2813,7 @@ const pgData = [
         pgNum: 145,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg142.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg142.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2827,7 +2827,7 @@ const pgData = [
         pgNum: 146,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg143.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg143.gif"><br><br>
 
     <div class=spoilers>
 
@@ -2857,7 +2857,7 @@ const pgData = [
         pgNum: 147,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg144.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg144.png"><br><br>
 
     <div class=spoilers>
 
@@ -2897,7 +2897,7 @@ const pgData = [
         pgNum: 148,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg145.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg145.png"><br><br>
 
     <div class=spoilers>
 
@@ -2946,7 +2946,7 @@ const pgData = [
         pgNum: 149,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg146.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg146.png"><br><br>
 
     <div class=spoilers>
 
@@ -2978,7 +2978,7 @@ const pgData = [
         pgNum: 150,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg147.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg147.png"><br><br>
 
     <div class=spoilers>
 
@@ -3029,7 +3029,7 @@ const pgData = [
         pgNum: 151,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg148.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg148.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3050,7 +3050,7 @@ const pgData = [
         pgNum: 152,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg148.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg148.png"><br><br>
 
     <div class=spoilers>
 
@@ -3082,7 +3082,7 @@ const pgData = [
         pgNum: 153,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg149.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg149.png"><br><br>
 
     <div class=spoilers>
 
@@ -3112,7 +3112,7 @@ const pgData = [
         pgNum: 154,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg150.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg150.png"><br><br>
 
     <div class=spoilers>
 
@@ -3142,7 +3142,7 @@ const pgData = [
         pgNum: 155,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg151.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg151.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3166,7 +3166,7 @@ const pgData = [
         pgNum: 156,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg152.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg152.png"><br><br>
 
     <div class=spoilers>
 
@@ -3196,7 +3196,7 @@ const pgData = [
         pgNum: 157,
         title: `MC: Check if it has a hood.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg153.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg153.gif"><br><br>
         That it does! You quickly swoop said hood over your head to test it's functionality.
     <br><br>All systems fully operational.
     `,
@@ -3206,7 +3206,7 @@ const pgData = [
         pgNum: 158,
         title: `Now, pose dramatically.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg154.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg154.png"><br><br>
     Perfectly deserved for a hardened survivor of cliff fallings such as yourself. You ensure to Godsmack you will carry his dusty, ragged cloak with honor. <br><br>
     He says "alright, I guess".`,
         authorNotes: "",
@@ -3215,7 +3215,7 @@ const pgData = [
         pgNum: 159,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg155.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg155.png"><br><br>
 
     <div class=spoilers>
 
@@ -3228,7 +3228,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg156.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg156.png"><br><br>
 
     <div class=spoilers>
 
@@ -3242,7 +3242,7 @@ const pgData = [
         pgNum: 160,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg157.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg157.png"><br><br>
 
     <div class=spoilers>
 
@@ -3291,14 +3291,14 @@ const pgData = [
         pgNum: 161,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg158.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg158.png">`,
         authorNotes: "",
     },
     {
         pgNum: 162,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg159.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg159.png"><br><br>
 
     <div class=spoilers>
 
@@ -3338,7 +3338,7 @@ const pgData = [
         pgNum: 163,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg160.png">
+        content: `<img width="650" height="650" src="../public/comics/pg160.png">
         <div class=spoilers>
         <div class=godsmack><div class=title>GODSMACK</div>
         "It's that sort of kindness that gives me hope for this dying planet."
@@ -3349,7 +3349,7 @@ const pgData = [
         pgNum: 164,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg161.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg161.png"><br><br>
         
         With the Aether's soft glow shining through the leaves, you begin your journey through the woods, towards the enormous tree over the horizon.
         <br><br>
@@ -3371,7 +3371,7 @@ const pgData = [
         pgNum: 165,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg162.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg162.png"><br><br>
         ...
         <br><br>
         I don't need a name to be someone.
@@ -3387,7 +3387,7 @@ const pgData = [
         pgNum: 166,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg163.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg163.png"><br><br>
         
         You snap out of your reflections, and look around, finding yourself in a deeper section of the woods, the admittedly comforting light pouring in from above now absent as the trees grow thicker overhead.`,
         authorNotes: "",
@@ -3396,7 +3396,7 @@ const pgData = [
         pgNum: 167,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg164.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg164.png"><br><br>
     Suddenly, you stand silent, at the sound of a familiar voice. And a familiar cold, as well.`,
         authorNotes: "",
     },
@@ -3404,7 +3404,7 @@ const pgData = [
         pgNum: 168,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg165.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg165.png"><br><br>
     Shit, shit, shit...! Moving quickly, you slip behind a tree, before peering out from it's side to catch a glimpse of Lilith's silhouette, hovering over what looks like... a deer?`,
         authorNotes: "",
     },
@@ -3412,7 +3412,7 @@ const pgData = [
         pgNum: 169,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg166.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg166.png"><br><br>
     It's injured, a bear trap cutting through it's leg's tendons and muscle straight into the bone. As Lilith hums a peculiar melody, it seems to calm and accepts her presence.`,
         authorNotes: "",
     },
@@ -3420,35 +3420,35 @@ const pgData = [
         pgNum: 170,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=530 src="../img/comics/pg167.png">`,
+        content: `<img width=650 height=530 src="../public/comics/pg167.png">`,
         authorNotes: "",
     },
     {
         pgNum: 171,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg168.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg168.png">`,
         authorNotes: "",
     },
     {
         pgNum: 172,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=530 src="../img/comics/pg169.png">`,
+        content: `<img width=650 height=530 src="../public/comics/pg169.png">`,
         authorNotes: "",
     },
     {
         pgNum: 173,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg170.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg170.png">`,
         authorNotes: "",
     },
     {
         pgNum: 174,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg171.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg171.gif"><br><br>
     The deer absconds with the bear trap still clamped around it's leg.`,
         authorNotes: "",
     },
@@ -3456,7 +3456,7 @@ const pgData = [
         pgNum: 175,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg172.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg172.png"><br><br>
     You can't even begin to comprehend what just happened there.
     `,
         authorNotes: "",
@@ -3465,7 +3465,7 @@ const pgData = [
         pgNum: 176,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg173.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg173.png"><br><br>
     The deer got one thing right though, it's time to get out of here.`,
         authorNotes: "",
     },
@@ -3473,7 +3473,7 @@ const pgData = [
         pgNum: 177,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg174.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg174.png"><br><br>
     `,
         authorNotes: "",
     },
@@ -3481,7 +3481,7 @@ const pgData = [
         pgNum: 178,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg176.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg176.png"><br><br>
 
     <div class=spoilers>
 
@@ -3495,7 +3495,7 @@ const pgData = [
         pgNum: 179,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg177.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg177.png"><br><br>
 
     <div class=spoilers>
 
@@ -3509,7 +3509,7 @@ const pgData = [
         pgNum: 180,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg178.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg178.png"><br><br>
 
     <div class=spoilers>
 
@@ -3523,7 +3523,7 @@ const pgData = [
         pgNum: 181,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg179.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg179.png"><br><br>
 
     <div class=spoilers>
 
@@ -3537,14 +3537,14 @@ const pgData = [
         pgNum: 182,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg180.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg180.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 183,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg181.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg181.png"><br><br>
 
     <div class=spoilers>
 
@@ -3558,7 +3558,7 @@ const pgData = [
         pgNum: 184,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg182.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg182.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3572,21 +3572,21 @@ const pgData = [
         pgNum: 185,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg195.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg195.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 186,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg196.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg196.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 187,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg197.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg197.png"><br><br>
 
     <div class=spoilers>
 
@@ -3609,7 +3609,7 @@ const pgData = [
         pgNum: 188,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg198.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg198.png"><br><br>
 
     <div class=spoilers>
 
@@ -3629,7 +3629,7 @@ const pgData = [
         pgNum: 189,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg199.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg199.png"><br><br>
 
     <div class=spoilers>
 
@@ -3651,21 +3651,21 @@ const pgData = [
         pgNum: 190,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg200.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg200.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 191,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg201.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg201.png">`,
         authorNotes: "",
     },
     {
         pgNum: 192,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg202.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg202.gif"><br><br>
 
     <div class=spoilers>
 
@@ -3683,14 +3683,14 @@ const pgData = [
         pgNum: 193,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg203.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg203.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 194,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg204.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg204.png"><br><br>
 
     <div class=spoilers>
 
@@ -3908,7 +3908,7 @@ const pgData = [
         pgNum: 195,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg205.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg205.png"><br><br>
 
     <div class=spoilers>
 
@@ -3926,7 +3926,7 @@ const pgData = [
         pgNum: 196,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg206.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg206.png"><br><br>
 
     <div class=spoilers>
 
@@ -3949,7 +3949,7 @@ const pgData = [
         pgNum: 197,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg207.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg207.png"><br><br>
 
     <div class=spoilers>
 
@@ -3965,7 +3965,7 @@ const pgData = [
         pgNum: 198,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg208.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg208.png"><br><br>
 
     <div class=spoilers>
 
@@ -3979,7 +3979,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg209.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg209.png"><br><br>
 
     <div class=spoilers>
 
@@ -4000,7 +4000,7 @@ const pgData = [
         pgNum: 199,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg210.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg210.png"><br><br>
 
     <div class=spoilers>
 
@@ -4015,14 +4015,14 @@ const pgData = [
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     I MIGHT! i just like bein' included! don't that count for somethin'??
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif"><br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
     Of course, of course. If that is what you desire, Butler.
@@ -4039,7 +4039,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif">
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif">
     </div></div>`,
         authorNotes: "",
     },
@@ -4047,11 +4047,11 @@ const pgData = [
         pgNum: 200,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg211.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg211.png"><br><br>
 
     <div class=spoilers>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif"><br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
     <div class=tiny>(Oh, hush you, he'll love it regardless.)</div>
@@ -4064,18 +4064,18 @@ const pgData = [
     <br><br>
 
     <div class=right><div class=title>BUTLER</div>
-    YOU MEAN TO TELL ME THE BOX ISNT THE PRESENT? YOU <img width=58 height=13 src="../img/static.gif"> WENT ALL OUT!
+    YOU MEAN TO TELL ME THE BOX ISNT THE PRESENT? YOU <img width=58 height=13 src="../public/static.gif"> WENT ALL OUT!
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     <div class=huge><shake intensity=3>OHHHHHH SHIIIIT!!!!</shake></div>
     </div>
     <br><br>
 
-    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../img/static.gif"><br><br>
+    <div class=hero><div class=title>???</div></div><img width=58 height=13 src="../public/static.gif"><br><br>
 
     <div class=right><div class=title>BUTLER</div>
     MY VERY OWN GAMEDUDE! IVE BEEN BUGGING YOU ABOUT THIS BAD BOY FOR WEEKS!!
@@ -4083,7 +4083,7 @@ const pgData = [
     <br><br>
 
     <div class=hero><div class=title>CAMILLE</div>
-    Oh yes, I'm quite aware. No price too great for <img width=58 height=13 src="../img/static.gif"> Butler.
+    Oh yes, I'm quite aware. No price too great for <img width=58 height=13 src="../public/static.gif"> Butler.
     </div>
 
     </div></div>`,
@@ -4093,7 +4093,7 @@ const pgData = [
         pgNum: 201,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg212.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg212.png"><br><br>
 
     <div class=spoilers>
 
@@ -4124,7 +4124,7 @@ const pgData = [
         pgNum: 202,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg213.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg213.png"><br><br>
 
     <div class=spoilers>
 
@@ -4141,7 +4141,7 @@ const pgData = [
         pgNum: 203,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg214.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg214.png"><br><br>
 
     <div class=spoilers>
 
@@ -4154,7 +4154,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg215.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg215.png"><br><br>
 
     <div class=spoilers>
 
@@ -4183,7 +4183,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg216.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg216.png"><br><br>
 
     <div class=spoilers>
 
@@ -4201,7 +4201,7 @@ const pgData = [
         pgNum: 204,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg217.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg217.png"><br><br>
 
     <div class=spoilers>
 
@@ -4217,7 +4217,7 @@ const pgData = [
         pgNum: 205,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg218.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg218.png"><br><br>
     You make your way down the spiraling stairs and tread across the cold, marble floor towards the doorway.
     <br><br>
     You are scared.
@@ -4231,7 +4231,7 @@ const pgData = [
     You are scared.
     <br><br>
     You twist the handle, and a ray of light cuts through the darkn--<br><br>
-    <img width="650" height="650" src="../img/comics/pg219.png"><br>
+    <img width="650" height="650" src="../public/comics/pg219.png"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>CAMILLE</div>
@@ -4245,7 +4245,7 @@ const pgData = [
         pgNum: 206,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg222.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg222.png"><br><br>
 
     <div class=spoilers>
 
@@ -4260,7 +4260,7 @@ const pgData = [
         pgNum: 207,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg220.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg220.png"><br><br>
     ..She's mumbling incoherently. Black out drunk.
     <br><br>
 
@@ -4279,7 +4279,7 @@ const pgData = [
         pgNum: 208,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg221.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg221.png"><br><br>
 
     <div class=spoilers>
 
@@ -4294,7 +4294,7 @@ const pgData = [
         pgNum: 209,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg222.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg222.png"><br><br>
         ...`,
         authorNotes: "",
     },
@@ -4302,15 +4302,15 @@ const pgData = [
         pgNum: 210,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg223.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg223.png"><br><br>
 
     <div class=spoilers>
 
     <div class=title>BUTLER</div>
     ...i know you do.
     </div><br>
-    <img width="650" height="650" src="../img/white.png"><br><br>
-    <img width="650" height="650" src="../img/comics/pg224.png"><br><br>
+    <img width="650" height="650" src="../public/white.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg224.png"><br><br>
 
     <div class=spoilers>
 
@@ -4324,7 +4324,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg225.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg225.png"><br><br>
 
     <div class=spoilers>
 
@@ -4332,7 +4332,7 @@ const pgData = [
     ...!</div></div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg226.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg226.png"><br><br>
 
     <div class=spoilers>
 
@@ -4351,7 +4351,7 @@ const pgData = [
         pgNum: 211,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg227.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg227.png"><br><br>
 
     <div class=spoilers>
 
@@ -4365,7 +4365,7 @@ const pgData = [
         pgNum: 212,
         title: `Earlier...`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg181.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg181.png"><br><br>
 
     <div class=spoilers>
 
@@ -4379,7 +4379,7 @@ const pgData = [
         pgNum: 213,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg182.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg182.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4393,14 +4393,14 @@ const pgData = [
         pgNum: 214,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg183.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg183.png">`,
         authorNotes: "",
     },
     {
         pgNum: 215,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg184.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg184.png"><br><br>
 
     <div class=spoilers>
 
@@ -4418,7 +4418,7 @@ const pgData = [
         pgNum: 216,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg185.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg185.gif"><br><br>
 
     Someone has to be here.
     <br><br>
@@ -4446,14 +4446,14 @@ const pgData = [
         pgNum: 217,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg186.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg186.png"><br><br>
 
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
     PLEASE, ANYBODY--</div>
     </div><br>
-    <img width="650" height="650" src="../img/comics/pg187.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg187.png"><br><br>
 
     <div class=spoilers>
 
@@ -4467,7 +4467,7 @@ const pgData = [
         pgNum: 218,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg188.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg188.png"><br><br>
 
     <div class=spoilers>
 
@@ -4481,7 +4481,7 @@ const pgData = [
         pgNum: 219,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg189.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg189.png"><br><br>
 
     <div class=spoilers>
 
@@ -4502,7 +4502,7 @@ const pgData = [
     </div>
     <br>
 
-    <img width="650" height="650" src="../img/comics/pg190.gif"><br><br>
+    <img width="650" height="650" src="../public/comics/pg190.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4516,7 +4516,7 @@ const pgData = [
         pgNum: 220,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg191.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg191.png"><br><br>
         In the tavern...?`,
         authorNotes: "",
     },
@@ -4524,7 +4524,7 @@ const pgData = [
         pgNum: 221,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg192.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg192.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4536,7 +4536,7 @@ const pgData = [
     </div>
     <br>
 
-    <img width="650" height="650" src="../img/comics/pg193.gif"><br><br>
+    <img width="650" height="650" src="../public/comics/pg193.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4554,7 +4554,7 @@ const pgData = [
         pgNum: 222,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg194.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg194.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4568,7 +4568,7 @@ const pgData = [
         pgNum: 223,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg229.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg229.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4582,7 +4582,7 @@ const pgData = [
         pgNum: 224,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg230.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg230.png"><br><br>
 
     <div class=spoilers>
 
@@ -4596,7 +4596,7 @@ const pgData = [
         pgNum: 225,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231.png"><br><br>
 
     <div class=spoilers>
 
@@ -4710,7 +4710,7 @@ const pgData = [
         pgNum: 226,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-2.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-2.png"><br><br>
     Everyone stops and turns to look, as if the presence of this voice is more important than anything they were doing at the current moment.
     <br><br>
     Pinned against the ground by a hundred pounds of steel, you manage to turn your head.`,
@@ -4720,7 +4720,7 @@ const pgData = [
         pgNum: 227,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-3.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-3.png"><br><br>
 
     <div class=spoilers>
 
@@ -4734,7 +4734,7 @@ const pgData = [
         pgNum: 231,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-4.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-4.png"><br><br>
 
     <div class=spoilers>
 
@@ -4775,7 +4775,7 @@ const pgData = [
         pgNum: 232,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-5.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-5.png"><br><br>
 
     <div class=spoilers>
 
@@ -4789,7 +4789,7 @@ const pgData = [
         pgNum: 233,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-6.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-6.png"><br><br>
     `,
         authorNotes: "",
     },
@@ -4797,7 +4797,7 @@ const pgData = [
         pgNum: 234,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg231-7.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg231-7.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4811,7 +4811,7 @@ const pgData = [
         pgNum: 235,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg232.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg232.png"><br><br>
     Well, that's... mildly concerning, but at the very least they look like they're a bit less immediately murderous.
     <br><br>
 
@@ -4824,13 +4824,13 @@ const pgData = [
     <div class=hero><div class=title>MC</div>
     Hey, thanks. I don't think I caught your--
     </div></div><br>
-    <img width="650" height="650" src="../img/comics/pg233.gif"><br>
+    <img width="650" height="650" src="../public/comics/pg233.gif"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
     HUP!</div>
     </div><br>
-    <img width="650" height="650" src="../img/comics/pg234.gif"><br>
+    <img width="650" height="650" src="../public/comics/pg234.gif"><br>
     <div class=spoilers>
 
     <div class=hero><div class=title>MC</div>
@@ -4843,7 +4843,7 @@ const pgData = [
         pgNum: 236,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg235.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg235.gif"><br><br>
 
     <div class=spoilers>
 
@@ -4867,7 +4867,7 @@ const pgData = [
         pgNum: 237,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg236.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg236.png"><br><br>
 
     <div class=spoilers>
 
@@ -4889,7 +4889,7 @@ const pgData = [
         pgNum: 238,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg237.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg237.png"><br><br>
 
     <div class=spoilers>
 
@@ -4935,7 +4935,7 @@ const pgData = [
         pgNum: 239,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg238.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg238.png"><br><br>
 
     <div class=spoilers>
 
@@ -5019,7 +5019,7 @@ const pgData = [
         pgNum: 240,
         title: `Introduce yourself.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg238-2.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg238-2.png"><br><br>
 
     <div class=spoilers>
 
@@ -5165,7 +5165,7 @@ const pgData = [
         pgNum: 241,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg240.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg240.png"><br><br>
 
     <div class=spoilers>
 
@@ -5218,7 +5218,7 @@ const pgData = [
         pgNum: 242,
         title: `Kai: How're you holding up?`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg241.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg241.png"><br><br>
     ...Any second now.
     <br><br>
     Shh!<br><br>
@@ -5231,14 +5231,14 @@ const pgData = [
         pgNum: 243,
         title: `[M] Kai: Be cool.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg242.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg242.png"><br><br>
 
     <div class=spoilers>
 
     <div class=kai><div class=title>KAI</div>
     hey! w-what took ya' so long?<br><br>
     not that it matters or nothin'..</div>
-    <img src="../img/comics/pgpuck.png"><br><br>
+    <img src="../public/comics/pgpuck.png"><br><br>
 
     <div class="lui right"><div class=title>MOUSE</div>
     Weeell, for your information, I didn't get any sleep last night.</div>
@@ -5246,7 +5246,7 @@ const pgData = [
 
     <div class=kai><div class=title>KAI</div>
     iss'at so? mighty sorry to hear. not your daddy again, is it?</div>
-    <img src="../img/comics/pgpuck2.png"><br><br>
+    <img src="../public/comics/pgpuck2.png"><br><br>
 
     <div class="lui right"><div class=title>MOUSE</div>
     No, not nearly. Unfortunately, it was hubris a' my own.</div>
@@ -5271,7 +5271,7 @@ const pgData = [
         pgNum: 244,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg243.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg243.png"><br><br>
 
     <div class=spoilers>
 
@@ -5286,7 +5286,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg244.gif"><br><br>
+    <img width="650" height="650" src="../public/comics/pg244.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5311,7 +5311,7 @@ const pgData = [
         pgNum: 245,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg245.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg245.png"><br><br>
 
     <div class=spoilers>
 
@@ -5339,7 +5339,7 @@ const pgData = [
         pgNum: 246,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg246.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg246.png"><br><br>
 
     <div class=spoilers>
 
@@ -5361,7 +5361,7 @@ const pgData = [
         pgNum: 247,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg247.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg247.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5393,7 +5393,7 @@ const pgData = [
         pgNum: 248,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg248.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg248.png"><br><br>
 
     <div class=spoilers>
 
@@ -5415,7 +5415,7 @@ const pgData = [
         pgNum: 249,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg249.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg249.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5429,7 +5429,7 @@ const pgData = [
         pgNum: 250,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg250.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg250.png"><br><br>
 
     <div class=spoilers>
 
@@ -5443,7 +5443,7 @@ const pgData = [
         pgNum: 251,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg251.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg251.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5489,7 +5489,7 @@ const pgData = [
         pgNum: 252,
         title: `Kai: Try giving Hero the benefit of the doubt.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg252.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg252.png"><br><br>
     You suppose he's nice enough.
     <br><br>
 
@@ -5546,7 +5546,7 @@ const pgData = [
         pgNum: 253,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg253.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg253.png"><br><br>
     Wait a sec.`,
         authorNotes: "",
     },
@@ -5554,7 +5554,7 @@ const pgData = [
         pgNum: 254,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg254.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg254.png"><br><br>
     ...What is that?`,
         authorNotes: "",
     },
@@ -5562,42 +5562,42 @@ const pgData = [
         pgNum: 255,
         title: `...`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg255.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg255.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 256,
         title: `....`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg256.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg256.png">`,
         authorNotes: "",
     },
     {
         pgNum: 257,
         title: `.....`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg257.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg257.png">`,
         authorNotes: "",
     },
     {
         pgNum: 258,
         title: `......`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg258.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg258.png">`,
         authorNotes: "",
     },
     {
         pgNum: 259,
         title: `.......`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg259.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg259.png">`,
         authorNotes: "",
     },
     {
         pgNum: 260,
         title: `........`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg260.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg260.png"><br><br>
     ...
     <br><br>
     <br>
@@ -5610,7 +5610,7 @@ const pgData = [
     ...
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg261.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg261.png"><br><br>
     ...
     <br><br>
 
@@ -5624,7 +5624,7 @@ const pgData = [
         pgNum: 261,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg262.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg262.png"><br><br>
         <div class=huge><shake intensity=5>THUD!</shake></div>`,
         authorNotes: "",
     },
@@ -5632,7 +5632,7 @@ const pgData = [
         pgNum: 262,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg263.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg263.png"><br><br>
 
     <div class=spoilers>
 
@@ -5650,7 +5650,7 @@ const pgData = [
         pgNum: 263,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg264.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg264.png"><br><br>
 
     <div class=spoilers>
 
@@ -5670,14 +5670,14 @@ const pgData = [
         pgNum: 264,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg265.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg265.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 265,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg266.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg266.gif"><br><br>
 
     <div class=spoilers>
 
@@ -5710,7 +5710,7 @@ const pgData = [
         pgNum: 266,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg267.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg267.png"><br><br>
     Still frozen in horror, you feel as though you are pulled along by some invisible force. <br><br>
     Your feet move almost by themselves, following the commotion and leading to a nearby room, the door ajar.
     <br><br>
@@ -5731,7 +5731,7 @@ const pgData = [
         pgNum: 267,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg268.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg268.png"><br><br>
 
     <div class=spoilers>
 
@@ -5745,7 +5745,7 @@ const pgData = [
         pgNum: 268,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg269.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg269.png"><br><br>
 
     <div class=spoilers>
 
@@ -5762,7 +5762,7 @@ const pgData = [
         pgNum: 269,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg270.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg270.png"><br><br>
     And, like clockwork, she arrives, just as described.
     <br><br>
 
@@ -5792,7 +5792,7 @@ const pgData = [
         pgNum: 270,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg271.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg271.png"><br><br>
 
     <div class=spoilers>
 
@@ -5818,7 +5818,7 @@ const pgData = [
         pgNum: 271,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg272.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg272.png"><br><br>
 
     <div class=spoilers>
 
@@ -5838,7 +5838,7 @@ const pgData = [
         pgNum: 272,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg273.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg273.png"><br><br>
     It has to be a misunderstanding.
     <br><br>
     If you can just... explain... or....
@@ -5850,7 +5850,7 @@ const pgData = [
         pgNum: 273,
         title: `Hero: Snoop.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg274.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg274.png"><br><br>
     You press your head to the door.
     <br><br>
 
@@ -5880,7 +5880,7 @@ const pgData = [
         pgNum: 274,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg275.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg275.png"><br><br>
 
     <div class=spoilers>
 
@@ -5897,14 +5897,14 @@ const pgData = [
     </div>
     <br>
 
-    <img src="../img/black.png">`,
+    <img src="../public/black.png">`,
         authorNotes: "",
     },
     {
         pgNum: 275,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg276.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg276.png"><br><br>
 
     <div class=spoilers>
 
@@ -5995,7 +5995,7 @@ const pgData = [
         pgNum: 276,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg277.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg277.png"><br><br>
 
     <div class=spoilers>
 
@@ -6057,7 +6057,7 @@ const pgData = [
         pgNum: 277,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg278.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg278.png"><br><br>
 
     <div class=spoilers>
 
@@ -6071,7 +6071,7 @@ const pgData = [
         pgNum: 278,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg279.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg279.png"><br><br>
     Behind us.`,
         authorNotes: "",
     },
@@ -6080,11 +6080,11 @@ const pgData = [
         title: `INTERLUDE I`,
         date: writeDate(2020, 3, 16),
         content: `
-    <img width="650" height="650" src="../img/white.png">
+    <img width="650" height="650" src="../public/white.png">
     Typically, you die, you do right by me, and your soul is given a vessel on the Aether.
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg280.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg280.png"><br><br>
     It was my very own personal, synthetic heaven for the antiheretical.`,
         authorNotes: "",
     },
@@ -6092,7 +6092,7 @@ const pgData = [
         pgNum: 280,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg281.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg281.png"><br><br>
     A safe place, away from the poisonous, away from those who had beaten and abandoned me.
     <br><br>
     Only once had I made an exception.
@@ -6100,7 +6100,7 @@ const pgData = [
     It was during the aftermath of my sister's... estrangement.
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg282.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg282.png"><br><br>
     I was alone for the first time in my life.</div>`,
         authorNotes: "",
     },
@@ -6108,7 +6108,7 @@ const pgData = [
         pgNum: 281,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg283.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg283.png"><br><br>
     And I was not willing... or... perhaps even capable, of bearing the brunt of the world myself.</div>`,
         authorNotes: "",
     },
@@ -6116,7 +6116,7 @@ const pgData = [
         pgNum: 282,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg284.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg284.png"><br><br>
     In that moment, as I called out for someone...</div>`,
         authorNotes: "",
     },
@@ -6124,7 +6124,7 @@ const pgData = [
         pgNum: 283,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg285.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg285.png"><br><br>
     Anyone in the world...</div>`,
         authorNotes: "",
     },
@@ -6132,7 +6132,7 @@ const pgData = [
         pgNum: 284,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg286.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg286.png"><br><br>
     It turns out that in my state of grief I had... unknowingly summoned my first Aetherborn.
     <br><br>
     I had summoned you, Sol.</div>`,
@@ -6142,7 +6142,7 @@ const pgData = [
         pgNum: 285,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg287.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg287.png"><br><br>
     `,
         authorNotes: "",
     },
@@ -6150,7 +6150,7 @@ const pgData = [
         pgNum: 286,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg288.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg288.png"><br><br>
 
     <div class=spoilers>
 
@@ -6163,7 +6163,7 @@ const pgData = [
         pgNum: 287,
         title: `Days pass without a word exchanged.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg289.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg289.png"><br><br>
 
     <div class=spoilers>
 
@@ -6180,7 +6180,7 @@ const pgData = [
         pgNum: 288,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg290.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg290.png"><br><br>
 
     <div class=spoilers>
 
@@ -6214,7 +6214,7 @@ const pgData = [
         pgNum: 289,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg291.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg291.png"><br><br>
 
     <div class=spoilers>
 
@@ -6246,7 +6246,7 @@ const pgData = [
         pgNum: 290,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg292.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg292.png"><br><br>
 
     <div class=spoilers>
 
@@ -6270,7 +6270,7 @@ const pgData = [
         pgNum: 291,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg293.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg293.png"><br><br>
 
     <div class=spoilers>
 
@@ -6282,7 +6282,7 @@ const pgData = [
         pgNum: 292,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg294.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg294.png"><br><br>
     The floor is cold on your feet. You look down and you see yourself looking back at you, like a mirror. You've never even seen a material like this, though in all fairness you haven't seen half of the things in this room.
     <br><br>
     On your right, a grandiose painting sits, yet unhung.`,
@@ -6292,7 +6292,7 @@ const pgData = [
         pgNum: 293,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg295.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg295.png"><br><br>
     You're not exactly sure what it means?<br><br>
     It looks like the girl out there, but in the painting she's all grown up.
     <br><br>
@@ -6308,7 +6308,7 @@ const pgData = [
         pgNum: 294,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg296.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg296.png"><br><br>
     ...What the hell is this?<br><br>
     It looks like it has one of those wind-up twisty things, but you probably shouldn't go touching random machinery.`,
         authorNotes: "",
@@ -6317,28 +6317,28 @@ const pgData = [
         pgNum: 295,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg297.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg297.png">`,
         authorNotes: "",
     },
     {
         pgNum: 296,
         title: `Sol: Touch wind-up twisty thing.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg298.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg298.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 297,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg299.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg299.png">`,
         authorNotes: "",
     },
     {
         pgNum: 298,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg300.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg300.png"><br><br>
     Oh.
     <br><br>
     It plays music. You're not *exactly* sure how, but you can probably just chalk it up to magic.
@@ -6353,42 +6353,42 @@ const pgData = [
         pgNum: 299,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg301.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg301.png">`,
         authorNotes: "",
     },
     {
         pgNum: 300,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg302.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg302.png">`,
         authorNotes: "",
     },
     {
         pgNum: 301,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg303.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg303.png">`,
         authorNotes: "",
     },
     {
         pgNum: 302,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg304.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg304.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 303,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg305.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg305.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 304,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg306.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg306.png"><br><br>
 
     <div class=spoilers>
 
@@ -6406,7 +6406,7 @@ const pgData = [
         pgNum: 305,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg308.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg308.png"><br><br>
 
     <div class=spoilers>
 
@@ -6422,7 +6422,7 @@ const pgData = [
         pgNum: 306,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg307.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg307.png"><br><br>
 
     <div class=spoilers>
 
@@ -6470,7 +6470,7 @@ const pgData = [
         pgNum: 307,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="../img/comics/pg309.png"><br><br>
+        content: `<img src="../public/comics/pg309.png"><br><br>
 
     <div class=spoilers>
 
@@ -6488,7 +6488,7 @@ const pgData = [
         pgNum: 308,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg310.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg310.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6502,7 +6502,7 @@ const pgData = [
         pgNum: 309,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg311.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg311.png"><br><br>
 
     <div class=spoilers>
 
@@ -6553,7 +6553,7 @@ const pgData = [
         pgNum: 311,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="../img/comics/pg311-2.png?v=1659120750044"><br><br>
+        content: `<img src="../public/comics/pg311-2.png?v=1659120750044"><br><br>
     `,
         authorNotes: "",
     },
@@ -6561,42 +6561,42 @@ const pgData = [
         pgNum: 312,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg312.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg312.png">`,
         authorNotes: "",
     },
     {
         pgNum: 313,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg313.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg313.png">`,
         authorNotes: "",
     },
     {
         pgNum: 314,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg314.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg314.png">`,
         authorNotes: "",
     },
     {
         pgNum: 315,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg315.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg315.png">`,
         authorNotes: "",
     },
     {
         pgNum: 316,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg316.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg316.png">`,
         authorNotes: "",
     },
     {
         pgNum: 317,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/black.png">`,
+        content: `<img width="650" height="650" src="../public/black.png">`,
         authorNotes: "",
     },
     {
@@ -6610,7 +6610,7 @@ const pgData = [
         pgNum: 319,
         title: `END OF INTERLUDE I`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/black.png"><br><br>
+        content: `<img width="650" height="650" src="../public/black.png"><br><br>
 
     <div class=spoilers>
 
@@ -6623,7 +6623,7 @@ const pgData = [
         pgNum: 320,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg318.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg318.png"><br><br>
     .....Just a dream.....
     <br><br>
     Your head is spinning. A migraine like no other beats at your temples.
@@ -6647,7 +6647,7 @@ const pgData = [
         pgNum: 321,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg319.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg319.png"><br><br>
 
     <div class=spoilers>
 
@@ -6667,7 +6667,7 @@ const pgData = [
         pgNum: 322,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg320.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg320.png"><br><br>
     The manor is completely silent. You, awkwardly stumbling over yourself, walk towards the main hall.
     <br><br>
 
@@ -6695,7 +6695,7 @@ const pgData = [
         pgNum: 323,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg321.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg321.png"><br><br>
     The manor is completely silent. You enter the main hall, and find no sign of Butler. Your pace quickens.
     <br><br>
 
@@ -6720,7 +6720,7 @@ const pgData = [
         pgNum: 324,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=900 src="../img/comics/pg322.gif"><br><br>
+        content: `<img width=650 height=900 src="../public/comics/pg322.gif"><br><br>
     The tall ceilings echo your calls, but to no response. Desperately, you begin to run, racing up the stairs, tripping over no more than 4 steps at a time.
     <br><br>
 
@@ -6747,7 +6747,7 @@ const pgData = [
         pgNum: 325,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg323.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg323.gif"><br><br>
 
     <div class=spoilers>
 
@@ -6767,56 +6767,56 @@ const pgData = [
         pgNum: 326,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg324.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg324.png">`,
         authorNotes: "",
     },
     {
         pgNum: 327,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg325.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg325.png">`,
         authorNotes: "",
     },
     {
         pgNum: 328,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg326.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg326.png">`,
         authorNotes: "",
     },
     {
         pgNum: 329,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg327.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg327.png">`,
         authorNotes: "",
     },
     {
         pgNum: 330,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg328.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg328.png">`,
         authorNotes: "",
     },
     {
         pgNum: 331,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg329.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg329.png">`,
         authorNotes: "",
     },
     {
         pgNum: 332,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg330.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg330.png">`,
         authorNotes: "",
     },
     {
         pgNum: 333,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg331.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg331.png"><br><br>
 
     <div class=spoilers>
 
@@ -6906,7 +6906,7 @@ const pgData = [
         pgNum: 334,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg332.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg332.png"><br><br>
 
     <div class=spoilers>
 
@@ -6947,7 +6947,7 @@ const pgData = [
         pgNum: 336,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg337.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg337.png"><br><br>
 
     <div class=spoilers>
 
@@ -7004,7 +7004,7 @@ const pgData = [
         pgNum: 337,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg338.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg338.png"><br><br>
 
     <div class=spoilers>
 
@@ -7026,7 +7026,7 @@ const pgData = [
         pgNum: 338,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg339.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg339.png"><br><br>
 
     <div class=spoilers>
 
@@ -7044,7 +7044,7 @@ const pgData = [
         pgNum: 339,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg340.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg340.png"><br><br>
 
     <div class=spoilers>
 
@@ -7058,7 +7058,7 @@ const pgData = [
         pgNum: 340,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg341.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg341.png"><br><br>
 
     <div class=spoilers>
 
@@ -7085,14 +7085,14 @@ const pgData = [
         pgNum: 341,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg342.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg342.png">`,
         authorNotes: "",
     },
     {
         pgNum: 342,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg343.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg343.gif"><br><br>
 
     <div class=spoilers>
 
@@ -7149,7 +7149,7 @@ const pgData = [
         pgNum: 343,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg344.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg344.png"><br><br>
 
     <div class=spoilers>
 
@@ -7165,7 +7165,7 @@ const pgData = [
         pgNum: 344,
         title: `Butler: Recall the story of the<br>princess and the witch.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg345.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg345.gif"><br><br>
     once upon a time there was a pale queen, and she ruled over a pale kingdom.`,
         authorNotes: "",
     },
@@ -7173,7 +7173,7 @@ const pgData = [
         pgNum: 345,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg346.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg346.gif"><br><br>
     she loved her subjects, and they loved her.`,
         authorNotes: "",
     },
@@ -7181,7 +7181,7 @@ const pgData = [
         pgNum: 346,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg347.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg347.gif"><br><br>
     however, they weren't always a part of this great kingdom.`,
         authorNotes: "",
     },
@@ -7189,7 +7189,7 @@ const pgData = [
         pgNum: 347,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg348.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg348.png"><br><br>
     they must first do Her deeds in their past life.`,
         authorNotes: "",
     },
@@ -7197,7 +7197,7 @@ const pgData = [
         pgNum: 348,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg349.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg349.png"><br><br>
     it was hard work, but they believed in Her cause.`,
         authorNotes: "",
     },
@@ -7205,7 +7205,7 @@ const pgData = [
         pgNum: 349,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=605 src="../img/comics/pg350.gif"><br><br>
+        content: `<img width=650 height=605 src="../public/comics/pg350.gif"><br><br>
     after all they do for Her, they deserve their place in the glorious kingdom.`,
         authorNotes: "",
     },
@@ -7213,7 +7213,7 @@ const pgData = [
         pgNum: 350,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width=650 height=631 src="../img/comics/pg351.gif"><br><br>
+        content: `<img width=650 height=631 src="../public/comics/pg351.gif"><br><br>
     but not if the wicked witch of Leviathan (her own sister!), had anything to say about it!<br><br>
     the witch would steal Her souls away, denying them their chance of ever seeing their beloved kingdom again.`,
         authorNotes: "",
@@ -7222,7 +7222,7 @@ const pgData = [
         pgNum: 351,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="../img/black.png"><br><br>
+        content: `<img src="../public/black.png"><br><br>
     the world came to know the events that followed as "the rapture".`,
         authorNotes: "",
     },
@@ -7237,7 +7237,7 @@ const pgData = [
     <a href="https://mspfa.com/?s=34129&p=357">Click here to skip this section.</a></div></div>
     <br>
 
-    <img width="650" height="650" src="../img/comics/pg352.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg352.png"><br><br>
 
     <div class=spoilers>
 
@@ -7270,7 +7270,7 @@ const pgData = [
         pgNum: 353,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg353.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg353.png"><br><br>
 
     <div class=spoilers>
 
@@ -7303,7 +7303,7 @@ const pgData = [
         pgNum: 354,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg354.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg354.gif"><br><br>
 
     <div class=spoilers>
 
@@ -7317,7 +7317,7 @@ const pgData = [
         pgNum: 355,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg355.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg355.png"><br><br>
 
     <div class=spoilers>
 
@@ -7343,7 +7343,7 @@ const pgData = [
         pgNum: 356,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg356.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg356.png"><br><br>
 
     <div class=spoilers>
 
@@ -7383,14 +7383,14 @@ const pgData = [
         pgNum: 357,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg357.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg357.png">`,
         authorNotes: "",
     },
     {
         pgNum: 358,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg358.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg358.gif"><br><br>
 
     <div class=spoilers>
 
@@ -7417,7 +7417,7 @@ const pgData = [
         pgNum: 359,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg359.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg359.png"><br><br>
     Your name LVII.
     <br><br>
     LVII don't know what means, but it sound like "fifty sevan".
@@ -7439,7 +7439,7 @@ const pgData = [
         pgNum: 360,
         title: `LVII: Fondly regard dirt.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg360.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg360.gif"><br><br>
     Oh, where LVII begin?<br><br>
     It's variety of textures, variety of tastes...
     <br><br>
@@ -7486,14 +7486,14 @@ const pgData = [
         pgNum: 361,
         title: `LVII: Stop holding up the line.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg361.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg361.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 362,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg362.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg362.png"><br><br>
 
     <div class=spoilers>
 
@@ -7540,7 +7540,7 @@ const pgData = [
         pgNum: 363,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg363.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg363.png"><br><br>
 
     <div class=spoilers>
 
@@ -7574,7 +7574,7 @@ const pgData = [
         pgNum: 364,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg364.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg364.png"><br><br>
 
     <div class=spoilers>
 
@@ -7662,7 +7662,7 @@ const pgData = [
         pgNum: 365,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg365.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg365.png"><br><br>
 
     <div class=spoilers>
 
@@ -7676,7 +7676,7 @@ const pgData = [
         pgNum: 366,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg366.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg366.png"><br><br>
 
     <div class=spoilers>
 
@@ -7690,21 +7690,21 @@ const pgData = [
         pgNum: 367,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg366-2.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg366-2.png">`,
         authorNotes: "",
     },
     {
         pgNum: 368,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg367.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg367.png">`,
         authorNotes: "",
     },
     {
         pgNum: 369,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg368.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg368.png"><br><br>
 
     <div class=spoilers>
 
@@ -7762,7 +7762,7 @@ const pgData = [
         pgNum: 370,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg369.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg369.png"><br><br>
 
     <div class=spoilers>
 
@@ -7786,7 +7786,7 @@ const pgData = [
         pgNum: 371,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg370.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg370.png"><br><br>
 
     <div class=spoilers>
 
@@ -7802,7 +7802,7 @@ const pgData = [
         pgNum: 372,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg371.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg371.png"><br><br>
 
     <div class=spoilers>
 
@@ -7858,7 +7858,7 @@ const pgData = [
         pgNum: 373,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg372.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg372.png"><br><br>
 
     <div class=spoilers>
 
@@ -7910,7 +7910,7 @@ const pgData = [
         pgNum: 374,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg373.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg373.png"><br><br>
 
     <div class=spoilers>
 
@@ -7952,7 +7952,7 @@ const pgData = [
         pgNum: 375,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg374.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg374.png"><br><br>
 
     <div class=spoilers>
 
@@ -7980,14 +7980,14 @@ const pgData = [
         pgNum: 376,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg375.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg375.png">`,
         authorNotes: "",
     },
     {
         pgNum: 377,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg376.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg376.png"><br><br>
 
     <div class=spoilers>
 
@@ -8010,7 +8010,7 @@ const pgData = [
         pgNum: 378,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg377.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg377.png"><br><br>
 
     <div class=spoilers>
 
@@ -8060,7 +8060,7 @@ const pgData = [
         pgNum: 379,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg378.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg378.png"><br><br>
 
     <div class=spoilers>
 
@@ -8243,7 +8243,7 @@ const pgData = [
         pgNum: 380,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg379.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg379.png"><br><br>
 
     <div class=spoilers>
 
@@ -8314,7 +8314,7 @@ const pgData = [
         pgNum: 381,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg380.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg380.png"><br><br>
 
     <div class=spoilers>
 
@@ -8332,7 +8332,7 @@ const pgData = [
         pgNum: 382,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg381.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg381.png"><br><br>
 
     <div class=spoilers>
 
@@ -8434,7 +8434,7 @@ const pgData = [
         pgNum: 383,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg382.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg382.png"><br><br>
 
     <div class=spoilers>
 
@@ -8461,7 +8461,7 @@ const pgData = [
         pgNum: 384,
         title: `LVII: Give him a good ol'<br>fashioned fistpump.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg383.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg383.png"><br><br>
 
     <div class=spoilers>
 
@@ -8505,7 +8505,7 @@ const pgData = [
         pgNum: 385,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg384.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg384.png"><br><br>
 
     <div class=spoilers>
 
@@ -8537,7 +8537,7 @@ const pgData = [
         pgNum: 386,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg385.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg385.png"><br><br>
 
     <div class=spoilers>
 
@@ -8561,14 +8561,14 @@ const pgData = [
         pgNum: 387,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg386.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg386.png">`,
         authorNotes: "",
     },
     {
         pgNum: 388,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg387.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg387.png"><br><br>
 
     <div class=spoilers>
 
@@ -8582,7 +8582,7 @@ const pgData = [
         pgNum: 389,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg388.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg388.png"><br><br>
     `,
         authorNotes: "",
     },
@@ -8590,21 +8590,21 @@ const pgData = [
         pgNum: 390,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg389.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg389.png">`,
         authorNotes: "",
     },
     {
         pgNum: 391,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg390.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg390.png">`,
         authorNotes: "",
     },
     {
         pgNum: 392,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg391.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg391.png"><br><br>
 
     <div class=spoilers>
 
@@ -8618,7 +8618,7 @@ const pgData = [
         pgNum: 393,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg392.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg392.png"><br><br>
 
     <div class=spoilers>
 
@@ -8672,7 +8672,7 @@ const pgData = [
         pgNum: 394,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg393.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg393.png"><br><br>
 
     <div class=spoilers>
 
@@ -8686,7 +8686,7 @@ const pgData = [
         pgNum: 395,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg394.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg394.png"><br><br>
 
     <div class=spoilers>
 
@@ -8726,7 +8726,7 @@ const pgData = [
         pgNum: 396,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg395.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg395.png"><br><br>
 
     <div class=spoilers>
 
@@ -8758,7 +8758,7 @@ const pgData = [
         pgNum: 397,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg396.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg396.png"><br><br>
 
     <div class=spoilers>
 
@@ -8778,7 +8778,7 @@ const pgData = [
         pgNum: 398,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg397.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg397.png"><br><br>
 
     <div class=spoilers>
 
@@ -8815,7 +8815,7 @@ const pgData = [
         pgNum: 399,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg398.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg398.png"><br><br>
 
     <div class=spoilers>
 
@@ -8834,7 +8834,7 @@ const pgData = [
         pgNum: 400,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg399.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg399.png"><br><br>
 
     <div class=spoilers>
 
@@ -8846,7 +8846,7 @@ const pgData = [
         pgNum: 401,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg400.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg400.png"><br><br>
 
     <div class=spoilers>
 
@@ -8858,14 +8858,14 @@ const pgData = [
         pgNum: 402,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg401.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg401.png">`,
         authorNotes: "",
     },
     {
         pgNum: 403,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="216" src="../img/comics/pg402.png"><br><br>
+        content: `<img width="650" height="216" src="../public/comics/pg402.png"><br><br>
 
     <div class=spoilers>
 
@@ -8881,14 +8881,14 @@ const pgData = [
         pgNum: 404,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="216" src="../img/comics/pg403.png">`,
+        content: `<img width="650" height="216" src="../public/comics/pg403.png">`,
         authorNotes: "",
     },
     {
         pgNum: 405,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg404.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg404.png"><br><br>
 
     <div class=spoilers>
 
@@ -8900,7 +8900,7 @@ const pgData = [
         pgNum: 406,
         title: `[M] `,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg406.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg406.png"><br><br>
 
     <div class=spoilers>
 
@@ -8917,7 +8917,7 @@ const pgData = [
         pgNum: 407,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="466" src="../img/comics/pg405.png"><br><br>
+        content: `<img width="650" height="466" src="../public/comics/pg405.png"><br><br>
 
     <div class=spoilers>
 
@@ -8931,7 +8931,7 @@ const pgData = [
         pgNum: 408,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg407.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg407.png"><br><br>
 
     <div class=spoilers>
 
@@ -8947,7 +8947,7 @@ const pgData = [
         pgNum: 409,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg408.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg408.png"><br><br>
 
     <div class=spoilers>
 
@@ -8964,7 +8964,7 @@ const pgData = [
         pgNum: 410,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg409.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg409.png"><br><br>
 
     <div class=spoilers>
 
@@ -8976,7 +8976,7 @@ const pgData = [
         pgNum: 411,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg410.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg410.png"><br><br>
 
     <div class=spoilers>
 
@@ -9015,7 +9015,7 @@ const pgData = [
         pgNum: 412,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg411.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg411.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9033,7 +9033,7 @@ const pgData = [
         pgNum: 413,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg412.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg412.png"><br><br>
 
     <div class=spoilers>
 
@@ -9074,7 +9074,7 @@ const pgData = [
         pgNum: 414,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg413.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg413.png"><br><br>
 
     <div class=spoilers>
 
@@ -9124,7 +9124,7 @@ const pgData = [
         pgNum: 415,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg414.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg414.png"><br><br>
 
     <div class=spoilers>
 
@@ -9159,14 +9159,14 @@ const pgData = [
         pgNum: 416,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg415.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg415.png">`,
         authorNotes: "",
     },
     {
         pgNum: 417,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg416.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg416.png"><br><br>
 
     <div class=spoilers>
 
@@ -9178,7 +9178,7 @@ const pgData = [
         pgNum: 418,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg417.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg417.png"><br><br>
 
     <div class=spoilers>
 
@@ -9195,7 +9195,7 @@ const pgData = [
         pgNum: 419,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg418.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg418.png"><br><br>
 
     <div class=spoilers>
 
@@ -9250,7 +9250,7 @@ const pgData = [
         pgNum: 420,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg419.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg419.png"><br><br>
 
     <div class=spoilers>
 
@@ -9268,7 +9268,7 @@ const pgData = [
         pgNum: 421,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg420.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg420.png"><br><br>
 
     <div class=spoilers>
 
@@ -9281,35 +9281,35 @@ const pgData = [
         pgNum: 422,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg421.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg421.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 423,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg422.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg422.png">`,
         authorNotes: "",
     },
     {
         pgNum: 424,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg423.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg423.png">`,
         authorNotes: "",
     },
     {
         pgNum: 425,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg424.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg424.png">`,
         authorNotes: "",
     },
     {
         pgNum: 426,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg425.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg425.gif"><br><br>
     <div class=giant><shake intensity=12>SNAP!</div></div>`,
         authorNotes: "",
     },
@@ -9317,7 +9317,7 @@ const pgData = [
         pgNum: 427,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg426.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg426.png"><br><br>
 
     <div class=spoilers>
 
@@ -9330,7 +9330,7 @@ const pgData = [
         pgNum: 428,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg427.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg427.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9345,7 +9345,7 @@ const pgData = [
         pgNum: 429,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg428.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg428.png"><br><br>
 
     <div class=spoilers>
 
@@ -9358,14 +9358,14 @@ const pgData = [
         pgNum: 430,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg429.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg429.png">`,
         authorNotes: "",
     },
     {
         pgNum: 431,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg430.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg430.png"><br><br>
 
     <div class=spoilers>
 
@@ -9390,7 +9390,7 @@ const pgData = [
         pgNum: 432,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg431.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg431.png"><br><br>
 
     <div class=spoilers>
 
@@ -9403,7 +9403,7 @@ const pgData = [
         pgNum: 433,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg432.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg432.png"><br><br>
 
     <div class=spoilers>
 
@@ -9416,7 +9416,7 @@ const pgData = [
         pgNum: 434,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg433.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg433.png"><br><br>
 
     <div class=spoilers>
 
@@ -9431,7 +9431,7 @@ const pgData = [
         pgNum: 435,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg434.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg434.png"><br><br>
 
     <div class=spoilers>
 
@@ -9454,7 +9454,7 @@ const pgData = [
         pgNum: 436,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg435.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg435.png"><br><br>
 
     <div class=spoilers>
 
@@ -9497,7 +9497,7 @@ const pgData = [
         pgNum: 437,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg437.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg437.png"><br><br>
 
     <div class=spoilers>
 
@@ -9523,7 +9523,7 @@ const pgData = [
         pgNum: 438,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg436.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg436.png"><br><br>
 
     <div class=spoilers>
 
@@ -9563,7 +9563,7 @@ const pgData = [
         pgNum: 439,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg439.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg439.png"><br><br>
 
     <div class=spoilers>
 
@@ -9588,7 +9588,7 @@ const pgData = [
         pgNum: 440,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg438.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg438.png"><br><br>
 
     <div class=spoilers>
 
@@ -9601,14 +9601,14 @@ const pgData = [
         pgNum: 441,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg440-2.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg440-2.png">`,
         authorNotes: "",
     },
     {
         pgNum: 442,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg440.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg440.png"><br><br>
 
     <div class=spoilers>
 
@@ -9621,14 +9621,14 @@ const pgData = [
         pgNum: 443,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg440-2.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg440-2.png">`,
         authorNotes: "",
     },
     {
         pgNum: 444,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg441.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg441.png"><br><br>
 
     <div class=spoilers>
 
@@ -9641,56 +9641,56 @@ const pgData = [
         pgNum: 445,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg442.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg442.png">`,
         authorNotes: "",
     },
     {
         pgNum: 446,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg439.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg439.png">`,
         authorNotes: "",
     },
     {
         pgNum: 447,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg444.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg444.png">`,
         authorNotes: "",
     },
     {
         pgNum: 448,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg445.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg445.png">`,
         authorNotes: "",
     },
     {
         pgNum: 449,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg449.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg449.png">`,
         authorNotes: "",
     },
     {
         pgNum: 450,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg450.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg450.png">`,
         authorNotes: "",
     },
     {
         pgNum: 451,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg451.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg451.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 452,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg452.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg452.png"><br><br>
 
     <div class=spoilers>
 
@@ -9712,7 +9712,7 @@ const pgData = [
         pgNum: 453,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg453.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg453.png"><br><br>
 
     <div class=spoilers>
 
@@ -9728,7 +9728,7 @@ const pgData = [
         pgNum: 454,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg454.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg454.png"><br><br>
 
     <div class=spoilers>
 
@@ -9744,7 +9744,7 @@ const pgData = [
         pgNum: 455,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg455.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg455.png"><br><br>
 
     <div class=spoilers>
 
@@ -9763,7 +9763,7 @@ const pgData = [
         pgNum: 456,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg456.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg456.png"><br><br>
 
     <div class=spoilers>
 
@@ -9781,7 +9781,7 @@ const pgData = [
         pgNum: 457,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg457.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg457.gif"><br><br>
 
     <div class=spoilers>
 
@@ -9794,7 +9794,7 @@ const pgData = [
         pgNum: 458,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg458.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg458.png"><br><br>
 
     <div class=spoilers>
 
@@ -9834,7 +9834,7 @@ const pgData = [
         pgNum: 459,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg459.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg459.png"><br><br>
 
     <div class=spoilers>
 
@@ -9846,7 +9846,7 @@ const pgData = [
         pgNum: 460,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg460.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg460.png"><br><br>
     As if it were an instinct, you drop to your knees...`,
         authorNotes: "",
     },
@@ -9854,7 +9854,7 @@ const pgData = [
         pgNum: 461,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg461.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg461.png"><br><br>
     ...and clasp your hands tightly in prayer.`,
         authorNotes: "",
     },
@@ -9862,7 +9862,7 @@ const pgData = [
         pgNum: 462,
         title: `LVII: Pray.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg462.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg462.png"><br><br>
     The same prayer that you've prayed all your life.
     <br><br>
     Never has She answered.
@@ -9874,7 +9874,7 @@ const pgData = [
         pgNum: 463,
         title: `Camille: Hear her.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg463.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg463.png"><br><br>
 
     <div class=spoilers>
 
@@ -9900,7 +9900,7 @@ const pgData = [
         pgNum: 464,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg464.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg464.png"><br><br>
 
     <div class=spoilers>
 
@@ -9926,7 +9926,7 @@ const pgData = [
         pgNum: 465,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg465.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg465.png"><br><br>
 
     <div class=spoilers>
 
@@ -9953,7 +9953,7 @@ const pgData = [
         pgNum: 466,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg466.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg466.png"><br><br>
 
     <div class=spoilers>
 
@@ -9971,14 +9971,14 @@ const pgData = [
         pgNum: 467,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg467.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg467.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 468,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg468.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg468.png"><br><br>
 
     <div class=spoilers>
 
@@ -10061,7 +10061,7 @@ const pgData = [
         pgNum: 469,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg469.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg469.png"><br><br>
 
     <div class=spoilers>
 
@@ -10108,7 +10108,7 @@ const pgData = [
         pgNum: 470,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg470.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg470.png"><br><br>
 
     <div class=spoilers>
 
@@ -10123,7 +10123,7 @@ const pgData = [
         pgNum: 471,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg471.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg471.png"><br><br>
 
     <div class=spoilers>
 
@@ -10135,14 +10135,14 @@ const pgData = [
         pgNum: 472,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg472.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg472.png">`,
         authorNotes: "",
     },
     {
         pgNum: 473,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg473.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg473.png"><br><br>
 
     <div class=spoilers>
 
@@ -10161,7 +10161,7 @@ const pgData = [
     </div>
     <br><br>
 
-    <img width="650" height="650" src="../img/comics/pg474.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg474.png"><br><br>
 
     <div class=spoilers>
 
@@ -10176,7 +10176,7 @@ const pgData = [
         pgNum: 474,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg475.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg475.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10188,14 +10188,14 @@ const pgData = [
         pgNum: 475,
         title: `[M] `,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg475.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg475.png">`,
         authorNotes: "",
     },
     {
         pgNum: 476,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg476.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg476.png"><br><br>
 
     <div class=spoilers>
 
@@ -10240,7 +10240,7 @@ const pgData = [
         pgNum: 477,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg477.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg477.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10276,7 +10276,7 @@ const pgData = [
         pgNum: 478,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg478.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg478.png"><br><br>
 
     <div class=spoilers>
 
@@ -10311,7 +10311,7 @@ const pgData = [
         pgNum: 479,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg479.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg479.png"><br><br>
 
     <div class=spoilers>
 
@@ -10342,7 +10342,7 @@ const pgData = [
         pgNum: 480,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg480.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg480.png"><br><br>
 
     <div class=spoilers>
 
@@ -10373,7 +10373,7 @@ const pgData = [
         pgNum: 481,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg481.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg481.png"><br><br>
 
     <div class=spoilers>
 
@@ -10402,14 +10402,14 @@ const pgData = [
         pgNum: 482,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg482.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg482.png">`,
         authorNotes: "",
     },
     {
         pgNum: 483,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg483.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg483.gif"><br><br>
     <div class=huge><shake intensity=5>SQUELCH!</div></div>`,
         authorNotes: "",
     },
@@ -10417,7 +10417,7 @@ const pgData = [
         pgNum: 484,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg484.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg484.png"><br><br>
 
     <div class=spoilers>
 
@@ -10434,35 +10434,35 @@ const pgData = [
         pgNum: 485,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg485.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg485.png">`,
         authorNotes: "",
     },
     {
         pgNum: 486,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg486.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg486.png">`,
         authorNotes: "",
     },
     {
         pgNum: 487,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg487.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg487.png">`,
         authorNotes: "",
     },
     {
         pgNum: 488,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg488.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg488.png">`,
         authorNotes: "",
     },
     {
         pgNum: 489,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg489.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg489.png"><br><br>
 
     <div class=spoilers>
 
@@ -10474,21 +10474,21 @@ const pgData = [
         pgNum: 490,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img src="../img/comics/pg490.gif">`,
+        content: `<img src="../public/comics/pg490.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 491,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg491.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg491.png">`,
         authorNotes: "",
     },
     {
         pgNum: 492,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg492.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg492.png"><br><br>
 
     <div class=spoilers>
 
@@ -10504,7 +10504,7 @@ const pgData = [
         pgNum: 493,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg493.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg493.png"><br><br>
 
     <div class=spoilers>
 
@@ -10512,7 +10512,7 @@ const pgData = [
     Too....
     </div>
     <br>
-    <img width="650" height="650" src="../img/comics/pg493-2.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg493-2.png"><br><br>
 
     <div class=spoilers>
     <div class=title>LILITH</div>
@@ -10527,7 +10527,7 @@ const pgData = [
         pgNum: 494,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg494.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg494.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10540,28 +10540,28 @@ const pgData = [
         pgNum: 495,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg495.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg495.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 496,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg496.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg496.png">`,
         authorNotes: "",
     },
     {
         pgNum: 497,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg497.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg497.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 498,
         title: `IX: Wake up.`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg498.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg498.png"><br><br>
 
     <div class=spoilers>
 
@@ -10579,7 +10579,7 @@ const pgData = [
         pgNum: 499,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg499.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg499.png"><br><br>
 
     <div class=spoilers>
 
@@ -10594,7 +10594,7 @@ const pgData = [
         pgNum: 500,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg500.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg500.png"><br><br>
 
     <div class=spoilers>
 
@@ -10625,7 +10625,7 @@ const pgData = [
         pgNum: 501,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg501.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg501.gif"><br><br>
 
     <div class=spoilers>
 
@@ -10665,7 +10665,7 @@ const pgData = [
         pgNum: 502,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg503.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg503.png"><br><br>
 
     <div class=spoilers>
 
@@ -10711,7 +10711,7 @@ const pgData = [
         pgNum: 503,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg506.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg506.png"><br><br>
 
     <div class=spoilers>
 
@@ -10757,7 +10757,7 @@ const pgData = [
         pgNum: 504,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg505.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg505.png"><br><br>
 
     <div class=spoilers>
 
@@ -10798,7 +10798,7 @@ const pgData = [
         pgNum: 505,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg504.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg504.png"><br><br>
 
     <div class=spoilers>
 
@@ -10850,7 +10850,7 @@ const pgData = [
         pgNum: 506,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg507.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg507.png"><br><br>
 
     <div class=spoilers>
 
@@ -10881,7 +10881,7 @@ const pgData = [
         pgNum: 507,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg508.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg508.png"><br><br>
 
     <div class=spoilers>
 
@@ -10897,7 +10897,7 @@ const pgData = [
         pgNum: 508,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg509.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg509.png"><br><br>
 
     <div class=spoilers>
 
@@ -10921,7 +10921,7 @@ const pgData = [
         pgNum: 509,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg510.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg510.png"><br><br>
 
     <div class=spoilers>
 
@@ -10958,7 +10958,7 @@ const pgData = [
         pgNum: 510,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg511.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg511.png"><br><br>
 
     <div class=spoilers>
 
@@ -10979,7 +10979,7 @@ const pgData = [
         pgNum: 511,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg512.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg512.png"><br><br>
 
     <div class=spoilers>
 
@@ -10995,7 +10995,7 @@ const pgData = [
         pgNum: 512,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg513.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg513.png"><br><br>
 
     <div class=spoilers>
 
@@ -11007,7 +11007,7 @@ const pgData = [
         pgNum: 513,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg514.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg514.png"><br><br>
 
     <div class=spoilers>
 
@@ -11036,7 +11036,7 @@ const pgData = [
         pgNum: 514,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg515.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg515.png"><br><br>
 
     <div class=spoilers>
 
@@ -11082,7 +11082,7 @@ const pgData = [
         pgNum: 515,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg516.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg516.png"><br><br>
 
     <div class=spoilers>
 
@@ -11099,7 +11099,7 @@ const pgData = [
         pgNum: 516,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg517.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg517.png"><br><br>
     Silently, IX grabs a hold of her wing and helps himself up, slinging his arm around her shoulder.
     <br><br>
 
@@ -11124,7 +11124,7 @@ const pgData = [
         pgNum: 517,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg518.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg518.png"><br><br>
 
     <div class=spoilers>
 
@@ -11148,7 +11148,7 @@ const pgData = [
         pgNum: 518,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg519.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg519.png"><br><br>
 
     <div class=spoilers>
 
@@ -11189,7 +11189,7 @@ const pgData = [
         pgNum: 519,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg520.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg520.png"><br><br>
 
     <div class=spoilers>
 
@@ -11212,7 +11212,7 @@ const pgData = [
         pgNum: 520,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg521.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg521.png"><br><br>
 
     <div class=spoilers>
 
@@ -11234,7 +11234,7 @@ const pgData = [
         pgNum: 521,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg522.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg522.png"><br><br>
 
     <div class=spoilers>
 
@@ -11265,7 +11265,7 @@ const pgData = [
         pgNum: 522,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg523.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg523.png"><br><br>
 
     <div class=spoilers>
 
@@ -11288,7 +11288,7 @@ const pgData = [
         pgNum: 523,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg524.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg524.png"><br><br>
 
     <div class=spoilers>
 
@@ -11308,7 +11308,7 @@ const pgData = [
     This section contains visually and vocally implied child birth/oviposition.
     <br><br>
     <a href="/?pg=529">Click here to skip this section.</a></div></div><br>
-    <img width="650" height="650" src="../img/comics/pg525.png"><br><br>
+    <img width="650" height="650" src="../public/comics/pg525.png"><br><br>
 
     <div class=spoilers>
 
@@ -11344,7 +11344,7 @@ const pgData = [
         pgNum: 525,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg526.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg526.png"><br><br>
     She begs and grovels at Her feet, to no response.
     <br><br>
 
@@ -11367,7 +11367,7 @@ const pgData = [
         pgNum: 526,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg527.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg527.png"><br><br>
     She fights back her urge to puke, as her sharp teeth cut into the thick branch that muffles her screams of pain.
     <br><br>
 
@@ -11390,14 +11390,14 @@ const pgData = [
         pgNum: 527,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg528.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg528.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 528,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg529.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg529.png"><br><br>
 
     <div class=spoilers>
 
@@ -11421,14 +11421,14 @@ const pgData = [
         pgNum: 529,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg530.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg530.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 530,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg531.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg531.png"><br><br>
 
     <div class=spoilers>
 
@@ -11442,7 +11442,7 @@ const pgData = [
         pgNum: 531,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg532.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg532.png"><br><br>
     Her arms extend meekly, in a fight with the ground.
     <br><br>
     Her hands tremble passionately, but reach out to grab a soft, firm hold on her kin.
@@ -11460,7 +11460,7 @@ const pgData = [
         pgNum: 532,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg533.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg533.png"><br><br>
 
     <div class=spoilers>
 
@@ -11474,14 +11474,14 @@ const pgData = [
         pgNum: 533,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg534.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg534.png">`,
         authorNotes: "",
     },
     {
         pgNum: 534,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg534.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg534.png"><br><br>
 
     <div class=spoilers>
 
@@ -11493,7 +11493,7 @@ const pgData = [
         pgNum: 535,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg535.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg535.png"><br><br>
 
     <div class=spoilers>
 
@@ -11511,7 +11511,7 @@ const pgData = [
         pgNum: 536,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg536.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg536.png"><br><br>
 
     <div class=spoilers>
 
@@ -11525,7 +11525,7 @@ const pgData = [
         pgNum: 537,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg537.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg537.png"><br><br>
 
     <div class=spoilers>
 
@@ -11541,7 +11541,7 @@ const pgData = [
         pgNum: 538,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg538.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg538.png"><br><br>
 
     <div class=spoilers>
 
@@ -11575,7 +11575,7 @@ const pgData = [
         pgNum: 539,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg539.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg539.png"><br><br>
 
     <div class=spoilers>
 
@@ -11605,7 +11605,7 @@ const pgData = [
         pgNum: 540,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg540.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg540.gif"><br><br>
     Godsmack is speechless, almost frozen in horror at the sight of LVII and her spilled blood.
     <br><br>
 
@@ -11645,7 +11645,7 @@ const pgData = [
         pgNum: 541,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg541.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg541.png"><br><br>
     Suddenly, he snaps back to reality, remembering he has to play his character.
     <br><br>
 
@@ -11689,7 +11689,7 @@ const pgData = [
         pgNum: 542,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg542.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg542.png"><br><br>
     LVII's outburst startles him at first, but, determined to keep his composure in front of the audience of admittedly more brutal adversaries, pretends like he doesn't understand her words.
     <br><br>
     Bringing himself to a hushed whisper, he responds:<br><br>
@@ -11722,7 +11722,7 @@ const pgData = [
         pgNum: 543,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg543.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg543.gif"><br><br>
     She's too weak to even attempt a struggle, and she assumes that Godsmack notices this instantly, as her posture changes from aggressive to protective, as he places his hands on her egg. Her voice quivers as she speaks:<br><br>
 
     <div class=spoilers>
@@ -11783,7 +11783,7 @@ const pgData = [
         pgNum: 544,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg544.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg544.png"><br><br>
 
     <div class=spoilers>
 
@@ -11805,14 +11805,14 @@ const pgData = [
         pgNum: 545,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg545.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg545.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 546,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg546.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg546.png"><br><br>
 
     <div class=spoilers>
 
@@ -11837,7 +11837,7 @@ const pgData = [
         pgNum: 547,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg547.png"><br><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg547.png"><br><br><br>
 
     <div class=center>...floating...</div>`,
         authorNotes: "",
@@ -11846,7 +11846,7 @@ const pgData = [
         pgNum: 548,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg548.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg548.png"><br><br>
 
     <div class=spoilers>
 
@@ -11866,7 +11866,7 @@ const pgData = [
         pgNum: 549,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg549.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg549.png"><br><br>
 
     <div class=spoilers>
 
@@ -11896,7 +11896,7 @@ const pgData = [
         pgNum: 550,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg549-2.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg549-2.png"><br><br>
 
     <div class=spoilers>
 
@@ -11919,7 +11919,7 @@ const pgData = [
         pgNum: 551,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg550.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg550.png"><br><br>
 
     <div class=spoilers>
 
@@ -11959,7 +11959,7 @@ const pgData = [
         pgNum: 552,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg551.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg551.png"><br><br>
 
     <div class=spoilers>
 
@@ -11971,7 +11971,7 @@ const pgData = [
         pgNum: 553,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg552.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg552.gif"><br><br>
 
     <div class=spoilers>
 
@@ -11987,7 +11987,7 @@ const pgData = [
         pgNum: 554,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg553.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg553.png"><br><br>
 
     <div class=spoilers>
 
@@ -12001,7 +12001,7 @@ const pgData = [
         pgNum: 555,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg554.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg554.png"><br><br>
 
     <div class=spoilers>
 
@@ -12050,7 +12050,7 @@ const pgData = [
         pgNum: 556,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg555.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg555.png"><br><br>
 
     <div class=spoilers>
 
@@ -12062,7 +12062,7 @@ const pgData = [
         pgNum: 557,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg556.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg556.png"><br><br>
 
     <div class=spoilers>
 
@@ -12074,7 +12074,7 @@ const pgData = [
         pgNum: 558,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg557.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg557.png"><br><br>
 
     <div class=spoilers>
 
@@ -12107,7 +12107,7 @@ const pgData = [
         pgNum: 559,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg558.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg558.png"><br><br>
 
     <div class=spoilers>
 
@@ -12151,7 +12151,7 @@ const pgData = [
         pgNum: 560,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg559.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg559.png"><br><br>
 
     <div class=spoilers>
 
@@ -12207,7 +12207,7 @@ const pgData = [
         pgNum: 561,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg560.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg560.png"><br><br>
 
     <div class=spoilers>
 
@@ -12244,7 +12244,7 @@ const pgData = [
         pgNum: 562,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg561.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg561.png"><br><br>
 
     <div class=spoilers>
 
@@ -12282,7 +12282,7 @@ const pgData = [
         pgNum: 563,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg562.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg562.png"><br><br>
 
     <div class=spoilers>
 
@@ -12311,203 +12311,203 @@ const pgData = [
         pgNum: 564,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg563.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg563.png">`,
         authorNotes: "",
     },
     {
         pgNum: 565,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg564.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg564.png">`,
         authorNotes: "",
     },
     {
         pgNum: 566,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg565.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg565.png">`,
         authorNotes: "",
     },
     {
         pgNum: 567,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg566.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg566.png">`,
         authorNotes: "",
     },
     {
         pgNum: 568,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg567.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg567.png">`,
         authorNotes: "",
     },
     {
         pgNum: 569,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg568.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg568.png">`,
         authorNotes: "",
     },
     {
         pgNum: 570,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg569.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg569.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 571,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg570.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg570.png">`,
         authorNotes: "",
     },
     {
         pgNum: 572,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg571.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg571.png">`,
         authorNotes: "",
     },
     {
         pgNum: 573,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg572.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg572.png">`,
         authorNotes: "",
     },
     {
         pgNum: 574,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg573.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg573.png">`,
         authorNotes: "",
     },
     {
         pgNum: 575,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg574.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg574.png">`,
         authorNotes: "",
     },
     {
         pgNum: 576,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg575.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg575.png">`,
         authorNotes: "",
     },
     {
         pgNum: 577,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg576.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg576.png">`,
         authorNotes: "",
     },
     {
         pgNum: 578,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg577.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg577.png">`,
         authorNotes: "",
     },
     {
         pgNum: 579,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg578.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg578.png">`,
         authorNotes: "",
     },
     {
         pgNum: 580,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg579.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg579.png">`,
         authorNotes: "",
     },
     {
         pgNum: 581,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg580.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg580.png">`,
         authorNotes: "",
     },
     {
         pgNum: 582,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg581.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg581.png">`,
         authorNotes: "",
     },
     {
         pgNum: 583,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg582.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg582.png">`,
         authorNotes: "",
     },
     {
         pgNum: 584,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg583.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg583.png">`,
         authorNotes: "",
     },
     {
         pgNum: 585,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg584.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg584.png">`,
         authorNotes: "",
     },
     {
         pgNum: 586,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg585.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg585.png">`,
         authorNotes: "",
     },
     {
         pgNum: 587,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg586.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg586.png">`,
         authorNotes: "",
     },
     {
         pgNum: 588,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg587.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg587.png">`,
         authorNotes: "",
     },
     {
         pgNum: 589,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg588.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg588.png">`,
         authorNotes: "",
     },
     {
         pgNum: 590,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg589.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg589.png">`,
         authorNotes: "",
     },
     {
         pgNum: 591,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="1950" src="../img/comics/pg590-2.png">`,
+        content: `<img width="650" height="1950" src="../public/comics/pg590-2.png">`,
         authorNotes: "",
     },
     {
         pgNum: 592,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg592.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg592.png"><br><br>
 
     <div class=spoilers>
 
@@ -12533,7 +12533,7 @@ const pgData = [
         pgNum: 593,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg593.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg593.gif"><br><br>
     A violent bolt of lightning shoots from your fingertips, plunging into the chest of the man assailing you, killing him instantly as his guts explode out the back of his spine.
     <br>
 
@@ -12547,7 +12547,7 @@ const pgData = [
         pgNum: 594,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg594.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg594.png"><br><br>
 
     <div class=spoilers>
 
@@ -12559,14 +12559,14 @@ const pgData = [
         pgNum: 595,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg595.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg595.png">`,
         authorNotes: "",
     },
     {
         pgNum: 596,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg596.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg596.png"><br><br>
     Your name is SOPHIE.`,
         authorNotes: "",
     },
@@ -12574,7 +12574,7 @@ const pgData = [
         pgNum: 597,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg597.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg597.png"><br><br>
     And, as you just learned, you can do magic.
     <br><br>
     At least, that's what you would call it if you could speak.
@@ -12586,7 +12586,7 @@ const pgData = [
         pgNum: 598,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg598.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg598.png"><br><br>
     A door lazily left open tempts you to no end.
     <br><br>
     They didn't believe you could do it.
@@ -12598,7 +12598,7 @@ const pgData = [
         pgNum: 599,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg599.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg599.png"><br><br>
     But here you are.`,
         authorNotes: "",
     },
@@ -12606,7 +12606,7 @@ const pgData = [
         pgNum: 600,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg600.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg600.png"><br><br>
     Your story won't play out like the others.
     <br><br>
     You are NOT a captive.`,
@@ -12616,7 +12616,7 @@ const pgData = [
         pgNum: 601,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg601.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg601.png"><br><br>
     You are... free.`,
         authorNotes: "",
     },
@@ -12624,7 +12624,7 @@ const pgData = [
         pgNum: 602,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg602.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg602.png"><br><br>
     The blinding sun stings as the sudden change in temperature is absorbed through your skin.
     <br><br>
     You can hardly see two feet in front of you, for mere moments, until you finally adjust to the light, and see that this very doorstep is, in fact, your grave.`,
@@ -12634,7 +12634,7 @@ const pgData = [
         pgNum: 603,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg603.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg603.png"><br><br>
 
     <div class=spoilers>
 
@@ -12646,14 +12646,14 @@ const pgData = [
         pgNum: 604,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg604.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg604.png">`,
         authorNotes: "",
     },
     {
         pgNum: 605,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg605.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg605.png"><br><br>
 
     <div class=spoilers>
 
@@ -12671,7 +12671,7 @@ const pgData = [
         pgNum: 606,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg606.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg606.png"><br><br>
 
     <div class=spoilers>
 
@@ -12708,7 +12708,7 @@ const pgData = [
         pgNum: 607,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg607.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg607.png"><br><br>
 
     <div class=spoilers>
 
@@ -12728,7 +12728,7 @@ const pgData = [
         pgNum: 608,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg608.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg608.png"><br><br>
 
     <div class=spoilers>
 
@@ -12740,7 +12740,7 @@ const pgData = [
         pgNum: 609,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg609.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg609.png"><br><br>
 
     <div class=spoilers>
 
@@ -12752,7 +12752,7 @@ const pgData = [
         pgNum: 610,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg610.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg610.png"><br><br>
 
     <div class=spoilers>
 
@@ -12764,7 +12764,7 @@ const pgData = [
         pgNum: 611,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg611.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg611.png"><br><br>
 
     <div class=spoilers>
 
@@ -12776,42 +12776,42 @@ const pgData = [
         pgNum: 612,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg612.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg612.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 613,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg613.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg613.png">`,
         authorNotes: "",
     },
     {
         pgNum: 614,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg614.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg614.png">`,
         authorNotes: "",
     },
     {
         pgNum: 615,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg615.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg615.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 616,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg616.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg616.png">`,
         authorNotes: "",
     },
     {
         pgNum: 617,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg617.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg617.png">`,
         authorNotes: "",
     },
     {
@@ -12825,7 +12825,7 @@ const pgData = [
         pgNum: 619,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg619.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg619.png"><br><br>
 
     <div class=spoilers>
 
@@ -12837,21 +12837,21 @@ const pgData = [
         pgNum: 620,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg620.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg620.png">`,
         authorNotes: "",
     },
     {
         pgNum: 621,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg621.png">`,
+        content: `<img width="650" height="650" src="../public/comics/pg621.png">`,
         authorNotes: "",
     },
     {
         pgNum: 622,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg622.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg622.png"><br><br>
 
     <div class=spoilers>
 
@@ -12873,14 +12873,14 @@ const pgData = [
         pgNum: 623,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg624.gif">`,
+        content: `<img width="650" height="650" src="../public/comics/pg624.gif">`,
         authorNotes: "",
     },
     {
         pgNum: 624,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg623.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg623.png"><br><br>
 
     <div class=spoilers>
 
@@ -12894,7 +12894,7 @@ const pgData = [
         pgNum: 625,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg625.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg625.png"><br><br>
 
     <div class=spoilers>
 
@@ -12949,7 +12949,7 @@ const pgData = [
         pgNum: 626,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg626.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg626.png"><br><br>
 
     <div class=spoilers>
 
@@ -12963,7 +12963,7 @@ const pgData = [
         pgNum: 627,
         title: `END OF PRELUDE II`,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg619.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg619.png"><br><br>
 
     <div class=spoilers>
 
@@ -12996,7 +12996,7 @@ const pgData = [
         The subsequent sections will contain spoilers, both major and minor, for <a href="https://tandrewine.itch.io/monochrome-stage-3">[S] STAGE 3</a>.
         </div></div>
         
-        <img width="650" height="650" src="../img/black.png"><br><br>
+        <img width="650" height="650" src="../public/black.png"><br><br>
         Were they always so... loud?`,
         authorNotes: "",
     },
@@ -13004,14 +13004,14 @@ const pgData = [
         pgNum: 630,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg629.gif"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg629.gif"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 631,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg630.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg630.png"><br><br>
         
         Somewhere, not so far from the very place you stand, a priest preaches hate to an audience of willing participants.
         <br><br>
@@ -13024,7 +13024,7 @@ const pgData = [
         pgNum: 632,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg631.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg631.png"><br><br>
         
         His onlookers, those in the pews, clung onto every word for dear life.
         <br><br>
@@ -13037,7 +13037,7 @@ const pgData = [
         pgNum: 633,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg632.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg632.png"><br><br>
         
         Your look twists in horror.
         <br><br>
@@ -13050,22 +13050,22 @@ const pgData = [
         pgNum: 634,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg634.png"><br><br>
-        <img width="650" height="650" src="../img/comics/pg634-2.png"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg634.png"><br><br>
+        <img width="650" height="650" src="../public/comics/pg634-2.png"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 635,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg635.png"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg635.png"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 636,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg636.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg636.png"><br><br>
         
         Somewhere else, a kakri hunts down and tortures anyone who resembles what were once her captors.
         <br><br>
@@ -13076,7 +13076,7 @@ const pgData = [
         pgNum: 637,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg637.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg637.png"><br><br>
         
         One who had once been wronged herself, now terrorizing innumerable innocent victims.`,
         authorNotes: "",
@@ -13085,7 +13085,7 @@ const pgData = [
         pgNum: 638,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg638.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg638.png"><br><br>
         
         You can't understand.
         <br><br>
@@ -13098,22 +13098,22 @@ const pgData = [
         pgNum: 639,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg639.png"><br><br>
-        <img width="650" height="650" src="../img/comics/pg639-2.png"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg639.png"><br><br>
+        <img width="650" height="650" src="../public/comics/pg639-2.png"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 640,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg640.gif"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg640.gif"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 641,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg641.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg641.png"><br><br>
         
         Somewhere else still, a policewoman, one meant to keep order, takes a large sum of credits as a bribe.
         <br><br>
@@ -13124,7 +13124,7 @@ const pgData = [
         pgNum: 642,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg642.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg642.png"><br><br>
         
         And, while under the influence, she will go on to accidentally kill herself and the widow of a family of three in a traffic accident.`,
         authorNotes: "",
@@ -13133,16 +13133,16 @@ const pgData = [
         pgNum: 643,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg643.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg643.png"><br><br>
         
-        <img width="650" height="650" src="../img/comics/pg644.gif"><br><br>`,
+        <img width="650" height="650" src="../public/comics/pg644.gif"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 644,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg645.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg645.png"><br><br>
         <div class=spoilers>
         <div class=title>CAMILLE</div>
         <div class=big><shake>SOL, WOULD YOU JUST...</shake><br>
@@ -13154,7 +13154,7 @@ const pgData = [
         pgNum: 645,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg646.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg646.png"><br><br>
         <div class=spoilers>
         <div class=title>CAMILLE</div>
         <div class=big><shake intensity="6">YOU CAN'T HEAR THEM</shake><br>
@@ -13166,7 +13166,7 @@ const pgData = [
         pgNum: 646,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg647.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg647.png"><br><br>
 
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13179,7 +13179,7 @@ const pgData = [
         pgNum: 647,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg648.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg648.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13194,7 +13194,7 @@ const pgData = [
         pgNum: 648,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg649.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg649.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13209,7 +13209,7 @@ const pgData = [
         pgNum: 649,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg650.gif"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg650.gif"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13228,7 +13228,7 @@ const pgData = [
         pgNum: 650,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg651.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg651.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13243,7 +13243,7 @@ const pgData = [
         pgNum: 651,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg652.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg652.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13255,7 +13255,7 @@ const pgData = [
         pgNum: 652,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg653.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg653.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13273,7 +13273,7 @@ const pgData = [
         pgNum: 653,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg654.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg654.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13285,7 +13285,7 @@ const pgData = [
         pgNum: 654,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg655.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg655.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13298,7 +13298,7 @@ const pgData = [
         pgNum: 655,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg656.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg656.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13310,7 +13310,7 @@ const pgData = [
         pgNum: 656,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg657.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg657.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13323,7 +13323,7 @@ const pgData = [
         pgNum: 657,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg658.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg658.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13339,7 +13339,7 @@ const pgData = [
         pgNum: 658,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg659.png"><br><br>
+        content: `<img width="650" height="650" src="../public/comics/pg659.png"><br><br>
         
         <div class=spoilers>
         <div class=title>CAMILLE</div>
@@ -13354,14 +13354,14 @@ const pgData = [
         pgNum: 659,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/black.png"><br><br>`,
+        content: `<img width="650" height="650" src="../public/black.png"><br><br>`,
         authorNotes: "",
     },
     {
         pgNum: 660,
         title: ``,
         date: writeDate(2020, 3, 16),
-        content: `<img width="650" height="650" src="../img/comics/pg660.gif"><br><br>`,
+        content: `<img width="650" height="650" src="../public/comics/pg660.gif"><br><br>`,
         authorNotes: "",
     },
 ];

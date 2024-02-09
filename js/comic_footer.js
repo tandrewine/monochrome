@@ -5,6 +5,6 @@ document.querySelector(".writeFooter").innerHTML = `
         <p>comic by <a href="https://twitter.com/100goatz">mango</a></p>
         <input type="checkbox" class="commentaryButton" onclick="toggleCommentary()"><label for="commentaryButton">enable commentary</label>
         <p>bookmarks use cookies</p>
-        <a target="_blank" href="https://rarebit.neocities.org"><img src="img/rarebitlogo_small.png" height = "30" /></a>
+        <a target="_blank" href="https://rarebit.neocities.org"><img src="public/rarebitlogo_small.png" height = "30" /></a>
     </footer>
 `;
