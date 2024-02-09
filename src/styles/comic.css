@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg1.png) !important;
+  background-image: url("/backgrounds/bg1.png") !important;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -9,23 +9,23 @@ BACKGROUND IMAGES
 */
 
 .p15-46 body {
-  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg2.png) !important;
+  background-image: url("/backgrounds/bg2.png") !important;
 }
 
 .p52-91 body{
-  background-image: url(https://file.garden/XmR1CF1bbgcDmBMx/bg3-4.png) !important;
+  background-image: url("/backgrounds/bg3.png") !important;
 }
 
 .p92-120 body{
-  background-image: url(/backgrounds/bg2.png) !important;
+  background-image: url("/backgrounds/bg2.png") !important;
 }
 
 .p121-144 body{
-  background-image: url(/backgrounds/bg1.png) !important;
+  background-image: url("/backgrounds/bg1.png") !important;
 }
 
 .p145-149 body{
-  background-image: url(/backgrounds/bg2.png) !important;
+  background-image: url("/backgrounds/bg2.png") !important;
 }
 
 .p150-185 body{
