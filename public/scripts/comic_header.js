@@ -6,10 +6,10 @@ document.querySelector(".writeHeader").innerHTML = `
 
         <div id="nav">
             <a href="/">HOME</a>
-            <a href="/map.html">MAP</a>
-            <a href="/archive.html">ARCHIVE</a>
+            <a href="/pages/map.html">MAP</a>
+            <a href="/pages/archive.html">ARCHIVE</a>
             <a target="_blank" href="https://discord.gg/tTfQbEp">DISCORD</a>
-            <a href="/credits.html">CREDITS</a>
+            <a href="/pages/credits.html">CREDITS</a>
         </div>
     </header>
 `;
